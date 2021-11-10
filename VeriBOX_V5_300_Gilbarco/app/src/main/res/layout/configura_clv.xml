@@ -18,37 +18,37 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="200dp"
+                android:layout_marginTop="@dimen/margin_100"
                 android:text="CONFIGURACION"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:textSize="50dp" />
+                android:textSize="@dimen/textSize_25" />
 
             <LinearLayout
-                android:layout_width="655dp"
+                android:layout_width="@dimen/layout_325"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="20dp" >
+                android:layout_marginTop="@dimen/margin_10" >
 
                 <Button
                     android:id="@+id/button1"
-                    android:layout_width="120dp"
-                    android:layout_height="120dp"
+                    android:layout_width="@dimen/layout_60"
+                    android:layout_height="@dimen/layout_60"
                     android:background="@drawable/logout"
                     android:onClick="fin"
-                    android:textSize="30dp" />
+                    android:textSize="@dimen/textSize_15" />
 
                 <TextView
                     android:id="@+id/strXYmsj"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="25dp"
+                    android:layout_marginLeft="@dimen/margin_10"
                     android:text="@string/pide_pas"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="30sp" />
+                    android:textSize="@dimen/textSize_15" />
 
                 <EditText
                     android:id="@+id/editText1"
-                    android:layout_width="222dp"
+                    android:layout_width="@dimen/layout_120"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:ems="10"
@@ -59,15 +59,15 @@
 					android:nextFocusLeft="@id/editText1"
 					android:nextFocusRight="@id/editText1"
 					android:nextFocusUp="@id/editText1"
-                    android:textSize="50dp" />
+                    android:textSize="@dimen/textSize_25" />
 
                 <Button
                     android:id="@+id/button2"
-                    android:layout_width="120dp"
-                    android:layout_height="120dp"
+                    android:layout_width="@dimen/layout_60"
+                    android:layout_height="@dimen/layout_60"
                     android:background="@drawable/login"
                     android:onClick="enter"
-                    android:textSize="30dp" />
+                    android:textSize="@dimen/textSize_15" />
             </LinearLayout>
 
             <TextView
@@ -75,10 +75,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="80dp"
+                android:layout_marginTop="@dimen/margin_40"
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:textColor="#D50000"
-                android:textSize="80dp" />
+                android:textSize="@dimen/textSize_40" />
 
         </LinearLayout>
 

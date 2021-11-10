@@ -474,13 +474,13 @@ myTextBox.setInputType(InputType.TYPE_NULL);
  msImpNoRs = false;
  lee_user();
 
- if (!servidor_ok){
-	 obtiene_mac();
-	 msj(">La terminal VeriBOX no esta\nconfigurada, consulte a su\nCentro de Servicio.\nMAC: "+address+">0>3>4>5>6>7>");
- }else{
-	 msj(">Arrancando VeriBOX...>2>3>4>5>6>7>");
- }
-//	obtiene_mac();
+// if (!servidor_ok){
+//	 obtiene_mac();
+//	 msj(">La terminal VeriBOX no esta\nconfigurada, consulte a su\nCentro de Servicio.\nMAC: "+address+">0>3>4>5>6>7>");
+// }else{
+//	 msj(">Arrancando VeriBOX...>2>3>4>5>6>7>");
+// }
+	obtiene_mac();
  
  inicia0 = false;
  try
@@ -3691,6 +3691,10 @@ public void kiosco(View view) {
 	startActivity(i);
 	//finish();
 	}
+
+    public void prueba(View view) {
+		setContentView(R.layout.flotilla2);
+    }
 
 //FUNCIONES DE BLUETOOTH
 /** Thread used to connect to a specified Bluetooth Device */

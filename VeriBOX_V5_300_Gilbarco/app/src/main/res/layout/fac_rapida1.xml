@@ -16,50 +16,50 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="140dp" >
+                android:layout_height="@dimen/layout_70" >
 
                 <Button
                     android:id="@+id/button3"
-                    android:layout_width="@dimen/imagen_gnr"
-                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_25"
                     android:layout_marginLeft="10dp"
                     android:background="@drawable/home"
                     android:onClick="fin"
-                    android:textSize="40dp" />
+                    android:textSize="@dimen/textSize_20" />
 
                 <LinearLayout
-                    android:layout_width="790dp"
+                    android:layout_width="@dimen/layout_400"
                     android:layout_height="wrap_content"
                     android:layout_weight="0.76"
                     android:orientation="vertical" >
 
                     <Button
                         android:id="@+id/button5"
-                        android:layout_width="@dimen/boton_opc"
+                        android:layout_width="@dimen/layout_150"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginTop="30dp"
                         android:onClick="fin"
                         android:text="FACTURA"
-                        android:textSize="@dimen/boton_opc_letra" />
+                        android:textSize="@dimen/textSize_15" />
                 </LinearLayout>
 
                 <ImageView
                     android:id="@+id/imageView1"
-                    android:layout_width="@dimen/imagen_gnr"
-                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_25"
                     android:layout_marginTop="10dp"
                     android:src="@drawable/pos" />
 
                 <TextView
                     android:id="@+id/textView2"
-                    android:layout_width="110dp"
+                    android:layout_width="@dimen/layout_50"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
                     android:text="32"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="@dimen/num_pos" />
+                    android:textSize="@dimen/textSize_35" />
 
             </LinearLayout>
 
@@ -75,10 +75,10 @@
 
                     <Button
                         android:id="@+id/teclado"
-                        android:layout_width="100dp"
-                        android:layout_height="80dp"
+                        android:layout_width="@dimen/layout_50"
+                        android:layout_height="@dimen/layout_40"
                         android:layout_marginLeft="20dp"
-                        android:layout_marginTop="@dimen/tamano_30"
+                        android:layout_marginTop="@dimen/margin_15"
                         android:background="@drawable/teclado"
                         android:onClick="teclado" />
                 </LinearLayout>
@@ -90,7 +90,7 @@
                     android:layout_gravity="center_vertical|center_horizontal"
                     android:text=" XAXX010101000"
                     android:textColor="@android:color/holo_red_dark"
-                    android:textSize="@dimen/tamanoT_90"
+                    android:textSize="@dimen/textSize_25"
                     android:visibility="invisible" />
 
                 <LinearLayout
@@ -98,12 +98,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="30dp">
+                    android:layout_marginTop="@dimen/margin_15">
 
                     <ScrollView
                         android:id="@+id/scrollView2"
-                        android:layout_width="644dp"
-                        android:layout_height="300dp">
+                        android:layout_width="@dimen/layout_325"
+                        android:layout_height="@dimen/layout_150">
 
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -117,11 +117,11 @@
 
                                 <TextView
                                     android:id="@+id/textView3"
-                                    android:layout_width="220dp"
+                                    android:layout_width="@dimen/layout_150"
                                     android:layout_height="wrap_content"
                                     android:text="RFC"
                                     android:textAppearance="?android:attr/textAppearanceLarge"
-                                    android:textSize="30dp" />
+                                    android:textSize="@dimen/textSize_15" />
 
                                 <EditText
                                     android:id="@+id/editText_ref"
@@ -137,7 +137,7 @@
 
                                     <EditText
                                         android:id="@+id/editText1"
-                                        android:layout_width="420sp"
+                                        android:layout_width="@dimen/layout_210"
                                         android:layout_height="wrap_content"
                                         android:maxLength="13"
                                         android:nextFocusLeft="@id/editText1"
@@ -145,14 +145,14 @@
                                         android:nextFocusUp="@id/editText1"
                                         android:singleLine="true"
                                         android:text=""
-                                        android:textSize="30dp" />
+                                        android:textSize="@dimen/textSize_15" />
 
                                     <TextView
                                         android:id="@+id/textView4"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:text=""
-                                        android:textSize="30dp" />
+                                        android:textSize="@dimen/textSize_15" />
 
 
                                 </FrameLayout>
@@ -166,11 +166,11 @@
 
                                 <TextView
                                     android:id="@+id/textView9"
-                                    android:layout_width="220dp"
+                                    android:layout_width="@dimen/layout_110"
                                     android:layout_height="wrap_content"
                                     android:text="Correo: "
                                     android:textAppearance="?android:attr/textAppearanceLarge"
-                                    android:textSize="30dp" />
+                                    android:textSize="@dimen/textSize_15" />
 
                                 <FrameLayout
                                     android:layout_width="wrap_content"
@@ -178,7 +178,7 @@
 
                                     <EditText
                                         android:id="@+id/editText4"
-                                        android:layout_width="420dp"
+                                        android:layout_width="@dimen/layout_210"
                                         android:layout_height="wrap_content"
                                         android:ems="20"
                                         android:inputType="textEmailAddress"
@@ -186,7 +186,7 @@
                                         android:nextFocusRight="@id/editText4"
                                         android:nextFocusUp="@id/editText4"
                                         android:singleLine="true"
-                                        android:textSize="30dp">
+                                        android:textSize="@dimen/textSize_15">
 
                                     </EditText>
 
@@ -196,7 +196,7 @@
                                         android:layout_height="wrap_content"
                                         android:ems="40"
                                         android:textAppearance="?android:attr/textAppearanceLarge"
-                                        android:textSize="30dp" />
+                                        android:textSize="@dimen/textSize_15" />
                                 </FrameLayout>
                             </LinearLayout>
 
@@ -206,11 +206,11 @@
 
                                 <TextView
                                     android:id="@+id/textView6"
-                                    android:layout_width="220dp"
+                                    android:layout_width="@dimen/layout_110"
                                     android:layout_height="wrap_content"
                                     android:text="Razón  Social: "
                                     android:textAppearance="?android:attr/textAppearanceLarge"
-                                    android:textSize="30dp" />
+                                    android:textSize="@dimen/textSize_15" />
 
                                 <FrameLayout
                                     android:layout_width="wrap_content"
@@ -218,13 +218,13 @@
 
                                     <EditText
                                         android:id="@+id/editText2"
-                                        android:layout_width="420dp"
+                                        android:layout_width="@dimen/layout_210"
                                         android:layout_height="wrap_content"
                                         android:nextFocusLeft="@id/editText2"
                                         android:nextFocusRight="@id/editText2"
                                         android:singleLine="true"
                                         android:text=""
-                                        android:textSize="30dp" />
+                                        android:textSize="@dimen/textSize_15" />
 
                                     <TextView
                                         android:id="@+id/textView1"
@@ -242,11 +242,11 @@
 
                                 <TextView
                                     android:id="@+id/textView7"
-                                    android:layout_width="220dp"
+                                    android:layout_width="@dimen/layout_110"
                                     android:layout_height="wrap_content"
                                     android:text="Codigo Postal: "
                                     android:textAppearance="?android:attr/textAppearanceLarge"
-                                    android:textSize="30dp" />
+                                    android:textSize="@dimen/textSize_15" />
 
                                 <FrameLayout
                                     android:layout_width="wrap_content"
@@ -254,7 +254,7 @@
 
                                     <EditText
                                         android:id="@+id/editText3"
-                                        android:layout_width="420dp"
+                                        android:layout_width="@dimen/layout_210"
                                         android:layout_height="wrap_content"
                                         android:inputType="number"
                                         android:maxLength="5"
@@ -262,7 +262,7 @@
                                         android:nextFocusRight="@id/editText2"
                                         android:singleLine="true"
                                         android:text=""
-                                        android:textSize="30dp" />
+                                        android:textSize="@dimen/textSize_15" />
 
                                     <TextView
                                         android:id="@+id/textView22"
@@ -281,11 +281,11 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView7"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="Direción: "
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                                                android:textSize="30dp" />
+                                                                android:textSize="@dimen/textSize_15" />
 
                                                             <FrameLayout
                                                                 android:layout_width="wrap_content"
@@ -299,7 +299,7 @@
                                                                     android:nextFocusRight="@id/editText3"
                                                                     android:singleLine="true"
                                                                     android:text=""
-                                                                    android:textSize="30dp" />
+                                                                    android:textSize="@dimen/textSize_15" />
 
                                                                 <TextView
                                                                     android:id="@+id/textView8"
@@ -307,7 +307,7 @@
                                                                     android:layout_height="wrap_content"
                                                                     android:text=""
                                                                     android:textAppearance="?android:attr/textAppearanceLarge"
-                                                                    android:textSize="30dp" />
+                                                                    android:textSize="@dimen/textSize_15" />
                                                             </FrameLayout>
 
                                                         </LinearLayout>
@@ -319,11 +319,11 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView18"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="No. Int."
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                                                android:textSize="30dp" />
+                                                                android:textSize="@dimen/textSize_15" />
 
                                                             <FrameLayout
                                                                 android:layout_width="wrap_content"
@@ -350,7 +350,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView19"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="No. Ext.:"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -378,7 +378,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView20"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="Colonia.:"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -407,7 +407,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView27"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="Localidad"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -436,7 +436,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView21"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="Referencia"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -465,7 +465,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView22"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="Municipio"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -494,7 +494,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView23"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="Estado:"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -523,7 +523,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView24"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="País:"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -553,7 +553,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView25"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="C.P.:"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -584,7 +584,7 @@
 
                                                             <TextView
                                                                 android:id="@+id/textView26"
-                                                                android:layout_width="220dp"
+                                                                android:layout_width="@dimen/layout_110"
                                                                 android:layout_height="wrap_content"
                                                                 android:text="Telefono:"
                                                                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -621,7 +621,7 @@
                         android:layout_marginLeft="50dp"
                         android:text="0000"
                         android:textColor="@android:color/black"
-                        android:textSize="@dimen/tamano_20" />
+                        android:textSize="@dimen/textSize_10" />
 
                 </LinearLayout>
             </FrameLayout>
@@ -629,34 +629,34 @@
             <LinearLayout
                 android:id="@+id/botones"
                 android:layout_width="wrap_content"
-                android:layout_height="115dp"
+                android:layout_height="@dimen/layout_60"
                 android:layout_gravity="center_horizontal">
 
                 <Button
                     android:id="@+id/button2"
-                    android:layout_width="@dimen/imagen_gnr"
-                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_25"
                     android:background="@drawable/back"
                     android:onClick="atras"
-                    android:textSize="50dp" />
+                    android:textSize="@dimen/textSize_25" />
 
                 <Button
                     android:id="@+id/button4"
-                    android:layout_width="@dimen/imagen_gnr"
-                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_25"
                     android:layout_marginLeft="150dp"
                     android:background="@drawable/edit"
                     android:onClick="editar" />
 
                 <Button
                     android:id="@+id/button1"
-                    android:layout_width="@dimen/imagen_gnr"
-                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_25"
                     android:layout_marginLeft="150dp"
                     android:background="@drawable/check"
                     android:focusable="true"
                     android:onClick="ok"
-                    android:textSize="50dp" />
+                    android:textSize="@dimen/textSize_25" />
 
             </LinearLayout>
 

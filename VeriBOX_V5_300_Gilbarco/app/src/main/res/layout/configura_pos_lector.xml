@@ -20,12 +20,12 @@
 
                 <Button
                     android:id="@+id/button2"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginLeft="25dp"
+                    android:layout_width="@dimen/layout_50"
+                    android:layout_height="@dimen/layout_50"
+                    android:layout_marginLeft="@dimen/margin_15"
                     android:background="@drawable/back"
                     android:onClick="cerrar"
-                    android:textSize="50dp" />
+                    android:textSize="@dimen/textSize_25" />
 
                 <TextView
                     android:id="@+id/textView1"
@@ -35,18 +35,18 @@
                     android:gravity="center_vertical|center_horizontal"
                     android:text="POSICIÓN - LECTOR"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="50dp" />
+                    android:textSize="@dimen/textSize_25" />
 
                 <Button
                     android:id="@+id/button1"
-                    android:layout_width="80dp"
-                    android:layout_height="80dp"
-                    android:layout_marginLeft="25dp"
-                    android:layout_marginRight="25dp"
-                    android:layout_marginTop="10dp"
+                    android:layout_width="@dimen/layout_40"
+                    android:layout_height="@dimen/layout_40"
+                    android:layout_marginLeft="@dimen/margin_15"
+                    android:layout_marginRight="@dimen/margin_15"
+                    android:layout_marginTop="@dimen/margin_5"
                     android:background="@drawable/guardar"
                     android:onClick="guardar"
-                    android:textSize="50dp" />
+                    android:textSize="@dimen/textSize_25" />
 
             </LinearLayout>
 
@@ -62,7 +62,7 @@
                     android:layout_height="match_parent" >
 
                     <LinearLayout
-                        android:layout_width="800dp"
+                        android:layout_width="@dimen/layout_400"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:orientation="vertical">
@@ -78,7 +78,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 01 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button001"
@@ -102,7 +102,7 @@
                                 android:layout_height="wrap_content"
                                 android:text=""
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button002"
@@ -126,7 +126,7 @@
                                 android:layout_height="wrap_content"
                                 android:text=""
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button003"
@@ -150,7 +150,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 04 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button004"
@@ -173,7 +173,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 05 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button005"
@@ -196,7 +196,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 06 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button006"
@@ -219,7 +219,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 07 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button007"
@@ -242,7 +242,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 08 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
                             <Button
                                 android:id="@+id/button008"
                                 android:layout_width="wrap_content"
@@ -264,7 +264,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 09 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button009"
@@ -287,7 +287,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 10 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button010"
@@ -310,7 +310,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 11 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button011"
@@ -333,7 +333,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 12 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button012"
@@ -356,7 +356,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 13 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button013"
@@ -379,7 +379,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 14 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button014"
@@ -402,7 +402,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 15 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button015"
@@ -425,7 +425,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 16 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button016"
@@ -449,7 +449,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 17 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button017"
@@ -472,7 +472,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 18 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button018"
@@ -495,7 +495,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 19 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button019"
@@ -518,7 +518,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 20 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button020"
@@ -541,7 +541,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 21 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button021"
@@ -564,7 +564,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 22 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button022"
@@ -587,7 +587,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 23 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button023"
@@ -610,7 +610,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 24 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button024"
@@ -633,7 +633,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 25 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button025"
@@ -656,7 +656,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 26 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button026"
@@ -679,7 +679,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 27 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button027"
@@ -702,7 +702,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 28 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button028"
@@ -725,7 +725,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 29 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button029"
@@ -748,7 +748,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 30 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button030"
@@ -771,7 +771,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 31 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button031"
@@ -794,7 +794,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="POSICIÓN 32 : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_40" />
+                                android:textSize="@dimen/textSize_10" />
 
                             <Button
                                 android:id="@+id/button032"

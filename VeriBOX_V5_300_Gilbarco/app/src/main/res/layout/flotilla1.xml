@@ -15,38 +15,38 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="150dp" >
+                android:layout_height="@dimen/layout_75" >
 
                 <Button
                     android:id="@+id/button4"
-                    android:layout_width="@dimen/imagen_gnr"
-                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_25"
                     android:layout_marginLeft="10dp"
                     android:background="@drawable/home"
                     android:onClick="fin"
-                    android:textSize="40dp" />
+                    android:textSize="@dimen/textSize_20" />
 
                 <LinearLayout
-                    android:layout_width="790dp"
+                    android:layout_width="@dimen/layout_400"
                     android:layout_height="wrap_content"
                     android:layout_weight="0.02"
                     android:orientation="vertical" >
 
                     <Button
                         android:id="@+id/button5"
-                        android:layout_width="@dimen/boton_opc"
+                        android:layout_width="@dimen/layout_150"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="30dp"
                         android:onClick="fin"
                         android:text="VENTA FLOTILLA"
-                        android:textSize="@dimen/boton_opc_letra" />
+                        android:textSize="@dimen/textSize_15" />
                 </LinearLayout>
 
                 <ImageView
                     android:id="@+id/imageView3"
-                    android:layout_width="@dimen/imagen_gnr"
-                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_25"
                     android:layout_marginTop="10dp"
                     android:src="@drawable/pos" />
 
@@ -60,7 +60,7 @@
                     android:gravity="center"
                     android:text="32"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="@dimen/num_pos" />
+                    android:textSize="@dimen/textSize_35" />
             </LinearLayout>
 
             <LinearLayout
@@ -73,10 +73,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="50dp"
+                    android:layout_marginTop="@dimen/margin_25"
                     android:text="   DESLICE TARJETA O\nIDENTIFIQUE VEHÍCULO"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="30dp" />
+                    android:textSize="@dimen/textSize_15" />
 
                 <FrameLayout
                     android:layout_width="match_parent"
@@ -89,9 +89,9 @@
 
                         <Button
                             android:id="@+id/teclado3"
-                            android:layout_width="@dimen/imagen_gnr_t"
-                            android:layout_height="@dimen/tamano_80"
-                            android:layout_marginLeft="40dp"
+                            android:layout_width="@dimen/layout_25"
+                            android:layout_height="@dimen/layout_20"
+                            android:layout_marginLeft="@dimen/margin_20"
                             android:background="@drawable/teclado"
                             android:onClick="teclado" />
                     </LinearLayout>
@@ -100,7 +100,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_gravity="center_horizontal"
-                        android:layout_marginTop="50dp"
+                        android:layout_marginTop="@dimen/margin_25"
                         android:orientation="horizontal">
 
                         <FrameLayout
@@ -114,7 +114,7 @@
 
                                 <EditText
                                     android:id="@+id/editText1"
-                                    android:layout_width="500dp"
+                                    android:layout_width="@dimen/layout_250"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center_horizontal"
                                     android:ems="10"
@@ -126,7 +126,7 @@
                                     android:nextFocusLeft="@id/editText1"
                                     android:nextFocusRight="@id/editText1"
                                     android:nextFocusUp="@id/editText1"
-                                    android:textSize="50dp" />
+                                    android:textSize="@dimen/textSize_25" />
 
                             </LinearLayout>
 
@@ -137,9 +137,9 @@
 
                                 <EditText
                                     android:id="@+id/editText2"
-                                    android:layout_width="150dp"
+                                    android:layout_width="@dimen/layout_75"
                                     android:layout_height="wrap_content"
-                                    android:layout_marginLeft="270dp"
+                                    android:layout_marginLeft="@dimen/margin_125"
                                     android:ems="10"
                                     android:gravity="center"
                                     android:inputType="numberPassword"
@@ -149,7 +149,7 @@
                                     android:nextFocusLeft="@id/editText2"
                                     android:nextFocusRight="@id/editText2"
                                     android:nextFocusUp="@id/editText2"
-                                    android:textSize="50dp" />
+                                    android:textSize="@dimen/textSize_25" />
 
                             </LinearLayout>
 
@@ -160,7 +160,7 @@
 
                                 <EditText
                                     android:id="@+id/editText3"
-                                    android:layout_width="300dp"
+                                    android:layout_width="@dimen/layout_150"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="right"
                                     android:ems="10"
@@ -172,7 +172,7 @@
                                     android:nextFocusLeft="@id/editText3"
                                     android:nextFocusRight="@id/editText3"
                                     android:nextFocusUp="@id/editText3"
-                                    android:textSize="50dp" />
+                                    android:textSize="@dimen/textSize_25" />
 
                             </LinearLayout>
 
@@ -180,12 +180,12 @@
 
                         <Button
                             android:id="@+id/button6"
-                            android:layout_width="@dimen/imagen_gnr"
-                            android:layout_height="@dimen/imagen_gnr"
-                            android:layout_marginLeft="50dp"
+                            android:layout_width="@dimen/layout_25"
+                            android:layout_height="@dimen/layout_25"
+                            android:layout_marginLeft="@dimen/margin_25"
                             android:background="@drawable/check"
                             android:onClick="ok"
-                            android:textSize="50dp" />
+                            android:textSize="@dimen/textSize_25" />
 
                     </LinearLayout>
                 </FrameLayout>
@@ -202,7 +202,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:text="Conectando. . ."
-                        android:textSize="@dimen/tamano_40" />
+                        android:textSize="@dimen/textSize_10" />
 
                     <TextView
                         android:id="@+id/textView43"
@@ -210,7 +210,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:text="..."
-                        android:textSize="@dimen/tamano_30" />
+                        android:textSize="@dimen/textSize_10" />
                 </LinearLayout>
 
             </LinearLayout>

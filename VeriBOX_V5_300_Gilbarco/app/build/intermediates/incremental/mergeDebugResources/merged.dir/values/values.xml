@@ -1293,29 +1293,50 @@
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
     <dimen name="imagen_gnr">45dp</dimen>
     <dimen name="imagen_gnr_t">50dp</dimen>
+    <dimen name="layout_100">100dp</dimen>
+    <dimen name="layout_110">110dp</dimen>
+    <dimen name="layout_12">12dp</dimen>
+    <dimen name="layout_120">120dp</dimen>
+    <dimen name="layout_135">135dp</dimen>
     <dimen name="layout_150">150dp</dimen>
-    <dimen name="layout_190">190dp</dimen>
-    <dimen name="layout_310">310dp</dimen>
+    <dimen name="layout_170">170dp</dimen>
+    <dimen name="layout_20">20dp</dimen>
+    <dimen name="layout_200">200dp</dimen>
+    <dimen name="layout_210">210dp</dimen>
+    <dimen name="layout_225">225dp</dimen>
+    <dimen name="layout_25">25dp</dimen>
+    <dimen name="layout_250">250dp</dimen>
+    <dimen name="layout_30">30dp</dimen>
+    <dimen name="layout_300">300dp</dimen>
+    <dimen name="layout_325">325dp</dimen>
     <dimen name="layout_35">35dp</dimen>
-    <dimen name="layout_435">435dp</dimen>
+    <dimen name="layout_40">40dp</dimen>
+    <dimen name="layout_400">400dp</dimen>
+    <dimen name="layout_430">430dp</dimen>
     <dimen name="layout_45">45dp</dimen>
+    <dimen name="layout_50">50dp</dimen>
     <dimen name="layout_60">60dp</dimen>
-    <dimen name="layout_68">68dp</dimen>
+    <dimen name="layout_70">70dp</dimen>
     <dimen name="layout_75">75dp</dimen>
+    <dimen name="layout_80">80dp</dimen>
     <dimen name="layout_85">85dp</dimen>
     <dimen name="letra_config1">15dp</dimen>
     <dimen name="letra_config2">10dp</dimen>
     <dimen name="letra_user1">20dp</dimen>
     <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
     <dimen name="margin_125">125dp</dimen>
-    <dimen name="margin_13">13dp</dimen>
     <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_150">150dp</dimen>
     <dimen name="margin_20">20dp</dimen>
     <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
     <dimen name="margin_45">45dp</dimen>
     <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
     <dimen name="margin_65">65dp</dimen>
-    <dimen name="margin_7">7dp</dimen>
     <dimen name="notification_action_icon_size">32dp</dimen>
     <dimen name="notification_action_text_size">13sp</dimen>
     <dimen name="notification_big_circle_margin">12dp</dimen>
@@ -1344,12 +1365,17 @@
     <dimen name="tamano_70">35dp</dimen>
     <dimen name="tamano_80">40dp</dimen>
     <dimen name="tamano_90">45dp</dimen>
+    <dimen name="textSize_10">10dp</dimen>
     <dimen name="textSize_100">100dp</dimen>
     <dimen name="textSize_13">13dp</dimen>
     <dimen name="textSize_135">135dp</dimen>
     <dimen name="textSize_15">15dp</dimen>
+    <dimen name="textSize_20">20dp</dimen>
     <dimen name="textSize_25">25dp</dimen>
     <dimen name="textSize_30">30dp</dimen>
+    <dimen name="textSize_35">35dp</dimen>
+    <dimen name="textSize_40">40dp</dimen>
+    <dimen name="textSize_45">45dp</dimen>
     <dimen name="textSize_50">50dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
@@ -1683,7 +1709,13 @@
             backward-compatibility can go here.
         -->
     </style>
-    <style name="AppTheme" parent="AppBaseTheme">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#47EE00</item>
+        <item name="colorPrimaryDark">#36B300</item>
+        <item name="colorAccent">#03DA52</item>
+        <item name="android:colorButtonNormal">#03DA52</item>
+        <item name="android:textColor">#214C31</item>
+
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
