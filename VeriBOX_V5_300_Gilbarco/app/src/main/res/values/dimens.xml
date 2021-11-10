@@ -7,18 +7,16 @@
     <dimen name="layout_35">35dp</dimen>
     <dimen name="layout_45">45dp</dimen>
     <dimen name="layout_60">60dp</dimen>
-    <dimen name="layout_68">68dp</dimen>
+    <dimen name="layout_70">70dp</dimen>
     <dimen name="layout_75">75dp</dimen>
     <dimen name="layout_85">85dp</dimen>
     <dimen name="layout_150">150dp</dimen>
-    <dimen name="layout_190">190dp</dimen>
-    <dimen name="layout_310">310dp</dimen>
-    <dimen name="layout_435">435dp</dimen>
+    <dimen name="layout_200">200dp</dimen>
+    <dimen name="layout_300">300dp</dimen>
+    <dimen name="layout_430">430dp</dimen>
 
     <dimen name="margin_5">5dp</dimen>
-    <dimen name="margin_7">7dp</dimen>
     <dimen name="margin_10">10dp</dimen>
-    <dimen name="margin_13">13dp</dimen>
     <dimen name="margin_15">15dp</dimen>
     <dimen name="margin_20">20dp</dimen>
     <dimen name="margin_25">25dp</dimen>
