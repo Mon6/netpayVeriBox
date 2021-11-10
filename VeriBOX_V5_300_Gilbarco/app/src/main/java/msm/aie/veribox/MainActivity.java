@@ -3692,6 +3692,10 @@ public void kiosco(View view) {
 	//finish();
 	}
 
+    public void prueba(View view) {
+		setContentView(R.layout.fac_rapida1_msj);
+    }
+
 //FUNCIONES DE BLUETOOTH
 /** Thread used to connect to a specified Bluetooth Device */
 public class ConnectThread extends Thread {

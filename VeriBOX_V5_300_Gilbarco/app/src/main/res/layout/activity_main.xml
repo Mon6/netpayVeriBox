@@ -261,6 +261,20 @@
             android:textColor="#D50000"
             android:textSize="75dp" />
 
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right|bottom"
+            android:layout_marginBottom="60dp"
+            android:layout_marginRight="130dp"
+            android:text="PRUEBA"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textColor="#FF5722"
+            android:onClick="prueba"
+            android:background="@color/ripple_material_light"
+            />
+
         <!---
         <TextView
             android:id="@+id/strXY"
