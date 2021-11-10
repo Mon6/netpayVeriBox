@@ -3,8 +3,9 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
 
     <!--    TODO -> DIMENCIONES MOVIL-->
-    <!--    TODO -> LAYOUT YA MODIFICADOS    activity_main - configura - configura_cvl - gerente-->
+    <!--    TODO -> LAYOUT YA MODIFICADOS    activity_main - configura - configura_cvl - gerente - gerente_cvl-->
 
+    <dimen name="layout_12">12dp</dimen>
     <dimen name="layout_35">35dp</dimen>
     <dimen name="layout_40">40dp</dimen>
     <dimen name="layout_45">45dp</dimen>
@@ -15,6 +16,7 @@
     <dimen name="layout_80">80dp</dimen>
     <dimen name="layout_85">85dp</dimen>
     <dimen name="layout_120">120dp</dimen>
+    <dimen name="layout_135">135dp</dimen>
     <dimen name="layout_150">150dp</dimen>
     <dimen name="layout_200">200dp</dimen>
     <dimen name="layout_225">225dp</dimen>
@@ -28,6 +30,8 @@
     <dimen name="margin_15">15dp</dimen>
     <dimen name="margin_20">20dp</dimen>
     <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
     <dimen name="margin_40">40dp</dimen>
     <dimen name="margin_45">45dp</dimen>
     <dimen name="margin_50">50dp</dimen>
@@ -42,6 +46,7 @@
     <dimen name="textSize_20">20dp</dimen>
     <dimen name="textSize_25">25dp</dimen>
     <dimen name="textSize_30">30dp</dimen>
+    <dimen name="textSize_35">35dp</dimen>
     <dimen name="textSize_40">40dp</dimen>
     <dimen name="textSize_45">45dp</dimen>
     <dimen name="textSize_50">50dp</dimen>
