@@ -395,6 +395,7 @@ dimen imagen_gnr_t
 dimen layout_120
 dimen layout_150
 dimen layout_200
+dimen layout_225
 dimen layout_300
 dimen layout_325
 dimen layout_35
@@ -406,6 +407,7 @@ dimen layout_50
 dimen layout_60
 dimen layout_70
 dimen layout_75
+dimen layout_80
 dimen layout_85
 dimen letra_config1
 dimen letra_config2
@@ -414,6 +416,7 @@ dimen margin_10
 dimen margin_100
 dimen margin_125
 dimen margin_15
+dimen margin_150
 dimen margin_20
 dimen margin_25
 dimen margin_40
@@ -454,9 +457,11 @@ dimen textSize_100
 dimen textSize_13
 dimen textSize_135
 dimen textSize_15
+dimen textSize_20
 dimen textSize_25
 dimen textSize_30
 dimen textSize_40
+dimen textSize_45
 dimen textSize_50
 drawable abc_ab_share_pack_holo_dark
 drawable abc_ab_share_pack_holo_light

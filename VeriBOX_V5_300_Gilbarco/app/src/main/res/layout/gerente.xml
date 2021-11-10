@@ -60,7 +60,7 @@
                             android:layout_width="@dimen/layout_120"
                             android:layout_height="wrap_content"
                             android:text="Fuera de Servicio"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <Spinner
                             android:id="@+id/spinner1"
@@ -74,7 +74,7 @@
                             android:layout_height="wrap_content"
                             android:text="TODAS"
                             android:onClick="cam1"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <EditText
                             android:id="@+id/editText1"
@@ -110,7 +110,7 @@
                             android:layout_width="@dimen/layout_120"
                             android:layout_height="wrap_content"
                             android:text="En Servicio"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <Spinner
                             android:id="@+id/spinner2"
@@ -123,7 +123,7 @@
                             android:layout_height="wrap_content"
                             android:onClick="cam2"
                             android:text="TODAS"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <EditText
                             android:id="@+id/editText2"
@@ -155,7 +155,7 @@
                             android:layout_width="@dimen/layout_120"
                             android:layout_height="wrap_content"
                             android:text="Cambio de Turno"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <Spinner
                             android:id="@+id/spinner4"
@@ -168,7 +168,7 @@
                             android:layout_height="wrap_content"
                             android:onClick="cam3"
                             android:text="T1"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <Spinner
                             android:id="@+id/spinner3"
@@ -182,7 +182,7 @@
                             android:layout_marginLeft="@dimen/margin_10"
                             android:onClick="cam4"
                             android:text="TODAS"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <EditText
                             android:id="@+id/editText3"
@@ -214,7 +214,7 @@
                             android:layout_width="@dimen/layout_225"
                             android:layout_height="wrap_content"
                             android:text="Inventario de Tanques"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <Button
                             android:id="@+id/button4"
@@ -237,7 +237,7 @@
                             android:layout_width="@dimen/layout_120"
                             android:layout_height="wrap_content"
                             android:text="Colecta Parcial"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <Button
                             android:id="@+id/button20"
@@ -245,7 +245,7 @@
                             android:layout_height="wrap_content"
                             android:onClick="cam5"
                             android:text="TODAS"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_15" />
 
                         <EditText
                             android:id="@+id/editText4"
