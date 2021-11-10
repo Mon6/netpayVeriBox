@@ -392,7 +392,9 @@ dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
 dimen imagen_gnr
 dimen imagen_gnr_t
+dimen layout_12
 dimen layout_120
+dimen layout_135
 dimen layout_150
 dimen layout_200
 dimen layout_225
@@ -419,6 +421,8 @@ dimen margin_15
 dimen margin_150
 dimen margin_20
 dimen margin_25
+dimen margin_30
+dimen margin_35
 dimen margin_40
 dimen margin_45
 dimen margin_5
@@ -460,6 +464,7 @@ dimen textSize_15
 dimen textSize_20
 dimen textSize_25
 dimen textSize_30
+dimen textSize_35
 dimen textSize_40
 dimen textSize_45
 dimen textSize_50
