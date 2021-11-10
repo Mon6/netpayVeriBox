@@ -3,9 +3,11 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
 
     <!--    TODO -> DIMENCIONES MOVIL-->
-    <!--    TODO -> LAYOUT YA MODIFICADOS    activity_main - configura - configura_cvl - gerente - gerente_cvl-->
+    <!--    TODO -> LAYOUT YA MODIFICADOS    activity_main - configura - configura_cvl - gerente - gerente_cvl - configura_pos_lector - fac_rapida-->
 
     <dimen name="layout_12">12dp</dimen>
+    <dimen name="layout_20">20dp</dimen>
+    <dimen name="layout_25">25dp</dimen>
     <dimen name="layout_35">35dp</dimen>
     <dimen name="layout_40">40dp</dimen>
     <dimen name="layout_45">45dp</dimen>
@@ -18,8 +20,10 @@
     <dimen name="layout_120">120dp</dimen>
     <dimen name="layout_135">135dp</dimen>
     <dimen name="layout_150">150dp</dimen>
+    <dimen name="layout_170">170dp</dimen>
     <dimen name="layout_200">200dp</dimen>
     <dimen name="layout_225">225dp</dimen>
+    <dimen name="layout_250">250dp</dimen>
     <dimen name="layout_300">300dp</dimen>
     <dimen name="layout_325">325dp</dimen>
     <dimen name="layout_400">400dp</dimen>
