@@ -1,0 +1,1598 @@
+[
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_ok_icono.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/ok_icono.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_gerente_clv.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/gerente_clv.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cir2.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cir2.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_lectores.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/lectores.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_guardar.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/guardar.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_fac_rapida1.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/fac_rapida1.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_textfield_selected.9.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/textfield_selected.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_leeqr.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/leeqr.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_gerente.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/gerente.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_include.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/xml_device_admin.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_factura.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/factura.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_m_azul.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/m_azul.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_check.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/check.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/raw_beep_ace_success.mp3.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/raw/beep_ace_success.mp3"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_pp_azul.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/pp_azul.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_user_pass.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/user_pass.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_scanp1.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/scanp1.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_user.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_login.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_tienda.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/tienda.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cambia_ar.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cambia_ar.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_gerente.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/gerente.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cua2.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cua2.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_scanp2.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/scanp2.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_fac_rapida.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/fac_rapida.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_eliminar.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/eliminar.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_logout.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/logout.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_home.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cua1.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cua1.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_flotilla_rein.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/flotilla_rein.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_back.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_pos.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/pos.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/raw_barcode.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/raw/barcode.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout-v11_abc_screen_content_include.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_blanco.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/blanco.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_edit.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/edit.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_ticket.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/ticket.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_bk.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/ic_launcher_bk.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_oie_png.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/oie_png.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_msj_geren.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/msj_geren.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_fac_rapida1_msj.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/fac_rapida1_msj.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cambia_d.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cambia_d.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_main_ticket.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/main_ticket.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_alerta.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/alerta.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_msj.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/msj.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_edittext_selector.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/edittext_selector.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/raw_bbpos.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/raw/bbpos.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_configura_clv.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/configura_clv.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_conf.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/conf.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_flotilla4.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/flotilla4.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/keyboard.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_back1.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-mdpi/back1.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_metodo_pago.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/metodo_pago.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cambia.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cambia.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cir1.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cir1.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_main_gilbarco.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/main_gilbarco.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_configura_pos_lector.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/configura_pos_lector.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_lector.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/lector.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_preset.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/preset.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/xml_usb_device_filter.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/xml/usb_device_filter.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_descarga.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/descarga.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_c1.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/c1.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_m_verde.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/m_verde.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_teclado.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-mdpi/teclado.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/raw_beep.mp3.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/raw/beep.mp3"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/raw_beep_ace_alert.mp3.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/raw/beep_ace_alert.mp3"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_mas.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/mas.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_like.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/like.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_c2.jpg.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/c2.jpg"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_cambia_ab.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/cambia_ab.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_user_edit.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/user_edit.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_mm_azul.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/mm_azul.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_flotilla1.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/flotilla1.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_qr_scan.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-mdpi/qr_scan.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_m_rojo.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/m_rojo.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_configura.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/configura.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_textfield_pressed.9.png.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/drawable-hdpi/textfield_pressed.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_flotilla2.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/flotilla2.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4c94750cde3c028e472cd80fa2baf61c/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3084dd99407a0a7d49c454c98ea096ae/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/layout_flotilla2_cn.xml.flat",
+        "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/layout/flotilla2_cn.xml"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png"
+    }
+]

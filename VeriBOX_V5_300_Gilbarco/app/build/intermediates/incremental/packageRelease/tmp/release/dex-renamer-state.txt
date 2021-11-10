@@ -1,0 +1,4 @@
+#Mon Nov 08 17:27:32 CST 2021
+base.0=/home/diid4/001 - MOISES/FECHA/005 - NOVIEMBRE/08 NOV/VeriBOX_V5_300_Gilbarco/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="12dp"
+                    android:background="@drawable/back"
+                    android:onClick="fin"
+                    android:textSize="25dp" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.50"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="CONFIGURACION"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="25dp" />
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="12dp"
+                    android:background="@drawable/guardar"
+                    android:onClick="guardar"
+                    android:textSize="25dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal">
+
+                <ScrollView
+                    android:id="@+id/scrollView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent" >
+
+                    <LinearLayout
+                        android:layout_width="390dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView6"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Version : "
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <TextView
+                                android:id="@+id/textView7"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/app_ver"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config2" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/strXYmsj"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="MAC VeriBOX: "
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <TextView
+                                android:id="@+id/textView3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="-"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config2" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="IP servidor: "
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <EditText
+                                android:id="@+id/editText1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:digits="1234567890."
+                                android:ems="10"
+                                android:inputType="number"
+                                android:maxLength="15"
+                                android:text="-"
+                                android:textSize="@dimen/letra_config2"></EditText>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="ID VeriBOX:"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="0dp">
+
+                            <TextView
+                                android:id="@+id/textView16"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Imprimir a VeriBOX:"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner6"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Contraseña GERENTE:"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <EditText
+                                android:id="@+id/editText3"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:ems="10"
+                                android:inputType="numberPassword"
+                                android:maxLength="6"
+                                android:text="-"
+                                android:textSize="@dimen/letra_config2" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/TextView01"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Contraseña SERVICIO:"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <EditText
+                                android:id="@+id/editText4"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:ems="10"
+                                android:inputType="numberPassword"
+                                android:maxLength="6"
+                                android:text="-"
+                                android:textSize="@dimen/letra_config2" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:visibility="invisible">
+
+                            <TextView
+                                android:id="@+id/textView10"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="MAC Puerto Serial"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <EditText
+                                android:id="@+id/editText5"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:ems="10"
+                                android:maxLength="17"
+                                android:singleLine="true"
+                                android:text="-"
+                                android:textSize="@dimen/letra_config2" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:visibility="invisible">
+
+                            <TextView
+                                android:id="@+id/textView11"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="MAC NOMAD 2.0"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <EditText
+                                android:id="@+id/editText6"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:ems="10"
+                                android:inputType="number"
+                                android:text="-"
+                                android:textSize="@dimen/letra_config2" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView12"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Salida Impresora: "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner2"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:textAlignment="center" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:visibility="visible">
+
+                            <TextView
+                                android:id="@+id/textView13"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Asociar Lector:  "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner3"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView14"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Posición Inicial: "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner4"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView15"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Posición Final: "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner5"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView17"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilitar TIENDA: "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner7"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView25"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilitar ACUMULADO DE VENTA: "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner16"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView18"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilita INGRESAR TICKETS (FACTURA): "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner8"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView24"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilita INGRESAR TICKETS (COBRO): "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner15"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView19"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilitar INGRESO OPERADORES: "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner9"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView20"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Solicitar 'FORMA PAGO' en TICKET  "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner10"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView28"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Solicitar 'FORMA PAGO' en FACTURA  "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner11"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView21"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Solicitar USO DE CFDI  "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner14"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView23"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="PAGO BANCARIO  "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner13"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView22"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Pantalla Principal  "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner12"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView26"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilita Gerente - FUERA/EN DE SERVICIO "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner17"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView27"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilita Gerente - CAMBIO DE TURNO "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner18"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView29"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilita Gerente - INVENTARIO DE TANQUES "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner19"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView30"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Habilita Gerente - COLECTA PARCIAL "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner20"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/textView31"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Imprime - LETRA GRANDE "
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textSize="@dimen/letra_config1" />
+
+                        <Spinner
+                            android:id="@+id/spinner21"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/textView32"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Unica Posicion "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textSize="@dimen/letra_config1" />
+
+                            <Spinner
+                                android:id="@+id/spinner22"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <Button
+                                android:id="@+id/button3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:onClick="apagar"
+                                android:text="SALIR A SISTEMA" />
+
+                            <Button
+                                android:id="@+id/button4"
+                                android:layout_width="0dp"
+                                android:layout_height="0dp"
+                                android:onClick="epos"
+                                android:text="ePOS_AIE (Impresora)" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </ScrollView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/button26"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/user"
+                        android:onClick="user" />
+
+                    <Button
+                        android:id="@+id/button27"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/lector"
+                        android:onClick="pos_lec" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!---
+        <TextView
+            android:id="@+id/strXY"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        -->
+
+    </FrameLayout>
+
+</LinearLayout>

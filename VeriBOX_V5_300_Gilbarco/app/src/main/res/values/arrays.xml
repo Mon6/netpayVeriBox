@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="servi_turno" translatable="false">
+		<item>TODAS</item>
+		<item>ISLA   ----></item>
+	</string-array>	
+	<string-array name="corte_turno" translatable="false">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>	
+	<string-array name="ops_sn" translatable="false">
+		<item>SI</item>
+		<item>NO</item>
+	</string-array>	
+	<string-array name="orden_prin" translatable="false">
+		<item>TICKETS</item>
+		<item>PAGO BANCARIO</item>
+	</string-array>	
+	<string-array name="terminal" translatable="false">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+		<item>24</item>
+		<item>25</item>
+		<item>26</item>
+		<item>27</item>
+		<item>28</item>
+		<item>29</item>
+		<item>30</item>
+		<item>31</item>
+		<item>32</item>
+	</string-array>
+	<string-array name="impre" translatable="false">
+	    <item>0.- TPV Verifone</item>
+		<item>1.- USB Directo</item>
+		<item>2.- USB Serial</item>
+		<item>3.- Bluetooth Serial</item>
+		<item>4.- Bluetooth Directo</item>
+		<item>5.- DESHABILITADA</item>
+	</string-array>
+	<string-array name="asocia_lec" translatable="false">
+		<item>- - - -</item>
+		<item>POR POSICIÓN</item>
+		<item>POR USUARIO</item>
+	</string-array>
+		
+	<string-array name="tipo_inter" translatable="false">
+		<item>TPV</item>
+		<item>Kiosko</item>
+		<item>Tabled</item>
+	</string-array>
+	
+	<string-array name="tipo_pago" translatable="false">
+		<item>Contado</item>
+		<item>Tarjeta</item>
+		<item>Tranferencia</item>
+	</string-array>
+	
+	<string-array name="tipo_imp" translatable="false">
+		<item>TPV Verifone</item>
+		<item>Impresora Externa</item>
+	</string-array>
+
+	<string-array name="pagoestado" translatable="false">
+		<item>PRUEBAS</item>
+		<item>PRODUCCION</item>
+	</string-array>
+
+	<string-array name="carpeta" translatable="false">
+		<item>01</item>
+		<item>02</item>
+		<item>03</item>
+		<item>04</item>
+		<item>05</item>
+		<item>06</item>
+		<item>07</item>
+		<item>08</item>
+		<item>09</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+		<item>24</item>
+		<item>25</item>
+		<item>26</item>
+		<item>27</item>
+		<item>28</item>
+		<item>29</item>
+		<item>30</item>
+		<item>31</item>
+		<item>32</item>
+	</string-array>
+	
+</resources>
