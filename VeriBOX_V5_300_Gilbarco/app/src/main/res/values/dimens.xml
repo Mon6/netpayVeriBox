@@ -4,8 +4,9 @@
 
     <!--    TODO -> DIMENCIONES MOVIL-->
     <!--    TODO -> LAYOUT YA MODIFICADOS    activity_main - configura - configura_cvl - gerente - gerente_cvl - configura_pos_lector - fac_rapida-->
-
+    <dimen name="layout_10">10dp</dimen>
     <dimen name="layout_12">12dp</dimen>
+    <dimen name="layout_15">15dp</dimen>
     <dimen name="layout_20">20dp</dimen>
     <dimen name="layout_25">25dp</dimen>
     <dimen name="layout_30">30dp</dimen>
@@ -18,6 +19,7 @@
     <dimen name="layout_75">75dp</dimen>
     <dimen name="layout_80">80dp</dimen>
     <dimen name="layout_85">85dp</dimen>
+    <dimen name="layout_90">90dp</dimen>
     <dimen name="layout_100">100dp</dimen>
     <dimen name="layout_110">110dp</dimen>
     <dimen name="layout_120">120dp</dimen>
@@ -30,8 +32,12 @@
     <dimen name="layout_250">250dp</dimen>
     <dimen name="layout_300">300dp</dimen>
     <dimen name="layout_325">325dp</dimen>
+    <dimen name="layout_350">350dp</dimen>
     <dimen name="layout_400">400dp</dimen>
     <dimen name="layout_430">430dp</dimen>
+
+    <dimen name="layout_600">600dp</dimen>
+    <dimen name="layout_650">650dp</dimen>
 
     <dimen name="margin_5">5dp</dimen>
     <dimen name="margin_10">10dp</dimen>
@@ -44,6 +50,8 @@
     <dimen name="margin_45">45dp</dimen>
     <dimen name="margin_50">50dp</dimen>
     <dimen name="margin_65">65dp</dimen>
+    <dimen name="margin_75">75dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
     <dimen name="margin_100">100dp</dimen>
     <dimen name="margin_125">125dp</dimen>
     <dimen name="margin_150">150dp</dimen>
@@ -58,6 +66,8 @@
     <dimen name="textSize_40">40dp</dimen>
     <dimen name="textSize_45">45dp</dimen>
     <dimen name="textSize_50">50dp</dimen>
+    <dimen name="textSize_60">60dp</dimen>
+    <dimen name="textSize_70">70dp</dimen>
     <dimen name="textSize_100">100dp</dimen>
     <dimen name="textSize_135">135dp</dimen>
 
