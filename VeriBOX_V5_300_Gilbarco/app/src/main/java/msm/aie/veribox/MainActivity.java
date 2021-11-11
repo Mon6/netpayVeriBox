@@ -3693,7 +3693,7 @@ public void kiosco(View view) {
 	}
 
     public void prueba(View view) {
-		setContentView(R.layout.metodo_pago);
+		setContentView(R.layout.preset);
     }
 
 //FUNCIONES DE BLUETOOTH
