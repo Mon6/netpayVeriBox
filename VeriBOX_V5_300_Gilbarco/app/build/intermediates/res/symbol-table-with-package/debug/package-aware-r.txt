@@ -392,11 +392,13 @@ dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
 dimen imagen_gnr
 dimen imagen_gnr_t
+dimen layout_10
 dimen layout_100
 dimen layout_110
 dimen layout_12
 dimen layout_120
 dimen layout_135
+dimen layout_15
 dimen layout_150
 dimen layout_170
 dimen layout_20
