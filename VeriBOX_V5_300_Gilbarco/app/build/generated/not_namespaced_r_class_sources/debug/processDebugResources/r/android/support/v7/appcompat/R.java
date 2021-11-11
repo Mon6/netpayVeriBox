@@ -304,12 +304,12 @@ public final class R {
         public static final int abc_text_size_subtitle_material_toolbar = 0x7f060022;
         public static final int abc_text_size_title_material = 0x7f060023;
         public static final int abc_text_size_title_material_toolbar = 0x7f060024;
-        public static final int dialog_fixed_height_major = 0x7f060030;
-        public static final int dialog_fixed_height_minor = 0x7f060031;
-        public static final int dialog_fixed_width_major = 0x7f060032;
-        public static final int dialog_fixed_width_minor = 0x7f060033;
-        public static final int disabled_alpha_material_dark = 0x7f060034;
-        public static final int disabled_alpha_material_light = 0x7f060035;
+        public static final int dialog_fixed_height_major = 0x7f06002b;
+        public static final int dialog_fixed_height_minor = 0x7f06002c;
+        public static final int dialog_fixed_width_major = 0x7f06002d;
+        public static final int dialog_fixed_width_minor = 0x7f06002e;
+        public static final int disabled_alpha_material_dark = 0x7f06002f;
+        public static final int disabled_alpha_material_light = 0x7f060030;
     }
     public static final class drawable {
         private drawable() {}

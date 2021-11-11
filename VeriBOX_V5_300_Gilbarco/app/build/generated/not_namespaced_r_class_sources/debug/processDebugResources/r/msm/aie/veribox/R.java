@@ -32,7 +32,6 @@ public final class R {
   }
   public static final class attr {
     /**
-     * Custom divider drawable to use for elements in the action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -40,7 +39,6 @@ public final class R {
      */
     public static final int actionBarDivider=0x7f030000;
     /**
-     * Custom item state list drawable background for action bar items.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -48,8 +46,6 @@ public final class R {
      */
     public static final int actionBarItemBackground=0x7f030001;
     /**
-     * Reference to a theme that should be used to inflate popups
-     * shown by widgets in the action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -57,8 +53,6 @@ public final class R {
      */
     public static final int actionBarPopupTheme=0x7f030002;
     /**
-     * Size of the Action Bar, including the contextual
-     * bar used to present Action Modes.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -75,10 +69,6 @@ public final class R {
      */
     public static final int actionBarSize=0x7f030003;
     /**
-     * Reference to a style for the split Action Bar. This style
-     * controls the split component that holds the menu/action
-     * buttons. actionBarStyle is still used for the primary
-     * bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -86,7 +76,6 @@ public final class R {
      */
     public static final int actionBarSplitStyle=0x7f030004;
     /**
-     * Reference to a style for the Action Bar
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -101,7 +90,6 @@ public final class R {
      */
     public static final int actionBarTabBarStyle=0x7f030006;
     /**
-     * Default style for tabs within an action bar
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -116,9 +104,6 @@ public final class R {
      */
     public static final int actionBarTabTextStyle=0x7f030008;
     /**
-     * Reference to a theme that should be used to inflate the
-     * action bar. This will be inherited by any widget inflated
-     * into the action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -126,13 +111,6 @@ public final class R {
      */
     public static final int actionBarTheme=0x7f030009;
     /**
-     * Reference to a theme that should be used to inflate widgets
-     * and layouts destined for the action bar. Most of the time
-     * this will be a reference to the current theme, but when
-     * the action bar has a significantly different contrast
-     * profile than the rest of the activity the difference
-     * can become important. If this is set to @null the current
-     * theme will be used.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -140,7 +118,6 @@ public final class R {
      */
     public static final int actionBarWidgetTheme=0x7f03000a;
     /**
-     * Default action button style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -148,7 +125,6 @@ public final class R {
      */
     public static final int actionButtonStyle=0x7f03000b;
     /**
-     * Default ActionBar dropdown style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -156,9 +132,6 @@ public final class R {
      */
     public static final int actionDropDownStyle=0x7f03000c;
     /**
-     * An optional layout to be used as an action view.
-     * See {@link android.view.MenuItem#setActionView(android.view.View)}
-     * for more info.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -166,8 +139,6 @@ public final class R {
      */
     public static final int actionLayout=0x7f03000d;
     /**
-     * TextAppearance style that will be applied to text that
-     * appears within action menu items.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -175,7 +146,6 @@ public final class R {
      */
     public static final int actionMenuTextAppearance=0x7f03000e;
     /**
-     * Color for text that appears within action menu items.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -186,7 +156,6 @@ public final class R {
      */
     public static final int actionMenuTextColor=0x7f03000f;
     /**
-     * Background drawable to use for action mode UI
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -201,7 +170,6 @@ public final class R {
      */
     public static final int actionModeCloseButtonStyle=0x7f030011;
     /**
-     * Drawable to use for the close action mode button
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -209,7 +177,6 @@ public final class R {
      */
     public static final int actionModeCloseDrawable=0x7f030012;
     /**
-     * Drawable to use for the Copy action button in Contextual Action Bar
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -217,7 +184,6 @@ public final class R {
      */
     public static final int actionModeCopyDrawable=0x7f030013;
     /**
-     * Drawable to use for the Cut action button in Contextual Action Bar
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -225,7 +191,6 @@ public final class R {
      */
     public static final int actionModeCutDrawable=0x7f030014;
     /**
-     * Drawable to use for the Find action button in WebView selection action modes
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -233,7 +198,6 @@ public final class R {
      */
     public static final int actionModeFindDrawable=0x7f030015;
     /**
-     * Drawable to use for the Paste action button in Contextual Action Bar
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -241,7 +205,6 @@ public final class R {
      */
     public static final int actionModePasteDrawable=0x7f030016;
     /**
-     * PopupWindow style to use for action modes when showing as a window overlay.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -249,7 +212,6 @@ public final class R {
      */
     public static final int actionModePopupWindowStyle=0x7f030017;
     /**
-     * Drawable to use for the Select all action button in Contextual Action Bar
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -257,7 +219,6 @@ public final class R {
      */
     public static final int actionModeSelectAllDrawable=0x7f030018;
     /**
-     * Drawable to use for the Share action button in WebView selection action modes
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -265,7 +226,6 @@ public final class R {
      */
     public static final int actionModeShareDrawable=0x7f030019;
     /**
-     * Background drawable to use for action mode UI in the lower split bar
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -280,7 +240,6 @@ public final class R {
      */
     public static final int actionModeStyle=0x7f03001b;
     /**
-     * Drawable to use for the Web Search action button in WebView selection action modes
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -302,24 +261,16 @@ public final class R {
      */
     public static final int actionOverflowMenuStyle=0x7f03001e;
     /**
-     * The name of an optional ActionProvider class to instantiate an action view
-     * and perform operations such as default action for that menu item.
-     * See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
-     * for more info.
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
     public static final int actionProviderClass=0x7f03001f;
     /**
-     * The name of an optional View class to instantiate and use as an
-     * action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
-     * for more info.
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
     public static final int actionViewClass=0x7f030020;
     /**
-     * Default ActivityChooserView style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -327,7 +278,6 @@ public final class R {
      */
     public static final int activityChooserViewStyle=0x7f030021;
     /**
-     * Specifies a background drawable for the action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -335,7 +285,6 @@ public final class R {
      */
     public static final int background=0x7f030022;
     /**
-     * Specifies a background drawable for the bottom component of a split action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -346,7 +295,6 @@ public final class R {
      */
     public static final int backgroundSplit=0x7f030023;
     /**
-     * Specifies a background drawable for a second stacked row of the action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -357,7 +305,6 @@ public final class R {
      */
     public static final int backgroundStacked=0x7f030024;
     /**
-     * The size of the bars when they are parallel to each other
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -387,8 +334,6 @@ public final class R {
      */
     public static final int barrierDirection=0x7f030027;
     /**
-     * A style that may be applied to Buttons placed within a
-     * LinearLayout with the style buttonBarStyle to form a button bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -396,8 +341,6 @@ public final class R {
      */
     public static final int buttonBarButtonStyle=0x7f030028;
     /**
-     * A style that may be applied to horizontal LinearLayouts
-     * to form a button bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -432,7 +375,6 @@ public final class R {
      */
     public static final int circleCrop=0x7f03002c;
     /**
-     * Close button icon
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -440,7 +382,6 @@ public final class R {
      */
     public static final int closeIcon=0x7f03002d;
     /**
-     * Specifies a layout to use for the "close" item at the starting edge.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -448,13 +389,11 @@ public final class R {
      */
     public static final int closeItemLayout=0x7f03002e;
     /**
-     * Text to set as the content description for the collapse button.
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
     public static final int collapseContentDescription=0x7f03002f;
     /**
-     * Icon drawable to use for the collapse button.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -462,59 +401,48 @@ public final class R {
      */
     public static final int collapseIcon=0x7f030030;
     /**
-     * The drawing color for the bars
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int color=0x7f030031;
     /**
-     * Bright complement to the primary branding color. By default, this is the color applied
-     * to framework controls (via colorControlActivated).
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int colorAccent=0x7f030032;
     /**
-     * The color applied to framework buttons in their normal state.
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int colorButtonNormal=0x7f030033;
     /**
-     * The color applied to framework controls in their activated (ex. checked) state.
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int colorControlActivated=0x7f030034;
     /**
-     * The color applied to framework control highlights (ex. ripples, list selectors).
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int colorControlHighlight=0x7f030035;
     /**
-     * The color applied to framework controls in their normal state.
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int colorControlNormal=0x7f030036;
     /**
-     * The primary branding color for the app. By default, this is the color applied to the
-     * action bar background.
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int colorPrimary=0x7f030037;
     /**
-     * Dark variant of the primary branding color. By default, this is the color applied to
-     * the status bar (via statusBarColor) and navigation bar (via navigationBarColor).
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
@@ -538,14 +466,12 @@ public final class R {
      */
     public static final int colorScheme=0x7f030039;
     /**
-     * The color applied to framework switch thumbs in their normal state.
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
     public static final int colorSwitchThumbNormal=0x7f03003a;
     /**
-     * Commit icon shown in the query suggestion row
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -572,8 +498,6 @@ public final class R {
      */
     public static final int content=0x7f03003e;
     /**
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -582,8 +506,6 @@ public final class R {
      */
     public static final int contentInsetEnd=0x7f03003f;
     /**
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -592,8 +514,6 @@ public final class R {
      */
     public static final int contentInsetLeft=0x7f030040;
     /**
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -602,8 +522,6 @@ public final class R {
      */
     public static final int contentInsetRight=0x7f030041;
     /**
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -612,7 +530,6 @@ public final class R {
      */
     public static final int contentInsetStart=0x7f030042;
     /**
-     * Specifies a layout for custom navigation. Overrides navigationMode.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -620,14 +537,11 @@ public final class R {
      */
     public static final int customNavigationLayout=0x7f030043;
     /**
-     * Whether this spinner should mark child views as enabled/disabled when
-     * the spinner itself is enabled/disabled.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int disableChildrenWhenDisabled=0x7f030044;
     /**
-     * Options affecting how the action bar is displayed.
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
      * <colgroup align="left" />
@@ -645,7 +559,6 @@ public final class R {
      */
     public static final int displayOptions=0x7f030045;
     /**
-     * Specifies the drawable used for item dividers.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -653,7 +566,6 @@ public final class R {
      */
     public static final int divider=0x7f030046;
     /**
-     * A drawable that may be used as a horizontal divider between visual elements.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -661,7 +573,6 @@ public final class R {
      */
     public static final int dividerHorizontal=0x7f030047;
     /**
-     * Size of padding on either end of a divider.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -670,7 +581,6 @@ public final class R {
      */
     public static final int dividerPadding=0x7f030048;
     /**
-     * A drawable that may be used as a vertical divider between visual elements.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -678,7 +588,6 @@ public final class R {
      */
     public static final int dividerVertical=0x7f030049;
     /**
-     * The total size of the drawable
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -694,7 +603,6 @@ public final class R {
      */
     public static final int drawerArrowStyle=0x7f03004b;
     /**
-     * ListPopupWindow compatibility
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -702,7 +610,6 @@ public final class R {
      */
     public static final int dropDownListViewStyle=0x7f03004c;
     /**
-     * The preferred item height for dropdown lists.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -711,7 +618,6 @@ public final class R {
      */
     public static final int dropdownListPreferredItemHeight=0x7f03004d;
     /**
-     * EditText background drawable.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -719,7 +625,6 @@ public final class R {
      */
     public static final int editTextBackground=0x7f03004e;
     /**
-     * EditText text foreground color.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -730,7 +635,6 @@ public final class R {
      */
     public static final int editTextColor=0x7f03004f;
     /**
-     * Elevation for the action bar itself
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -751,11 +655,6 @@ public final class R {
      */
     public static final int emptyVisibility=0x7f030051;
     /**
-     * The drawable to show in the button for expanding the activities overflow popup.
-     * <strong>Note:</strong> Clients would like to set this drawable
-     * as a clue about the action the chosen activity will perform. For
-     * example, if share activity is to be chosen the drawable should
-     * give a clue that sharing is to be performed.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -832,7 +731,6 @@ public final class R {
      */
     public static final int fontWeight=0x7f03005b;
     /**
-     * The max gap between the bars when they are parallel to each other
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -841,7 +739,6 @@ public final class R {
      */
     public static final int gapBetweenBars=0x7f03005c;
     /**
-     * Go button icon
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -857,13 +754,11 @@ public final class R {
      */
     public static final int height=0x7f03005e;
     /**
-     * Set true to hide the action bar on a vertical nested scroll of content.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int hideOnContentScroll=0x7f03005f;
     /**
-     * Specifies a drawable to use for the 'home as up' indicator.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -871,7 +766,6 @@ public final class R {
      */
     public static final int homeAsUpIndicator=0x7f030060;
     /**
-     * Specifies a layout to use for the "home" section of the action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -879,7 +773,6 @@ public final class R {
      */
     public static final int homeLayout=0x7f030061;
     /**
-     * Specifies the drawable used for the application icon.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -887,8 +780,6 @@ public final class R {
      */
     public static final int icon=0x7f030062;
     /**
-     * The default state of the SearchView. If true, it will be iconified when not in
-     * use and expanded when clicked.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
@@ -911,7 +802,6 @@ public final class R {
      */
     public static final int imageAspectRatioAdjust=0x7f030065;
     /**
-     * Specifies a style resource to use for an indeterminate progress spinner.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -919,7 +809,6 @@ public final class R {
      */
     public static final int indeterminateProgressStyle=0x7f030066;
     /**
-     * The maximal number of items initially shown in the activity list.
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
@@ -930,8 +819,6 @@ public final class R {
      */
     public static final int isLightTheme=0x7f030068;
     /**
-     * Specifies padding that should be applied to the left and right sides of
-     * system-provided items in the bar.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -940,7 +827,6 @@ public final class R {
      */
     public static final int itemPadding=0x7f030069;
     /**
-     * The layout to use for the search view.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1430,7 +1316,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
@@ -1438,7 +1324,6 @@ public final class R {
      */
     public static final int layout_optimizationLevel=0x7f03009c;
     /**
-     * Drawable used as a background for selected list items.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1453,7 +1338,6 @@ public final class R {
      */
     public static final int listPopupWindowStyle=0x7f03009e;
     /**
-     * The preferred list item height.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1462,7 +1346,6 @@ public final class R {
      */
     public static final int listPreferredItemHeight=0x7f03009f;
     /**
-     * A larger, more robust list item height.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1471,7 +1354,6 @@ public final class R {
      */
     public static final int listPreferredItemHeightLarge=0x7f0300a0;
     /**
-     * A smaller, sleeker list item height.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1480,7 +1362,6 @@ public final class R {
      */
     public static final int listPreferredItemHeightSmall=0x7f0300a1;
     /**
-     * The preferred padding along the left edge of list items.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1489,7 +1370,6 @@ public final class R {
      */
     public static final int listPreferredItemPaddingLeft=0x7f0300a2;
     /**
-     * The preferred padding along the right edge of list items.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1498,7 +1378,6 @@ public final class R {
      */
     public static final int listPreferredItemPaddingRight=0x7f0300a3;
     /**
-     * Specifies the drawable used for the application logo.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1514,15 +1393,11 @@ public final class R {
      */
     public static final int maxButtonHeight=0x7f0300a5;
     /**
-     * When set to true, all children with a weight will be considered having
-     * the minimum size of the largest child. If false, all children are
-     * measured normally.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int measureWithLargestChild=0x7f0300a6;
     /**
-     * The size of the middle bar when top and bottom bars merge into middle bar to form an arrow
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1531,15 +1406,11 @@ public final class R {
      */
     public static final int middleBarArrowSize=0x7f0300a7;
     /**
-     * Text to set as the content description for the navigation button
-     * located at the start of the toolbar.
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
     public static final int navigationContentDescription=0x7f0300a8;
     /**
-     * Icon drawable to use for the navigation button located at
-     * the start of the toolbar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1547,27 +1418,24 @@ public final class R {
      */
     public static final int navigationIcon=0x7f0300a9;
     /**
-     * The type of navigation to use.
      * <p>Must be one of the following constant values.</p>
      * <table>
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>listMode</td><td>1</td><td>The action bar will use a selection list for navigation.</td></tr>
-     * <tr><td>normal</td><td>0</td><td>Normal static title text</td></tr>
-     * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
+     * <tr><td>listMode</td><td>1</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      */
     public static final int navigationMode=0x7f0300aa;
     /**
-     * Whether the popup window should overlap its anchor view.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int overlapAnchor=0x7f0300ab;
     /**
-     * Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1576,7 +1444,6 @@ public final class R {
      */
     public static final int paddingEnd=0x7f0300ac;
     /**
-     * Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1585,7 +1452,6 @@ public final class R {
      */
     public static final int paddingStart=0x7f0300ad;
     /**
-     * The background of a panel when it is inset from the left and right edges of the screen.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1593,7 +1459,6 @@ public final class R {
      */
     public static final int panelBackground=0x7f0300ae;
     /**
-     * Default Panel Menu style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1601,7 +1466,6 @@ public final class R {
      */
     public static final int panelMenuListTheme=0x7f0300af;
     /**
-     * Default Panel Menu width.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1610,7 +1474,6 @@ public final class R {
      */
     public static final int panelMenuListWidth=0x7f0300b0;
     /**
-     * Default PopupMenu style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1618,9 +1481,6 @@ public final class R {
      */
     public static final int popupMenuStyle=0x7f0300b1;
     /**
-     * Reference to a layout to use for displaying a prompt in the dropdown for
-     * spinnerMode="dropdown". This layout must contain a TextView with the id
-     * {@code @android:id/text1} to be populated with the prompt text.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1628,8 +1488,6 @@ public final class R {
      */
     public static final int popupPromptView=0x7f0300b2;
     /**
-     * Reference to a theme that should be used to inflate popups
-     * shown by widgets in the action bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1637,7 +1495,6 @@ public final class R {
      */
     public static final int popupTheme=0x7f0300b3;
     /**
-     * Default PopupWindow style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1645,13 +1502,11 @@ public final class R {
      */
     public static final int popupWindowStyle=0x7f0300b4;
     /**
-     * Whether space should be reserved in layout when an icon is missing.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int preserveIconSpacing=0x7f0300b5;
     /**
-     * Specifies the horizontal padding on either end for an embedded progress bar.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1660,7 +1515,6 @@ public final class R {
      */
     public static final int progressBarPadding=0x7f0300b6;
     /**
-     * Specifies a style resource to use for an embedded progress bar.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1668,7 +1522,6 @@ public final class R {
      */
     public static final int progressBarStyle=0x7f0300b7;
     /**
-     * The prompt to display when the spinner's dialog is shown.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1676,7 +1529,6 @@ public final class R {
      */
     public static final int prompt=0x7f0300b8;
     /**
-     * Background for the section containing the search query
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1684,7 +1536,6 @@ public final class R {
      */
     public static final int queryBackground=0x7f0300b9;
     /**
-     * An optional query hint string to be displayed in the empty query field.
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
@@ -1699,7 +1550,6 @@ public final class R {
      */
     public static final int scopeUris=0x7f0300bb;
     /**
-     * Search icon
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1707,7 +1557,6 @@ public final class R {
      */
     public static final int searchIcon=0x7f0300bc;
     /**
-     * Style for the search query widget.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1715,9 +1564,6 @@ public final class R {
      */
     public static final int searchViewStyle=0x7f0300bd;
     /**
-     * A style that may be applied to buttons or other selectable items
-     * that should react to pressed and focus states, but that do not
-     * have a clear visual border along the edges.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1725,7 +1571,6 @@ public final class R {
      */
     public static final int selectableItemBackground=0x7f0300be;
     /**
-     * Background drawable for borderless standalone items that need focus/pressed states.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1733,32 +1578,21 @@ public final class R {
      */
     public static final int selectableItemBackgroundBorderless=0x7f0300bf;
     /**
-     * How this item should display in the Action Bar, if present.
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>always</td><td>2</td><td>Always show this item in an actionbar, even if it would override
-     * the system's limits of how much stuff to put there. This may make
-     * your action bar look bad on some screens. In most cases you should
-     * use "ifRoom" instead. Mutually exclusive with "ifRoom" and "never".</td></tr>
-     * <tr><td>collapseActionView</td><td>8</td><td>This item's action view collapses to a normal menu
-     * item. When expanded, the action view takes over a
-     * larger segment of its container.</td></tr>
-     * <tr><td>ifRoom</td><td>1</td><td>Show this item in an action bar if there is room for it as determined
-     * by the system. Favor this option over "always" where possible.
-     * Mutually exclusive with "never" and "always".</td></tr>
-     * <tr><td>never</td><td>0</td><td>Never show this item in an action bar, show it in the overflow menu instead.
-     * Mutually exclusive with "ifRoom" and "always".</td></tr>
-     * <tr><td>withText</td><td>4</td><td>When this item is shown as an action in the action bar, show a text
-     * label with it even if it has an icon representation.</td></tr>
+     * <tr><td>always</td><td>2</td><td></td></tr>
+     * <tr><td>collapseActionView</td><td>8</td><td></td></tr>
+     * <tr><td>ifRoom</td><td>1</td><td></td></tr>
+     * <tr><td>never</td><td>0</td><td></td></tr>
+     * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      */
     public static final int showAsAction=0x7f0300c0;
     /**
-     * Setting for which dividers to show.
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
      * <colgroup align="left" />
@@ -1773,19 +1607,16 @@ public final class R {
      */
     public static final int showDividers=0x7f0300c1;
     /**
-     * Whether to draw on/off text.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int showText=0x7f0300c2;
     /**
-     * Whether bars should rotate or not during transition
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int spinBars=0x7f0300c3;
     /**
-     * Default Spinner style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1793,21 +1624,18 @@ public final class R {
      */
     public static final int spinnerDropDownItemStyle=0x7f0300c4;
     /**
-     * Display mode for spinner options.
      * <p>Must be one of the following constant values.</p>
      * <table>
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>dialog</td><td>0</td><td>Spinner options will be presented to the user as a dialog window.</td></tr>
-     * <tr><td>dropdown</td><td>1</td><td>Spinner options will be presented to the user as an inline dropdown
-     * anchored to the spinner widget itself.</td></tr>
+     * <tr><td>dialog</td><td>0</td><td></td></tr>
+     * <tr><td>dropdown</td><td>1</td><td></td></tr>
      * </table>
      */
     public static final int spinnerMode=0x7f0300c5;
     /**
-     * Default Spinner style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1815,19 +1643,16 @@ public final class R {
      */
     public static final int spinnerStyle=0x7f0300c6;
     /**
-     * Whether to split the track and leave a gap for the thumb drawable.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int splitTrack=0x7f0300c7;
     /**
-     * State identifier indicating the popup will be above the anchor.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int state_above_anchor=0x7f0300c8;
     /**
-     * Background for the section containing the action (e.g. voice search)
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1835,7 +1660,6 @@ public final class R {
      */
     public static final int submitBackground=0x7f0300c9;
     /**
-     * Specifies subtitle text used for navigationMode="normal"
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
@@ -1848,7 +1672,6 @@ public final class R {
      */
     public static final int subtitleTextAppearance=0x7f0300cb;
     /**
-     * Specifies a style to use for subtitle text.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1856,7 +1679,6 @@ public final class R {
      */
     public static final int subtitleTextStyle=0x7f0300cc;
     /**
-     * Layout for query suggestion rows
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1864,7 +1686,6 @@ public final class R {
      */
     public static final int suggestionRowLayout=0x7f0300cd;
     /**
-     * Minimum width for the switch component
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1873,7 +1694,6 @@ public final class R {
      */
     public static final int switchMinWidth=0x7f0300ce;
     /**
-     * Minimum space between the switch and caption text
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1882,7 +1702,6 @@ public final class R {
      */
     public static final int switchPadding=0x7f0300cf;
     /**
-     * Default style for the Switch widget.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1890,7 +1709,6 @@ public final class R {
      */
     public static final int switchStyle=0x7f0300d0;
     /**
-     * TextAppearance style for text displayed on the switch thumb.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1898,7 +1716,6 @@ public final class R {
      */
     public static final int switchTextAppearance=0x7f0300d1;
     /**
-     * Present the text in ALL CAPS. This may use a small-caps form when available.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1908,7 +1725,6 @@ public final class R {
      */
     public static final int textAllCaps=0x7f0300d2;
     /**
-     * Text color, typeface, size, and style for the text inside of a popup menu.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1916,7 +1732,6 @@ public final class R {
      */
     public static final int textAppearanceLargePopupMenu=0x7f0300d3;
     /**
-     * The preferred TextAppearance for the primary text of list items.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1924,7 +1739,6 @@ public final class R {
      */
     public static final int textAppearanceListItem=0x7f0300d4;
     /**
-     * The preferred TextAppearance for the primary text of small list items.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1932,7 +1746,6 @@ public final class R {
      */
     public static final int textAppearanceListItemSmall=0x7f0300d5;
     /**
-     * Text color, typeface, size, and style for system search result subtitle. Defaults to primary inverse text color.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1940,7 +1753,6 @@ public final class R {
      */
     public static final int textAppearanceSearchResultSubtitle=0x7f0300d6;
     /**
-     * Text color, typeface, size, and style for system search result title. Defaults to primary inverse text color.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1948,7 +1760,6 @@ public final class R {
      */
     public static final int textAppearanceSearchResultTitle=0x7f0300d7;
     /**
-     * Text color, typeface, size, and style for small text inside of a popup menu.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1956,7 +1767,6 @@ public final class R {
      */
     public static final int textAppearanceSmallPopupMenu=0x7f0300d8;
     /**
-     * Text color for urls in search suggestions, used by things like global search
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1967,10 +1777,6 @@ public final class R {
      */
     public static final int textColorSearchUrl=0x7f0300d9;
     /**
-     * Specifies a theme override for a view. When a theme override is set, the
-     * view will be inflated using a {@link android.content.Context} themed with
-     * the specified resource. During XML inflation, any child views under the
-     * view with a theme override will inherit the themed context.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -1978,7 +1784,6 @@ public final class R {
      */
     public static final int theme=0x7f0300da;
     /**
-     * The thickness (stroke size) for the bar paint
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -1987,7 +1792,6 @@ public final class R {
      */
     public static final int thickness=0x7f0300db;
     /**
-     * Amount of padding on either side of text within the switch thumb.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -2048,7 +1852,6 @@ public final class R {
      */
     public static final int titleTextAppearance=0x7f0300e3;
     /**
-     * Specifies a style to use for title text.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -2056,7 +1859,6 @@ public final class R {
      */
     public static final int titleTextStyle=0x7f0300e4;
     /**
-     * Default Toolar NavigationButtonStyle
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -2064,7 +1866,6 @@ public final class R {
      */
     public static final int toolbarNavigationButtonStyle=0x7f0300e5;
     /**
-     * Default Toolbar style.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -2072,7 +1873,6 @@ public final class R {
      */
     public static final int toolbarStyle=0x7f0300e6;
     /**
-     * The size of the top and bottom bars when they merge to the middle bar to form an arrow
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -2081,7 +1881,6 @@ public final class R {
      */
     public static final int topBottomBarArrowSize=0x7f0300e7;
     /**
-     * Drawable to use as the "track" that the switch thumb slides within.
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -2089,7 +1888,6 @@ public final class R {
      */
     public static final int track=0x7f0300e8;
     /**
-     * Voice button icon
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -2097,31 +1895,21 @@ public final class R {
      */
     public static final int voiceIcon=0x7f0300e9;
     /**
-     * Flag indicating whether this window should have an Action Bar
-     * in place of the usual title bar.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int windowActionBar=0x7f0300ea;
     /**
-     * Flag indicating whether this window's Action Bar should overlay
-     * application content. Does nothing if the window would not
-     * have an Action Bar.
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int windowActionBarOverlay=0x7f0300eb;
     /**
-     * Flag indicating whether action modes should overlay window content
-     * when there is not reserved space for their UI (such as an Action Bar).
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
     public static final int windowActionModeOverlay=0x7f0300ec;
     /**
-     * A fixed height for the window along the major axis of the screen,
-     * that is, when in portrait. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -2134,9 +1922,6 @@ public final class R {
      */
     public static final int windowFixedHeightMajor=0x7f0300ed;
     /**
-     * A fixed height for the window along the minor axis of the screen,
-     * that is, when in landscape. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -2149,9 +1934,6 @@ public final class R {
      */
     public static final int windowFixedHeightMinor=0x7f0300ee;
     /**
-     * A fixed width for the window along the major axis of the screen,
-     * that is, when in landscape. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -2164,9 +1946,6 @@ public final class R {
      */
     public static final int windowFixedWidthMajor=0x7f0300ef;
     /**
-     * A fixed width for the window along the minor axis of the screen,
-     * that is, when in portrait. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
      * Available units are: px (pixels), dp (density-independent pixels),
@@ -2300,118 +2079,95 @@ public final class R {
     public static final int abc_text_size_title_material=0x7f060023;
     public static final int abc_text_size_title_material_toolbar=0x7f060024;
     public static final int activity_horizontal_margin=0x7f060025;
-    public static final int activity_vertical_margin=0x7f060026;
-    public static final int boton_opc=0x7f060027;
-    public static final int boton_opc_letra=0x7f060028;
-    public static final int boton_opc_letra_g=0x7f060029;
-    public static final int boton_principal=0x7f06002a;
-    public static final int compat_button_inset_horizontal_material=0x7f06002b;
-    public static final int compat_button_inset_vertical_material=0x7f06002c;
-    public static final int compat_button_padding_horizontal_material=0x7f06002d;
-    public static final int compat_button_padding_vertical_material=0x7f06002e;
-    public static final int compat_control_corner_material=0x7f06002f;
-    public static final int dialog_fixed_height_major=0x7f060030;
-    public static final int dialog_fixed_height_minor=0x7f060031;
-    public static final int dialog_fixed_width_major=0x7f060032;
-    public static final int dialog_fixed_width_minor=0x7f060033;
-    public static final int disabled_alpha_material_dark=0x7f060034;
-    public static final int disabled_alpha_material_light=0x7f060035;
-    public static final int imagen_gnr=0x7f060036;
-    public static final int imagen_gnr_t=0x7f060037;
-    public static final int layout_10=0x7f060038;
-    public static final int layout_100=0x7f060039;
-    public static final int layout_110=0x7f06003a;
-    public static final int layout_12=0x7f06003b;
-    public static final int layout_120=0x7f06003c;
-    public static final int layout_135=0x7f06003d;
-    public static final int layout_15=0x7f06003e;
-    public static final int layout_150=0x7f06003f;
-    public static final int layout_170=0x7f060040;
-    public static final int layout_20=0x7f060041;
-    public static final int layout_200=0x7f060042;
-    public static final int layout_210=0x7f060043;
-    public static final int layout_225=0x7f060044;
-    public static final int layout_25=0x7f060045;
-    public static final int layout_250=0x7f060046;
-    public static final int layout_30=0x7f060047;
-    public static final int layout_300=0x7f060048;
-    public static final int layout_325=0x7f060049;
-    public static final int layout_35=0x7f06004a;
-    public static final int layout_350=0x7f06004b;
-    public static final int layout_40=0x7f06004c;
-    public static final int layout_400=0x7f06004d;
-    public static final int layout_430=0x7f06004e;
-    public static final int layout_45=0x7f06004f;
-    public static final int layout_50=0x7f060050;
-    public static final int layout_60=0x7f060051;
-    public static final int layout_600=0x7f060052;
-    public static final int layout_650=0x7f060053;
-    public static final int layout_70=0x7f060054;
-    public static final int layout_75=0x7f060055;
-    public static final int layout_80=0x7f060056;
-    public static final int layout_85=0x7f060057;
-    public static final int layout_90=0x7f060058;
-    public static final int letra_config1=0x7f060059;
-    public static final int letra_config2=0x7f06005a;
-    public static final int letra_user1=0x7f06005b;
-    public static final int margin_10=0x7f06005c;
-    public static final int margin_100=0x7f06005d;
-    public static final int margin_125=0x7f06005e;
-    public static final int margin_15=0x7f06005f;
-    public static final int margin_150=0x7f060060;
-    public static final int margin_20=0x7f060061;
-    public static final int margin_25=0x7f060062;
-    public static final int margin_30=0x7f060063;
-    public static final int margin_35=0x7f060064;
-    public static final int margin_40=0x7f060065;
-    public static final int margin_45=0x7f060066;
-    public static final int margin_5=0x7f060067;
-    public static final int margin_50=0x7f060068;
-    public static final int margin_65=0x7f060069;
-    public static final int margin_75=0x7f06006a;
-    public static final int margin_80=0x7f06006b;
-    public static final int notification_action_icon_size=0x7f06006c;
-    public static final int notification_action_text_size=0x7f06006d;
-    public static final int notification_big_circle_margin=0x7f06006e;
-    public static final int notification_content_margin_start=0x7f06006f;
-    public static final int notification_large_icon_height=0x7f060070;
-    public static final int notification_large_icon_width=0x7f060071;
-    public static final int notification_main_column_padding_top=0x7f060072;
-    public static final int notification_media_narrow_margin=0x7f060073;
-    public static final int notification_right_icon_size=0x7f060074;
-    public static final int notification_right_side_padding_top=0x7f060075;
-    public static final int notification_small_icon_background_padding=0x7f060076;
-    public static final int notification_small_icon_size_as_large=0x7f060077;
-    public static final int notification_subtext_size=0x7f060078;
-    public static final int notification_top_pad=0x7f060079;
-    public static final int notification_top_pad_large_text=0x7f06007a;
-    public static final int num_pos=0x7f06007b;
-    public static final int tamanoT_20=0x7f06007c;
-    public static final int tamanoT_90=0x7f06007d;
-    public static final int tamano_10=0x7f06007e;
-    public static final int tamano_130=0x7f06007f;
-    public static final int tamano_20=0x7f060080;
-    public static final int tamano_30=0x7f060081;
-    public static final int tamano_40=0x7f060082;
-    public static final int tamano_50=0x7f060083;
-    public static final int tamano_60=0x7f060084;
-    public static final int tamano_70=0x7f060085;
-    public static final int tamano_80=0x7f060086;
-    public static final int tamano_90=0x7f060087;
-    public static final int textSize_10=0x7f060088;
-    public static final int textSize_100=0x7f060089;
-    public static final int textSize_13=0x7f06008a;
-    public static final int textSize_135=0x7f06008b;
-    public static final int textSize_15=0x7f06008c;
-    public static final int textSize_20=0x7f06008d;
-    public static final int textSize_25=0x7f06008e;
-    public static final int textSize_30=0x7f06008f;
-    public static final int textSize_35=0x7f060090;
-    public static final int textSize_40=0x7f060091;
-    public static final int textSize_45=0x7f060092;
-    public static final int textSize_50=0x7f060093;
-    public static final int textSize_60=0x7f060094;
-    public static final int textSize_70=0x7f060095;
+    public static final int compat_button_inset_horizontal_material=0x7f060026;
+    public static final int compat_button_inset_vertical_material=0x7f060027;
+    public static final int compat_button_padding_horizontal_material=0x7f060028;
+    public static final int compat_button_padding_vertical_material=0x7f060029;
+    public static final int compat_control_corner_material=0x7f06002a;
+    public static final int dialog_fixed_height_major=0x7f06002b;
+    public static final int dialog_fixed_height_minor=0x7f06002c;
+    public static final int dialog_fixed_width_major=0x7f06002d;
+    public static final int dialog_fixed_width_minor=0x7f06002e;
+    public static final int disabled_alpha_material_dark=0x7f06002f;
+    public static final int disabled_alpha_material_light=0x7f060030;
+    public static final int layout_10=0x7f060031;
+    public static final int layout_100=0x7f060032;
+    public static final int layout_110=0x7f060033;
+    public static final int layout_12=0x7f060034;
+    public static final int layout_120=0x7f060035;
+    public static final int layout_135=0x7f060036;
+    public static final int layout_15=0x7f060037;
+    public static final int layout_150=0x7f060038;
+    public static final int layout_170=0x7f060039;
+    public static final int layout_20=0x7f06003a;
+    public static final int layout_200=0x7f06003b;
+    public static final int layout_210=0x7f06003c;
+    public static final int layout_225=0x7f06003d;
+    public static final int layout_25=0x7f06003e;
+    public static final int layout_250=0x7f06003f;
+    public static final int layout_30=0x7f060040;
+    public static final int layout_300=0x7f060041;
+    public static final int layout_325=0x7f060042;
+    public static final int layout_35=0x7f060043;
+    public static final int layout_350=0x7f060044;
+    public static final int layout_40=0x7f060045;
+    public static final int layout_400=0x7f060046;
+    public static final int layout_430=0x7f060047;
+    public static final int layout_45=0x7f060048;
+    public static final int layout_50=0x7f060049;
+    public static final int layout_60=0x7f06004a;
+    public static final int layout_600=0x7f06004b;
+    public static final int layout_650=0x7f06004c;
+    public static final int layout_70=0x7f06004d;
+    public static final int layout_75=0x7f06004e;
+    public static final int layout_80=0x7f06004f;
+    public static final int layout_85=0x7f060050;
+    public static final int layout_90=0x7f060051;
+    public static final int margin_10=0x7f060052;
+    public static final int margin_100=0x7f060053;
+    public static final int margin_125=0x7f060054;
+    public static final int margin_15=0x7f060055;
+    public static final int margin_150=0x7f060056;
+    public static final int margin_20=0x7f060057;
+    public static final int margin_25=0x7f060058;
+    public static final int margin_30=0x7f060059;
+    public static final int margin_35=0x7f06005a;
+    public static final int margin_40=0x7f06005b;
+    public static final int margin_45=0x7f06005c;
+    public static final int margin_5=0x7f06005d;
+    public static final int margin_50=0x7f06005e;
+    public static final int margin_65=0x7f06005f;
+    public static final int margin_75=0x7f060060;
+    public static final int margin_80=0x7f060061;
+    public static final int notification_action_icon_size=0x7f060062;
+    public static final int notification_action_text_size=0x7f060063;
+    public static final int notification_big_circle_margin=0x7f060064;
+    public static final int notification_content_margin_start=0x7f060065;
+    public static final int notification_large_icon_height=0x7f060066;
+    public static final int notification_large_icon_width=0x7f060067;
+    public static final int notification_main_column_padding_top=0x7f060068;
+    public static final int notification_media_narrow_margin=0x7f060069;
+    public static final int notification_right_icon_size=0x7f06006a;
+    public static final int notification_right_side_padding_top=0x7f06006b;
+    public static final int notification_small_icon_background_padding=0x7f06006c;
+    public static final int notification_small_icon_size_as_large=0x7f06006d;
+    public static final int notification_subtext_size=0x7f06006e;
+    public static final int notification_top_pad=0x7f06006f;
+    public static final int notification_top_pad_large_text=0x7f060070;
+    public static final int textSize_10=0x7f060071;
+    public static final int textSize_100=0x7f060072;
+    public static final int textSize_13=0x7f060073;
+    public static final int textSize_135=0x7f060074;
+    public static final int textSize_15=0x7f060075;
+    public static final int textSize_20=0x7f060076;
+    public static final int textSize_25=0x7f060077;
+    public static final int textSize_30=0x7f060078;
+    public static final int textSize_35=0x7f060079;
+    public static final int textSize_40=0x7f06007a;
+    public static final int textSize_45=0x7f06007b;
+    public static final int textSize_50=0x7f06007c;
+    public static final int textSize_60=0x7f06007d;
+    public static final int textSize_70=0x7f06007e;
   }
   public static final class drawable {
     public static final int abc_ab_share_pack_holo_dark=0x7f070000;
@@ -3586,35 +3342,33 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background msm.aie.veribox:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit msm.aie.veribox:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked msm.aie.veribox:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd msm.aie.veribox:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft msm.aie.veribox:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight msm.aie.veribox:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart msm.aie.veribox:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout msm.aie.veribox:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions msm.aie.veribox:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider msm.aie.veribox:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation msm.aie.veribox:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_background msm.aie.veribox:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit msm.aie.veribox:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked msm.aie.veribox:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd msm.aie.veribox:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft msm.aie.veribox:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight msm.aie.veribox:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart msm.aie.veribox:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout msm.aie.veribox:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions msm.aie.veribox:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider msm.aie.veribox:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation msm.aie.veribox:elevation}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionBar_height msm.aie.veribox:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll msm.aie.veribox:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator msm.aie.veribox:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout msm.aie.veribox:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon msm.aie.veribox:icon}</code></td><td>Specifies the drawable used for the application icon.</td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle msm.aie.veribox:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding msm.aie.veribox:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
-     * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo msm.aie.veribox:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode msm.aie.veribox:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme msm.aie.veribox:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
-     * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding msm.aie.veribox:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle msm.aie.veribox:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle msm.aie.veribox:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle msm.aie.veribox:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll msm.aie.veribox:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator msm.aie.veribox:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout msm.aie.veribox:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon msm.aie.veribox:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle msm.aie.veribox:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding msm.aie.veribox:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo msm.aie.veribox:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode msm.aie.veribox:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme msm.aie.veribox:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding msm.aie.veribox:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle msm.aie.veribox:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle msm.aie.veribox:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle msm.aie.veribox:subtitleTextStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionBar_title msm.aie.veribox:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle msm.aie.veribox:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle msm.aie.veribox:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3654,9 +3408,8 @@ public final class R {
       0x7f0300cc, 0x7f0300dd, 0x7f0300e4
     };
     /**
-     * <p>
-     * @attr description
-     * Specifies a background drawable for the action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#background}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3667,9 +3420,8 @@ public final class R {
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>
-     * @attr description
-     * Specifies a background drawable for the bottom component of a split action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#backgroundSplit}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3683,9 +3435,8 @@ public final class R {
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>
-     * @attr description
-     * Specifies a background drawable for a second stacked row of the action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#backgroundStacked}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3699,10 +3450,8 @@ public final class R {
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetEnd}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3714,10 +3463,8 @@ public final class R {
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetLeft}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3729,10 +3476,8 @@ public final class R {
      */
     public static final int ActionBar_contentInsetLeft=4;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetRight}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3744,10 +3489,8 @@ public final class R {
      */
     public static final int ActionBar_contentInsetRight=5;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetStart}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3759,9 +3502,8 @@ public final class R {
      */
     public static final int ActionBar_contentInsetStart=6;
     /**
-     * <p>
-     * @attr description
-     * Specifies a layout for custom navigation. Overrides navigationMode.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#customNavigationLayout}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3772,9 +3514,8 @@ public final class R {
      */
     public static final int ActionBar_customNavigationLayout=7;
     /**
-     * <p>
-     * @attr description
-     * Options affecting how the action bar is displayed.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#displayOptions}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -3795,9 +3536,8 @@ public final class R {
      */
     public static final int ActionBar_displayOptions=8;
     /**
-     * <p>
-     * @attr description
-     * Specifies the drawable used for item dividers.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#divider}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3808,9 +3548,8 @@ public final class R {
      */
     public static final int ActionBar_divider=9;
     /**
-     * <p>
-     * @attr description
-     * Elevation for the action bar itself
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#elevation}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3822,9 +3561,8 @@ public final class R {
      */
     public static final int ActionBar_elevation=10;
     /**
-     * <p>
-     * @attr description
-     * Specifies a fixed height.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#height}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3836,9 +3574,8 @@ public final class R {
      */
     public static final int ActionBar_height=11;
     /**
-     * <p>
-     * @attr description
-     * Set true to hide the action bar on a vertical nested scroll of content.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#hideOnContentScroll}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -3847,9 +3584,8 @@ public final class R {
      */
     public static final int ActionBar_hideOnContentScroll=12;
     /**
-     * <p>
-     * @attr description
-     * Up navigation glyph
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#homeAsUpIndicator}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3860,9 +3596,8 @@ public final class R {
      */
     public static final int ActionBar_homeAsUpIndicator=13;
     /**
-     * <p>
-     * @attr description
-     * Specifies a layout to use for the "home" section of the action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#homeLayout}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3873,9 +3608,8 @@ public final class R {
      */
     public static final int ActionBar_homeLayout=14;
     /**
-     * <p>
-     * @attr description
-     * Specifies the drawable used for the application icon.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#icon}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3886,9 +3620,8 @@ public final class R {
      */
     public static final int ActionBar_icon=15;
     /**
-     * <p>
-     * @attr description
-     * Specifies a style resource to use for an indeterminate progress spinner.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#indeterminateProgressStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3899,10 +3632,8 @@ public final class R {
      */
     public static final int ActionBar_indeterminateProgressStyle=16;
     /**
-     * <p>
-     * @attr description
-     * Specifies padding that should be applied to the left and right sides of
-     * system-provided items in the bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#itemPadding}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3914,9 +3645,8 @@ public final class R {
      */
     public static final int ActionBar_itemPadding=17;
     /**
-     * <p>
-     * @attr description
-     * Specifies the drawable used for the application logo.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#logo}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3927,9 +3657,8 @@ public final class R {
      */
     public static final int ActionBar_logo=18;
     /**
-     * <p>
-     * @attr description
-     * The type of navigation to use.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#navigationMode}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -3937,19 +3666,17 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>listMode</td><td>1</td><td>The action bar will use a selection list for navigation.</td></tr>
-     * <tr><td>normal</td><td>0</td><td>Normal static title text</td></tr>
-     * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
+     * <tr><td>listMode</td><td>1</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
      * @attr name msm.aie.veribox:navigationMode
      */
     public static final int ActionBar_navigationMode=19;
     /**
-     * <p>
-     * @attr description
-     * Reference to a theme that should be used to inflate popups
-     * shown by widgets in the action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#popupTheme}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3960,9 +3687,8 @@ public final class R {
      */
     public static final int ActionBar_popupTheme=20;
     /**
-     * <p>
-     * @attr description
-     * Specifies the horizontal padding on either end for an embedded progress bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#progressBarPadding}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -3974,9 +3700,8 @@ public final class R {
      */
     public static final int ActionBar_progressBarPadding=21;
     /**
-     * <p>
-     * @attr description
-     * Specifies a style resource to use for an embedded progress bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#progressBarStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3987,9 +3712,8 @@ public final class R {
      */
     public static final int ActionBar_progressBarStyle=22;
     /**
-     * <p>
-     * @attr description
-     * Specifies subtitle text used for navigationMode="normal"
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#subtitle}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -3998,9 +3722,8 @@ public final class R {
      */
     public static final int ActionBar_subtitle=23;
     /**
-     * <p>
-     * @attr description
-     * Specifies a style to use for subtitle text.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#subtitleTextStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4011,9 +3734,8 @@ public final class R {
      */
     public static final int ActionBar_subtitleTextStyle=24;
     /**
-     * <p>
-     * @attr description
-     * Specifies title text used for navigationMode="normal"
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#title}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -4022,9 +3744,8 @@ public final class R {
      */
     public static final int ActionBar_title=25;
     /**
-     * <p>
-     * @attr description
-     * Specifies a style to use for title text.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#titleTextStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4113,12 +3834,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background msm.aie.veribox:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit msm.aie.veribox:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout msm.aie.veribox:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background msm.aie.veribox:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit msm.aie.veribox:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout msm.aie.veribox:closeItemLayout}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionMode_height msm.aie.veribox:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle msm.aie.veribox:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle msm.aie.veribox:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle msm.aie.veribox:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle msm.aie.veribox:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4132,9 +3853,8 @@ public final class R {
       0x7f0300cc, 0x7f0300e4
     };
     /**
-     * <p>
-     * @attr description
-     * Specifies a background for the action mode bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#background}
+     * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4145,9 +3865,8 @@ public final class R {
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>
-     * @attr description
-     * Specifies a background for the split action mode bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#backgroundSplit}
+     * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4161,9 +3880,8 @@ public final class R {
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>
-     * @attr description
-     * Specifies a layout to use for the "close" item at the starting edge.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#closeItemLayout}
+     * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4174,9 +3892,8 @@ public final class R {
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>
-     * @attr description
-     * Specifies a fixed height for the action mode bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#height}
+     * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -4188,9 +3905,8 @@ public final class R {
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>
-     * @attr description
-     * Specifies a style to use for subtitle text.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#subtitleTextStyle}
+     * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4201,9 +3917,8 @@ public final class R {
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>
-     * @attr description
-     * Specifies a style to use for title text.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#titleTextStyle}
+     * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4220,8 +3935,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable msm.aie.veribox:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount msm.aie.veribox:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable msm.aie.veribox:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount msm.aie.veribox:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -4230,13 +3945,8 @@ public final class R {
       0x7f030052, 0x7f030067
     };
     /**
-     * <p>
-     * @attr description
-     * The drawable to show in the button for expanding the activities overflow popup.
-     * <strong>Note:</strong> Clients would like to set this drawable
-     * as a clue about the action the chosen activity will perform. For
-     * example, if share activity is to be chosen the drawable should
-     * give a clue that sharing is to be performed.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#expandActivityOverflowButtonDrawable}
+     * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -4247,9 +3957,8 @@ public final class R {
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>
-     * @attr description
-     * The maximal number of items initially shown in the activity list.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#initialActivityCount}
+     * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -4264,7 +3973,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CompatTextView_textAllCaps msm.aie.veribox:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #CompatTextView_textAllCaps msm.aie.veribox:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #CompatTextView_textAllCaps
      */
@@ -4272,9 +3981,8 @@ public final class R {
       0x7f0300d2
     };
     /**
-     * <p>
-     * @attr description
-     * Present the text in ALL CAPS. This may use a small-caps form when available.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textAllCaps}
+     * attribute's value can be found in the {@link #CompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -5295,7 +5003,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
@@ -6671,14 +6379,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barSize msm.aie.veribox:barSize}</code></td><td>The size of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color msm.aie.veribox:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize msm.aie.veribox:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars msm.aie.veribox:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize msm.aie.veribox:middleBarArrowSize}</code></td><td>The size of the middle bar when top and bottom bars merge into middle bar to form an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars msm.aie.veribox:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness msm.aie.veribox:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize msm.aie.veribox:topBottomBarArrowSize}</code></td><td>The size of the top and bottom bars when they merge to the middle bar to form an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barSize msm.aie.veribox:barSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color msm.aie.veribox:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize msm.aie.veribox:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars msm.aie.veribox:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize msm.aie.veribox:middleBarArrowSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars msm.aie.veribox:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness msm.aie.veribox:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize msm.aie.veribox:topBottomBarArrowSize}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_barSize
      * @see #DrawerArrowToggle_color
@@ -6694,9 +6402,8 @@ public final class R {
       0x7f0300a7, 0x7f0300c3, 0x7f0300db, 0x7f0300e7
     };
     /**
-     * <p>
-     * @attr description
-     * The size of the bars when they are parallel to each other
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#barSize}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -6708,9 +6415,8 @@ public final class R {
      */
     public static final int DrawerArrowToggle_barSize=0;
     /**
-     * <p>
-     * @attr description
-     * The drawing color for the bars
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#color}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -6720,9 +6426,8 @@ public final class R {
      */
     public static final int DrawerArrowToggle_color=1;
     /**
-     * <p>
-     * @attr description
-     * The total size of the drawable
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#drawableSize}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -6734,9 +6439,8 @@ public final class R {
      */
     public static final int DrawerArrowToggle_drawableSize=2;
     /**
-     * <p>
-     * @attr description
-     * The max gap between the bars when they are parallel to each other
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#gapBetweenBars}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -6748,9 +6452,8 @@ public final class R {
      */
     public static final int DrawerArrowToggle_gapBetweenBars=3;
     /**
-     * <p>
-     * @attr description
-     * The size of the middle bar when top and bottom bars merge into middle bar to form an arrow
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#middleBarArrowSize}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -6762,9 +6465,8 @@ public final class R {
      */
     public static final int DrawerArrowToggle_middleBarArrowSize=4;
     /**
-     * <p>
-     * @attr description
-     * Whether bars should rotate or not during transition
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#spinBars}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -6773,9 +6475,8 @@ public final class R {
      */
     public static final int DrawerArrowToggle_spinBars=5;
     /**
-     * <p>
-     * @attr description
-     * The thickness (stroke size) for the bar paint
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#thickness}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -6787,9 +6488,8 @@ public final class R {
      */
     public static final int DrawerArrowToggle_thickness=6;
     /**
-     * <p>
-     * @attr description
-     * The size of the top and bottom bars when they merge to the middle bar to form an arrow
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#topBottomBarArrowSize}
+     * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -7000,11 +6700,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider msm.aie.veribox:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding msm.aie.veribox:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild msm.aie.veribox:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
-     * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers msm.aie.veribox:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider msm.aie.veribox:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding msm.aie.veribox:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild msm.aie.veribox:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers msm.aie.veribox:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -7051,11 +6750,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_gravity=0;
     /**
-     * <p>
-     * @attr description
-     * Should the layout be a column or a row?  Use "horizontal"
-     * for a row, "vertical" for a column.  The default is
-     * horizontal.
+     * <p>This symbol is the offset where the {@link android.R.attr#orientation}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -7071,11 +6767,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_orientation=1;
     /**
-     * <p>
-     * @attr description
-     * When set to false, prevents the layout from aligning its children's
-     * baselines. This attribute is particularly useful when the children
-     * use different values for gravity. The default value is true.
+     * <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7084,11 +6777,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_baselineAligned=2;
     /**
-     * <p>
-     * @attr description
-     * When a linear layout is part of another layout that is baseline
-     * aligned, it can specify which of its children to baseline align to
-     * (that is, which child TextView).
+     * <p>This symbol is the offset where the {@link android.R.attr#baselineAlignedChildIndex}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
@@ -7096,13 +6786,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_baselineAlignedChildIndex=3;
     /**
-     * <p>
-     * @attr description
-     * Defines the maximum weight sum. If unspecified, the sum is computed
-     * by adding the layout_weight of all of the children. This can be
-     * used for instance to give a single child 50% of the total available
-     * space by giving it a layout_weight of 0.5 and setting the weightSum
-     * to 1.0.
+     * <p>This symbol is the offset where the {@link android.R.attr#weightSum}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
@@ -7110,9 +6795,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use as a vertical divider between buttons.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#divider}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7123,9 +6807,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>
-     * @attr description
-     * Size of padding on either end of a divider.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#dividerPadding}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -7137,11 +6820,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>
-     * @attr description
-     * When set to true, all children with a weight will be considered having
-     * the minimum size of the largest child. If false, all children are
-     * measured normally.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#measureWithLargestChild}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7150,9 +6830,8 @@ public final class R {
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>
-     * @attr description
-     * Setting for which dividers to show.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#showDividers}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -7290,9 +6969,8 @@ public final class R {
       0x010102ac, 0x010102ad
     };
     /**
-     * <p>
-     * @attr description
-     * Amount of pixels by which the drop down should be offset horizontally.
+     * <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}
+     * attribute's value can be found in the {@link #ListPopupWindow} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -7304,9 +6982,8 @@ public final class R {
      */
     public static final int ListPopupWindow_android_dropDownHorizontalOffset=0;
     /**
-     * <p>
-     * @attr description
-     * Amount of pixels by which the drop down should be offset vertically.
+     * <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
+     * attribute's value can be found in the {@link #ListPopupWindow} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -7398,9 +7075,8 @@ public final class R {
       0x010101df, 0x010101e0
     };
     /**
-     * <p>
-     * @attr description
-     * Whether the items are enabled.
+     * <p>This symbol is the offset where the {@link android.R.attr#enabled}
+     * attribute's value can be found in the {@link #MenuGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7409,9 +7085,8 @@ public final class R {
      */
     public static final int MenuGroup_android_enabled=0;
     /**
-     * <p>
-     * @attr description
-     * The ID of the group.
+     * <p>This symbol is the offset where the {@link android.R.attr#id}
+     * attribute's value can be found in the {@link #MenuGroup} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7422,9 +7097,8 @@ public final class R {
      */
     public static final int MenuGroup_android_id=1;
     /**
-     * <p>
-     * @attr description
-     * Whether the items are shown/visible.
+     * <p>This symbol is the offset where the {@link android.R.attr#visible}
+     * attribute's value can be found in the {@link #MenuGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7433,10 +7107,8 @@ public final class R {
      */
     public static final int MenuGroup_android_visible=2;
     /**
-     * <p>
-     * @attr description
-     * The category applied to all items within this group.
-     * (This will be or'ed with the orderInCategory attribute.)
+     * <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
+     * attribute's value can be found in the {@link #MenuGroup} array.
      *
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -7454,10 +7126,8 @@ public final class R {
      */
     public static final int MenuGroup_android_menuCategory=3;
     /**
-     * <p>
-     * @attr description
-     * The order within the category applied to all items within this group.
-     * (This will be or'ed with the category attribute.)
+     * <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
+     * attribute's value can be found in the {@link #MenuGroup} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
@@ -7465,9 +7135,8 @@ public final class R {
      */
     public static final int MenuGroup_android_orderInCategory=4;
     /**
-     * <p>
-     * @attr description
-     * Whether the items are capable of displaying a check mark.
+     * <p>This symbol is the offset where the {@link android.R.attr#checkableBehavior}
+     * attribute's value can be found in the {@link #MenuGroup} array.
      *
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -7503,12 +7172,10 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout msm.aie.veribox:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass msm.aie.veribox:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
-     * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass msm.aie.veribox:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
-     * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction msm.aie.veribox:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout msm.aie.veribox:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass msm.aie.veribox:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass msm.aie.veribox:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction msm.aie.veribox:showAsAction}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -7536,10 +7203,8 @@ public final class R {
       0x7f0300c0
     };
     /**
-     * <p>
-     * @attr description
-     * The icon associated with this item.  This icon will not always be shown, so
-     * the title should be sufficient in describing this item.
+     * <p>This symbol is the offset where the {@link android.R.attr#icon}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7550,9 +7215,8 @@ public final class R {
      */
     public static final int MenuItem_android_icon=0;
     /**
-     * <p>
-     * @attr description
-     * Whether the item is enabled.
+     * <p>This symbol is the offset where the {@link android.R.attr#enabled}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7561,9 +7225,8 @@ public final class R {
      */
     public static final int MenuItem_android_enabled=1;
     /**
-     * <p>
-     * @attr description
-     * The ID of the item.
+     * <p>This symbol is the offset where the {@link android.R.attr#id}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7574,10 +7237,8 @@ public final class R {
      */
     public static final int MenuItem_android_id=2;
     /**
-     * <p>
-     * @attr description
-     * Whether the item is checked.  Note that you must first have enabled checking with
-     * the checkable attribute or else the check mark will not appear.
+     * <p>This symbol is the offset where the {@link android.R.attr#checked}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7586,9 +7247,8 @@ public final class R {
      */
     public static final int MenuItem_android_checked=3;
     /**
-     * <p>
-     * @attr description
-     * Whether the item is shown/visible.
+     * <p>This symbol is the offset where the {@link android.R.attr#visible}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7597,10 +7257,8 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>
-     * @attr description
-     * The category applied to the item.
-     * (This will be or'ed with the orderInCategory attribute.)
+     * <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -7618,10 +7276,8 @@ public final class R {
      */
     public static final int MenuItem_android_menuCategory=5;
     /**
-     * <p>
-     * @attr description
-     * The order within the category applied to the item.
-     * (This will be or'ed with the category attribute.)
+     * <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
@@ -7629,9 +7285,8 @@ public final class R {
      */
     public static final int MenuItem_android_orderInCategory=6;
     /**
-     * <p>
-     * @attr description
-     * The title associated with the item.
+     * <p>This symbol is the offset where the {@link android.R.attr#title}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -7640,10 +7295,8 @@ public final class R {
      */
     public static final int MenuItem_android_title=7;
     /**
-     * <p>
-     * @attr description
-     * The condensed title associated with the item.  This is used in situations where the
-     * normal title may be too long to be displayed.
+     * <p>This symbol is the offset where the {@link android.R.attr#titleCondensed}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -7652,10 +7305,8 @@ public final class R {
      */
     public static final int MenuItem_android_titleCondensed=8;
     /**
-     * <p>
-     * @attr description
-     * The alphabetic shortcut key.  This is the shortcut when using a keyboard
-     * with alphabetic keys.
+     * <p>This symbol is the offset where the {@link android.R.attr#alphabeticShortcut}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -7664,10 +7315,8 @@ public final class R {
      */
     public static final int MenuItem_android_alphabeticShortcut=9;
     /**
-     * <p>
-     * @attr description
-     * The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
-     * keyboard.
+     * <p>This symbol is the offset where the {@link android.R.attr#numericShortcut}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -7676,9 +7325,8 @@ public final class R {
      */
     public static final int MenuItem_android_numericShortcut=10;
     /**
-     * <p>
-     * @attr description
-     * Whether the item is capable of displaying a check mark.
+     * <p>This symbol is the offset where the {@link android.R.attr#checkable}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7687,10 +7335,8 @@ public final class R {
      */
     public static final int MenuItem_android_checkable=11;
     /**
-     * <p>
-     * @attr description
-     * Name of a method on the Context used to inflate the menu that will be
-     * called when the item is clicked.
+     * <p>This symbol is the offset where the {@link android.R.attr#onClick}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -7699,11 +7345,8 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>
-     * @attr description
-     * An optional layout to be used as an action view.
-     * See {@link android.view.MenuItem#setActionView(android.view.View)}
-     * for more info.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionLayout}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7714,12 +7357,8 @@ public final class R {
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>
-     * @attr description
-     * The name of an optional ActionProvider class to instantiate an action view
-     * and perform operations such as default action for that menu item.
-     * See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
-     * for more info.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionProviderClass}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -7728,11 +7367,8 @@ public final class R {
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>
-     * @attr description
-     * The name of an optional View class to instantiate and use as an
-     * action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
-     * for more info.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionViewClass}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -7741,9 +7377,8 @@ public final class R {
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>
-     * @attr description
-     * How this item should display in the Action Bar, if present.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#showAsAction}
+     * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -7751,20 +7386,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>always</td><td>2</td><td>Always show this item in an actionbar, even if it would override
-     * the system's limits of how much stuff to put there. This may make
-     * your action bar look bad on some screens. In most cases you should
-     * use "ifRoom" instead. Mutually exclusive with "ifRoom" and "never".</td></tr>
-     * <tr><td>collapseActionView</td><td>8</td><td>This item's action view collapses to a normal menu
-     * item. When expanded, the action view takes over a
-     * larger segment of its container.</td></tr>
-     * <tr><td>ifRoom</td><td>1</td><td>Show this item in an action bar if there is room for it as determined
-     * by the system. Favor this option over "always" where possible.
-     * Mutually exclusive with "never" and "always".</td></tr>
-     * <tr><td>never</td><td>0</td><td>Never show this item in an action bar, show it in the overflow menu instead.
-     * Mutually exclusive with "ifRoom" and "always".</td></tr>
-     * <tr><td>withText</td><td>4</td><td>When this item is shown as an action in the action bar, show a text
-     * label with it even if it has an icon representation.</td></tr>
+     * <tr><td>always</td><td>2</td><td></td></tr>
+     * <tr><td>collapseActionView</td><td>8</td><td></td></tr>
+     * <tr><td>ifRoom</td><td>1</td><td></td></tr>
+     * <tr><td>never</td><td>0</td><td></td></tr>
+     * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
      * @attr name msm.aie.veribox:showAsAction
@@ -7784,7 +7410,7 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing msm.aie.veribox:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing msm.aie.veribox:preserveIconSpacing}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -7800,9 +7426,8 @@ public final class R {
       0x0101012f, 0x01010130, 0x01010131, 0x7f0300b5
     };
     /**
-     * <p>
-     * @attr description
-     * Default animations for the menu.
+     * <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7813,9 +7438,8 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>
-     * @attr description
-     * Default appearance of menu item text.
+     * <p>This symbol is the offset where the {@link android.R.attr#itemTextAppearance}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7826,9 +7450,8 @@ public final class R {
      */
     public static final int MenuView_android_itemTextAppearance=1;
     /**
-     * <p>
-     * @attr description
-     * Default horizontal divider between rows of menu items.
+     * <p>This symbol is the offset where the {@link android.R.attr#horizontalDivider}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7839,9 +7462,8 @@ public final class R {
      */
     public static final int MenuView_android_horizontalDivider=2;
     /**
-     * <p>
-     * @attr description
-     * Default vertical divider between menu items.
+     * <p>This symbol is the offset where the {@link android.R.attr#verticalDivider}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7852,9 +7474,8 @@ public final class R {
      */
     public static final int MenuView_android_verticalDivider=3;
     /**
-     * <p>
-     * @attr description
-     * Default background for the menu header.
+     * <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7868,9 +7489,8 @@ public final class R {
      */
     public static final int MenuView_android_headerBackground=4;
     /**
-     * <p>
-     * @attr description
-     * Default background for each menu item.
+     * <p>This symbol is the offset where the {@link android.R.attr#itemBackground}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -7884,9 +7504,8 @@ public final class R {
      */
     public static final int MenuView_android_itemBackground=5;
     /**
-     * <p>
-     * @attr description
-     * Default disabled icon alpha for each menu item that shows an icon.
+     * <p>This symbol is the offset where the {@link android.R.attr#itemIconDisabledAlpha}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
@@ -7894,9 +7513,8 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>
-     * @attr description
-     * Whether space should be reserved in layout when an icon is missing.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#preserveIconSpacing}
+     * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7912,7 +7530,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor msm.aie.veribox:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor msm.aie.veribox:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_overlapAnchor
@@ -7936,9 +7554,8 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>
-     * @attr description
-     * Whether the popup window should overlap its anchor view.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#overlapAnchor}
+     * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7953,7 +7570,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor msm.aie.veribox:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor msm.aie.veribox:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -7961,9 +7578,8 @@ public final class R {
       0x7f0300c8
     };
     /**
-     * <p>
-     * @attr description
-     * State identifier indicating the popup will be above the anchor.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#state_above_anchor}
+     * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7982,17 +7598,17 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon msm.aie.veribox:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon msm.aie.veribox:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon msm.aie.veribox:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault msm.aie.veribox:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout msm.aie.veribox:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground msm.aie.veribox:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint msm.aie.veribox:queryHint}</code></td><td>An optional query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon msm.aie.veribox:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground msm.aie.veribox:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout msm.aie.veribox:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon msm.aie.veribox:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon msm.aie.veribox:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon msm.aie.veribox:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon msm.aie.veribox:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault msm.aie.veribox:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout msm.aie.veribox:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground msm.aie.veribox:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint msm.aie.veribox:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon msm.aie.veribox:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground msm.aie.veribox:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout msm.aie.veribox:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon msm.aie.veribox:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -8027,9 +7643,8 @@ public final class R {
      */
     public static final int SearchView_android_focusable=0;
     /**
-     * <p>
-     * @attr description
-     * An optional maximum width of the SearchView.
+     * <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -8041,9 +7656,8 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>
-     * @attr description
-     * The input type to set on the query text field.
+     * <p>This symbol is the offset where the {@link android.R.attr#inputType}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -8089,9 +7703,8 @@ public final class R {
      */
     public static final int SearchView_android_inputType=2;
     /**
-     * <p>
-     * @attr description
-     * The IME options to set on the query text field.
+     * <p>This symbol is the offset where the {@link android.R.attr#imeOptions}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -8121,9 +7734,8 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>
-     * @attr description
-     * Close button icon
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#closeIcon}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8134,9 +7746,8 @@ public final class R {
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>
-     * @attr description
-     * Commit icon shown in the query suggestion row
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#commitIcon}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8147,9 +7758,8 @@ public final class R {
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>
-     * @attr description
-     * Go button icon
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#goIcon}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8160,10 +7770,8 @@ public final class R {
      */
     public static final int SearchView_goIcon=6;
     /**
-     * <p>
-     * @attr description
-     * The default state of the SearchView. If true, it will be iconified when not in
-     * use and expanded when clicked.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#iconifiedByDefault}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -8172,9 +7780,8 @@ public final class R {
      */
     public static final int SearchView_iconifiedByDefault=7;
     /**
-     * <p>
-     * @attr description
-     * The layout to use for the search view.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#layout}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8185,9 +7792,8 @@ public final class R {
      */
     public static final int SearchView_layout=8;
     /**
-     * <p>
-     * @attr description
-     * Background for the section containing the search query
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#queryBackground}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8198,9 +7804,8 @@ public final class R {
      */
     public static final int SearchView_queryBackground=9;
     /**
-     * <p>
-     * @attr description
-     * An optional query hint string to be displayed in the empty query field.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#queryHint}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -8209,9 +7814,8 @@ public final class R {
      */
     public static final int SearchView_queryHint=10;
     /**
-     * <p>
-     * @attr description
-     * Search icon
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#searchIcon}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8222,9 +7826,8 @@ public final class R {
      */
     public static final int SearchView_searchIcon=11;
     /**
-     * <p>
-     * @attr description
-     * Background for the section containing the action (e.g. voice search)
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#submitBackground}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8235,9 +7838,8 @@ public final class R {
      */
     public static final int SearchView_submitBackground=12;
     /**
-     * <p>
-     * @attr description
-     * Layout for query suggestion rows
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#suggestionRowLayout}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8248,9 +7850,8 @@ public final class R {
      */
     public static final int SearchView_suggestionRowLayout=13;
     /**
-     * <p>
-     * @attr description
-     * Voice button icon
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#voiceIcon}
+     * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8350,12 +7951,10 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownHorizontalOffset android:dropDownHorizontalOffset}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownVerticalOffset android:dropDownVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled msm.aie.veribox:disableChildrenWhenDisabled}</code></td><td>Whether this spinner should mark child views as enabled/disabled when
-     * the spinner itself is enabled/disabled.</td></tr>
-     * <tr><td><code>{@link #Spinner_popupPromptView msm.aie.veribox:popupPromptView}</code></td><td>Reference to a layout to use for displaying a prompt in the dropdown for
-     * spinnerMode="dropdown".</td></tr>
-     * <tr><td><code>{@link #Spinner_prompt msm.aie.veribox:prompt}</code></td><td>The prompt to display when the spinner's dialog is shown.</td></tr>
-     * <tr><td><code>{@link #Spinner_spinnerMode msm.aie.veribox:spinnerMode}</code></td><td>Display mode for spinner options.</td></tr>
+     * <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled msm.aie.veribox:disableChildrenWhenDisabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupPromptView msm.aie.veribox:popupPromptView}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_prompt msm.aie.veribox:prompt}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_spinnerMode msm.aie.veribox:spinnerMode}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_gravity
      * @see #Spinner_android_background
@@ -8375,9 +7974,8 @@ public final class R {
       0x7f0300b2, 0x7f0300b8, 0x7f0300c5
     };
     /**
-     * <p>
-     * @attr description
-     * Gravity setting for positioning the currently selected item.
+     * <p>This symbol is the offset where the {@link android.R.attr#gravity}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -8420,9 +8018,8 @@ public final class R {
      */
     public static final int Spinner_android_background=1;
     /**
-     * <p>
-     * @attr description
-     * List selector to use for spinnerMode="dropdown" display.
+     * <p>This symbol is the offset where the {@link android.R.attr#dropDownSelector}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8436,9 +8033,8 @@ public final class R {
      */
     public static final int Spinner_android_dropDownSelector=2;
     /**
-     * <p>
-     * @attr description
-     * Background drawable to use for the dropdown in spinnerMode="dropdown".
+     * <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8452,9 +8048,8 @@ public final class R {
      */
     public static final int Spinner_android_popupBackground=3;
     /**
-     * <p>
-     * @attr description
-     * Width of the dropdown in spinnerMode="dropdown".
+     * <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -8476,10 +8071,8 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=4;
     /**
-     * <p>
-     * @attr description
-     * Horizontal offset from the spinner widget for positioning the dropdown
-     * in spinnerMode="dropdown".
+     * <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -8491,10 +8084,8 @@ public final class R {
      */
     public static final int Spinner_android_dropDownHorizontalOffset=5;
     /**
-     * <p>
-     * @attr description
-     * Vertical offset from the spinner widget for positioning the dropdown in
-     * spinnerMode="dropdown".
+     * <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -8506,10 +8097,8 @@ public final class R {
      */
     public static final int Spinner_android_dropDownVerticalOffset=6;
     /**
-     * <p>
-     * @attr description
-     * Whether this spinner should mark child views as enabled/disabled when
-     * the spinner itself is enabled/disabled.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#disableChildrenWhenDisabled}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -8518,11 +8107,8 @@ public final class R {
      */
     public static final int Spinner_disableChildrenWhenDisabled=7;
     /**
-     * <p>
-     * @attr description
-     * Reference to a layout to use for displaying a prompt in the dropdown for
-     * spinnerMode="dropdown". This layout must contain a TextView with the id
-     * {@code @android:id/text1} to be populated with the prompt text.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#popupPromptView}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8533,9 +8119,8 @@ public final class R {
      */
     public static final int Spinner_popupPromptView=8;
     /**
-     * <p>
-     * @attr description
-     * The prompt to display when the spinner's dialog is shown.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#prompt}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8546,9 +8131,8 @@ public final class R {
      */
     public static final int Spinner_prompt=9;
     /**
-     * <p>
-     * @attr description
-     * Display mode for spinner options.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#spinnerMode}
+     * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -8556,9 +8140,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>dialog</td><td>0</td><td>Spinner options will be presented to the user as a dialog window.</td></tr>
-     * <tr><td>dropdown</td><td>1</td><td>Spinner options will be presented to the user as an inline dropdown
-     * anchored to the spinner widget itself.</td></tr>
+     * <tr><td>dialog</td><td>0</td><td></td></tr>
+     * <tr><td>dropdown</td><td>1</td><td></td></tr>
      * </table>
      *
      * @attr name msm.aie.veribox:spinnerMode
@@ -8574,13 +8157,13 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText msm.aie.veribox:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack msm.aie.veribox:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth msm.aie.veribox:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding msm.aie.veribox:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance msm.aie.veribox:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding msm.aie.veribox:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track msm.aie.veribox:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText msm.aie.veribox:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack msm.aie.veribox:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth msm.aie.veribox:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding msm.aie.veribox:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance msm.aie.veribox:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding msm.aie.veribox:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track msm.aie.veribox:track}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -8599,9 +8182,8 @@ public final class R {
       0x7f0300dc, 0x7f0300e8
     };
     /**
-     * <p>
-     * @attr description
-     * Text to use when the switch is in the checked/"on" state.
+     * <p>This symbol is the offset where the {@link android.R.attr#textOn}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -8610,9 +8192,8 @@ public final class R {
      */
     public static final int SwitchCompat_android_textOn=0;
     /**
-     * <p>
-     * @attr description
-     * Text to use when the switch is in the unchecked/"off" state.
+     * <p>This symbol is the offset where the {@link android.R.attr#textOff}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -8621,9 +8202,8 @@ public final class R {
      */
     public static final int SwitchCompat_android_textOff=1;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use as the "thumb" that switches back and forth.
+     * <p>This symbol is the offset where the {@link android.R.attr#thumb}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8634,9 +8214,8 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>
-     * @attr description
-     * Whether to draw on/off text.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#showText}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -8645,9 +8224,8 @@ public final class R {
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>
-     * @attr description
-     * Whether to split the track and leave a gap for the thumb drawable.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#splitTrack}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -8656,9 +8234,8 @@ public final class R {
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>
-     * @attr description
-     * Minimum width for the switch component
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#switchMinWidth}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -8670,9 +8247,8 @@ public final class R {
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>
-     * @attr description
-     * Minimum space between the switch and caption text
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#switchPadding}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -8684,9 +8260,8 @@ public final class R {
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>
-     * @attr description
-     * TextAppearance style for text displayed on the switch thumb.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#switchTextAppearance}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8697,9 +8272,8 @@ public final class R {
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>
-     * @attr description
-     * Amount of padding on either side of text within the switch thumb.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#thumbTextPadding}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -8711,9 +8285,8 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use as the "track" that the switch thumb slides within.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#track}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8731,104 +8304,88 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarDivider msm.aie.veribox:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #Theme_actionBarItemBackground msm.aie.veribox:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #Theme_actionBarPopupTheme msm.aie.veribox:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
-     * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Theme_actionBarSize msm.aie.veribox:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
-     * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #Theme_actionBarSplitStyle msm.aie.veribox:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #Theme_actionBarStyle msm.aie.veribox:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #Theme_actionBarDivider msm.aie.veribox:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarItemBackground msm.aie.veribox:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarPopupTheme msm.aie.veribox:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarSize msm.aie.veribox:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarSplitStyle msm.aie.veribox:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarStyle msm.aie.veribox:actionBarStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_actionBarTabBarStyle msm.aie.veribox:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarTabStyle msm.aie.veribox:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #Theme_actionBarTabStyle msm.aie.veribox:actionBarTabStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_actionBarTabTextStyle msm.aie.veribox:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarTheme msm.aie.veribox:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
-     * action bar.</td></tr>
-     * <tr><td><code>{@link #Theme_actionBarWidgetTheme msm.aie.veribox:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
-     * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #Theme_actionButtonStyle msm.aie.veribox:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #Theme_actionDropDownStyle msm.aie.veribox:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #Theme_actionMenuTextAppearance msm.aie.veribox:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
-     * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #Theme_actionMenuTextColor msm.aie.veribox:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #Theme_actionModeBackground msm.aie.veribox:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #Theme_actionBarTheme msm.aie.veribox:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarWidgetTheme msm.aie.veribox:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionButtonStyle msm.aie.veribox:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionDropDownStyle msm.aie.veribox:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionMenuTextAppearance msm.aie.veribox:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionMenuTextColor msm.aie.veribox:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeBackground msm.aie.veribox:actionModeBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_actionModeCloseButtonStyle msm.aie.veribox:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeCloseDrawable msm.aie.veribox:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #Theme_actionModeCopyDrawable msm.aie.veribox:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #Theme_actionModeCutDrawable msm.aie.veribox:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #Theme_actionModeFindDrawable msm.aie.veribox:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #Theme_actionModePasteDrawable msm.aie.veribox:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #Theme_actionModePopupWindowStyle msm.aie.veribox:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #Theme_actionModeSelectAllDrawable msm.aie.veribox:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #Theme_actionModeShareDrawable msm.aie.veribox:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #Theme_actionModeSplitBackground msm.aie.veribox:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #Theme_actionModeCloseDrawable msm.aie.veribox:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeCopyDrawable msm.aie.veribox:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeCutDrawable msm.aie.veribox:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeFindDrawable msm.aie.veribox:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModePasteDrawable msm.aie.veribox:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModePopupWindowStyle msm.aie.veribox:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeSelectAllDrawable msm.aie.veribox:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeShareDrawable msm.aie.veribox:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeSplitBackground msm.aie.veribox:actionModeSplitBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_actionModeStyle msm.aie.veribox:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeWebSearchDrawable msm.aie.veribox:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #Theme_actionModeWebSearchDrawable msm.aie.veribox:actionModeWebSearchDrawable}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_actionOverflowButtonStyle msm.aie.veribox:actionOverflowButtonStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_actionOverflowMenuStyle msm.aie.veribox:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_activityChooserViewStyle msm.aie.veribox:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #Theme_buttonBarButtonStyle msm.aie.veribox:buttonBarButtonStyle}</code></td><td>A style that may be applied to Buttons placed within a
-     * LinearLayout with the style buttonBarStyle to form a button bar.</td></tr>
-     * <tr><td><code>{@link #Theme_buttonBarStyle msm.aie.veribox:buttonBarStyle}</code></td><td>A style that may be applied to horizontal LinearLayouts
-     * to form a button bar.</td></tr>
-     * <tr><td><code>{@link #Theme_colorAccent msm.aie.veribox:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #Theme_colorButtonNormal msm.aie.veribox:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #Theme_colorControlActivated msm.aie.veribox:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #Theme_colorControlHighlight msm.aie.veribox:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #Theme_colorControlNormal msm.aie.veribox:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #Theme_colorPrimary msm.aie.veribox:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #Theme_colorPrimaryDark msm.aie.veribox:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #Theme_colorSwitchThumbNormal msm.aie.veribox:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #Theme_dividerHorizontal msm.aie.veribox:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #Theme_dividerVertical msm.aie.veribox:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #Theme_dropDownListViewStyle msm.aie.veribox:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight msm.aie.veribox:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #Theme_editTextBackground msm.aie.veribox:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #Theme_editTextColor msm.aie.veribox:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #Theme_homeAsUpIndicator msm.aie.veribox:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator msm.aie.veribox:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #Theme_activityChooserViewStyle msm.aie.veribox:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonBarButtonStyle msm.aie.veribox:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonBarStyle msm.aie.veribox:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorAccent msm.aie.veribox:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorButtonNormal msm.aie.veribox:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorControlActivated msm.aie.veribox:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorControlHighlight msm.aie.veribox:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorControlNormal msm.aie.veribox:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorPrimary msm.aie.veribox:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorPrimaryDark msm.aie.veribox:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorSwitchThumbNormal msm.aie.veribox:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dividerHorizontal msm.aie.veribox:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dividerVertical msm.aie.veribox:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dropDownListViewStyle msm.aie.veribox:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight msm.aie.veribox:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_editTextBackground msm.aie.veribox:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_editTextColor msm.aie.veribox:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_homeAsUpIndicator msm.aie.veribox:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator msm.aie.veribox:listChoiceBackgroundIndicator}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_listPopupWindowStyle msm.aie.veribox:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemHeight msm.aie.veribox:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemHeightLarge msm.aie.veribox:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemHeightSmall msm.aie.veribox:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft msm.aie.veribox:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemPaddingRight msm.aie.veribox:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #Theme_panelBackground msm.aie.veribox:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #Theme_panelMenuListTheme msm.aie.veribox:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #Theme_panelMenuListWidth msm.aie.veribox:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #Theme_popupMenuStyle msm.aie.veribox:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #Theme_popupWindowStyle msm.aie.veribox:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #Theme_searchViewStyle msm.aie.veribox:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #Theme_selectableItemBackground msm.aie.veribox:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
-     * that should react to pressed and focus states, but that do not
-     * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless msm.aie.veribox:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #Theme_spinnerDropDownItemStyle msm.aie.veribox:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #Theme_spinnerStyle msm.aie.veribox:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #Theme_switchStyle msm.aie.veribox:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu msm.aie.veribox:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceListItem msm.aie.veribox:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceListItemSmall msm.aie.veribox:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle msm.aie.veribox:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle msm.aie.veribox:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu msm.aie.veribox:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #Theme_textColorSearchUrl msm.aie.veribox:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle msm.aie.veribox:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #Theme_toolbarStyle msm.aie.veribox:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #Theme_windowActionBar msm.aie.veribox:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
-     * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #Theme_windowActionBarOverlay msm.aie.veribox:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
-     * application content.</td></tr>
-     * <tr><td><code>{@link #Theme_windowActionModeOverlay msm.aie.veribox:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
-     * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedHeightMajor msm.aie.veribox:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
-     * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedHeightMinor msm.aie.veribox:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
-     * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedWidthMajor msm.aie.veribox:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
-     * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedWidthMinor msm.aie.veribox:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
-     * that is, when in portrait.</td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemHeight msm.aie.veribox:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemHeightLarge msm.aie.veribox:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemHeightSmall msm.aie.veribox:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft msm.aie.veribox:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemPaddingRight msm.aie.veribox:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_panelBackground msm.aie.veribox:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_panelMenuListTheme msm.aie.veribox:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_panelMenuListWidth msm.aie.veribox:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_popupMenuStyle msm.aie.veribox:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_popupWindowStyle msm.aie.veribox:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_searchViewStyle msm.aie.veribox:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_selectableItemBackground msm.aie.veribox:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless msm.aie.veribox:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_spinnerDropDownItemStyle msm.aie.veribox:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_spinnerStyle msm.aie.veribox:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_switchStyle msm.aie.veribox:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu msm.aie.veribox:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceListItem msm.aie.veribox:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceListItemSmall msm.aie.veribox:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle msm.aie.veribox:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle msm.aie.veribox:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu msm.aie.veribox:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textColorSearchUrl msm.aie.veribox:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle msm.aie.veribox:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_toolbarStyle msm.aie.veribox:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowActionBar msm.aie.veribox:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowActionBarOverlay msm.aie.veribox:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowActionModeOverlay msm.aie.veribox:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedHeightMajor msm.aie.veribox:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedHeightMinor msm.aie.veribox:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedWidthMajor msm.aie.veribox:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedWidthMinor msm.aie.veribox:windowFixedWidthMinor}</code></td><td></td></tr>
      * </table>
      * @see #Theme_android_windowIsFloating
      * @see #Theme_actionBarDivider
@@ -8948,9 +8505,8 @@ public final class R {
      */
     public static final int Theme_android_windowIsFloating=0;
     /**
-     * <p>
-     * @attr description
-     * Custom divider drawable to use for elements in the action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarDivider}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8961,9 +8517,8 @@ public final class R {
      */
     public static final int Theme_actionBarDivider=1;
     /**
-     * <p>
-     * @attr description
-     * Custom item state list drawable background for action bar items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarItemBackground}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8974,10 +8529,8 @@ public final class R {
      */
     public static final int Theme_actionBarItemBackground=2;
     /**
-     * <p>
-     * @attr description
-     * Reference to a theme that should be used to inflate popups
-     * shown by widgets in the action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarPopupTheme}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -8988,10 +8541,8 @@ public final class R {
      */
     public static final int Theme_actionBarPopupTheme=3;
     /**
-     * <p>
-     * @attr description
-     * Size of the Action Bar, including the contextual
-     * bar used to present Action Modes.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarSize}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9011,12 +8562,8 @@ public final class R {
      */
     public static final int Theme_actionBarSize=4;
     /**
-     * <p>
-     * @attr description
-     * Reference to a style for the split Action Bar. This style
-     * controls the split component that holds the menu/action
-     * buttons. actionBarStyle is still used for the primary
-     * bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarSplitStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9027,9 +8574,8 @@ public final class R {
      */
     public static final int Theme_actionBarSplitStyle=5;
     /**
-     * <p>
-     * @attr description
-     * Reference to a style for the Action Bar
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9052,9 +8598,8 @@ public final class R {
      */
     public static final int Theme_actionBarTabBarStyle=7;
     /**
-     * <p>
-     * @attr description
-     * Default style for tabs within an action bar
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarTabStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9077,11 +8622,8 @@ public final class R {
      */
     public static final int Theme_actionBarTabTextStyle=9;
     /**
-     * <p>
-     * @attr description
-     * Reference to a theme that should be used to inflate the
-     * action bar. This will be inherited by any widget inflated
-     * into the action bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarTheme}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9092,15 +8634,8 @@ public final class R {
      */
     public static final int Theme_actionBarTheme=10;
     /**
-     * <p>
-     * @attr description
-     * Reference to a theme that should be used to inflate widgets
-     * and layouts destined for the action bar. Most of the time
-     * this will be a reference to the current theme, but when
-     * the action bar has a significantly different contrast
-     * profile than the rest of the activity the difference
-     * can become important. If this is set to @null the current
-     * theme will be used.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionBarWidgetTheme}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9111,9 +8646,8 @@ public final class R {
      */
     public static final int Theme_actionBarWidgetTheme=11;
     /**
-     * <p>
-     * @attr description
-     * Default action button style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionButtonStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9124,9 +8658,8 @@ public final class R {
      */
     public static final int Theme_actionButtonStyle=12;
     /**
-     * <p>
-     * @attr description
-     * Default ActionBar dropdown style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionDropDownStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9137,10 +8670,8 @@ public final class R {
      */
     public static final int Theme_actionDropDownStyle=13;
     /**
-     * <p>
-     * @attr description
-     * TextAppearance style that will be applied to text that
-     * appears within action menu items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionMenuTextAppearance}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9151,9 +8682,8 @@ public final class R {
      */
     public static final int Theme_actionMenuTextAppearance=14;
     /**
-     * <p>
-     * @attr description
-     * Color for text that appears within action menu items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionMenuTextColor}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9167,9 +8697,8 @@ public final class R {
      */
     public static final int Theme_actionMenuTextColor=15;
     /**
-     * <p>
-     * @attr description
-     * Background drawable to use for action mode UI
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeBackground}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9192,9 +8721,8 @@ public final class R {
      */
     public static final int Theme_actionModeCloseButtonStyle=17;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the close action mode button
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeCloseDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9205,9 +8733,8 @@ public final class R {
      */
     public static final int Theme_actionModeCloseDrawable=18;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the Copy action button in Contextual Action Bar
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeCopyDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9218,9 +8745,8 @@ public final class R {
      */
     public static final int Theme_actionModeCopyDrawable=19;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the Cut action button in Contextual Action Bar
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeCutDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9231,9 +8757,8 @@ public final class R {
      */
     public static final int Theme_actionModeCutDrawable=20;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the Find action button in WebView selection action modes
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeFindDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9244,9 +8769,8 @@ public final class R {
      */
     public static final int Theme_actionModeFindDrawable=21;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the Paste action button in Contextual Action Bar
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModePasteDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9257,9 +8781,8 @@ public final class R {
      */
     public static final int Theme_actionModePasteDrawable=22;
     /**
-     * <p>
-     * @attr description
-     * PopupWindow style to use for action modes when showing as a window overlay.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModePopupWindowStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9270,9 +8793,8 @@ public final class R {
      */
     public static final int Theme_actionModePopupWindowStyle=23;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the Select all action button in Contextual Action Bar
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeSelectAllDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9283,9 +8805,8 @@ public final class R {
      */
     public static final int Theme_actionModeSelectAllDrawable=24;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the Share action button in WebView selection action modes
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeShareDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9296,9 +8817,8 @@ public final class R {
      */
     public static final int Theme_actionModeShareDrawable=25;
     /**
-     * <p>
-     * @attr description
-     * Background drawable to use for action mode UI in the lower split bar
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeSplitBackground}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9321,9 +8841,8 @@ public final class R {
      */
     public static final int Theme_actionModeStyle=27;
     /**
-     * <p>
-     * @attr description
-     * Drawable to use for the Web Search action button in WebView selection action modes
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#actionModeWebSearchDrawable}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9358,9 +8877,8 @@ public final class R {
      */
     public static final int Theme_actionOverflowMenuStyle=30;
     /**
-     * <p>
-     * @attr description
-     * Default ActivityChooserView style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#activityChooserViewStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9371,10 +8889,8 @@ public final class R {
      */
     public static final int Theme_activityChooserViewStyle=31;
     /**
-     * <p>
-     * @attr description
-     * A style that may be applied to Buttons placed within a
-     * LinearLayout with the style buttonBarStyle to form a button bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#buttonBarButtonStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9385,10 +8901,8 @@ public final class R {
      */
     public static final int Theme_buttonBarButtonStyle=32;
     /**
-     * <p>
-     * @attr description
-     * A style that may be applied to horizontal LinearLayouts
-     * to form a button bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#buttonBarStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9399,10 +8913,8 @@ public final class R {
      */
     public static final int Theme_buttonBarStyle=33;
     /**
-     * <p>
-     * @attr description
-     * Bright complement to the primary branding color. By default, this is the color applied
-     * to framework controls (via colorControlActivated).
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorAccent}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9412,9 +8924,8 @@ public final class R {
      */
     public static final int Theme_colorAccent=34;
     /**
-     * <p>
-     * @attr description
-     * The color applied to framework buttons in their normal state.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorButtonNormal}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9424,9 +8935,8 @@ public final class R {
      */
     public static final int Theme_colorButtonNormal=35;
     /**
-     * <p>
-     * @attr description
-     * The color applied to framework controls in their activated (ex. checked) state.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorControlActivated}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9436,9 +8946,8 @@ public final class R {
      */
     public static final int Theme_colorControlActivated=36;
     /**
-     * <p>
-     * @attr description
-     * The color applied to framework control highlights (ex. ripples, list selectors).
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorControlHighlight}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9448,9 +8957,8 @@ public final class R {
      */
     public static final int Theme_colorControlHighlight=37;
     /**
-     * <p>
-     * @attr description
-     * The color applied to framework controls in their normal state.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorControlNormal}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9460,10 +8968,8 @@ public final class R {
      */
     public static final int Theme_colorControlNormal=38;
     /**
-     * <p>
-     * @attr description
-     * The primary branding color for the app. By default, this is the color applied to the
-     * action bar background.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorPrimary}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9473,10 +8979,8 @@ public final class R {
      */
     public static final int Theme_colorPrimary=39;
     /**
-     * <p>
-     * @attr description
-     * Dark variant of the primary branding color. By default, this is the color applied to
-     * the status bar (via statusBarColor) and navigation bar (via navigationBarColor).
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorPrimaryDark}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9486,9 +8990,8 @@ public final class R {
      */
     public static final int Theme_colorPrimaryDark=40;
     /**
-     * <p>
-     * @attr description
-     * The color applied to framework switch thumbs in their normal state.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#colorSwitchThumbNormal}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
@@ -9498,9 +9001,8 @@ public final class R {
      */
     public static final int Theme_colorSwitchThumbNormal=41;
     /**
-     * <p>
-     * @attr description
-     * A drawable that may be used as a horizontal divider between visual elements.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#dividerHorizontal}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9511,9 +9013,8 @@ public final class R {
      */
     public static final int Theme_dividerHorizontal=42;
     /**
-     * <p>
-     * @attr description
-     * A drawable that may be used as a vertical divider between visual elements.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#dividerVertical}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9524,9 +9025,8 @@ public final class R {
      */
     public static final int Theme_dividerVertical=43;
     /**
-     * <p>
-     * @attr description
-     * ListPopupWindow compatibility
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#dropDownListViewStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9537,9 +9037,8 @@ public final class R {
      */
     public static final int Theme_dropDownListViewStyle=44;
     /**
-     * <p>
-     * @attr description
-     * The preferred item height for dropdown lists.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#dropdownListPreferredItemHeight}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9551,9 +9050,8 @@ public final class R {
      */
     public static final int Theme_dropdownListPreferredItemHeight=45;
     /**
-     * <p>
-     * @attr description
-     * EditText background drawable.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#editTextBackground}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9564,9 +9062,8 @@ public final class R {
      */
     public static final int Theme_editTextBackground=46;
     /**
-     * <p>
-     * @attr description
-     * EditText text foreground color.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#editTextColor}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9580,9 +9077,8 @@ public final class R {
      */
     public static final int Theme_editTextColor=47;
     /**
-     * <p>
-     * @attr description
-     * Specifies a drawable to use for the 'home as up' indicator.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#homeAsUpIndicator}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9593,9 +9089,8 @@ public final class R {
      */
     public static final int Theme_homeAsUpIndicator=48;
     /**
-     * <p>
-     * @attr description
-     * Drawable used as a background for selected list items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#listChoiceBackgroundIndicator}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9618,9 +9113,8 @@ public final class R {
      */
     public static final int Theme_listPopupWindowStyle=50;
     /**
-     * <p>
-     * @attr description
-     * The preferred list item height.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#listPreferredItemHeight}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9632,9 +9126,8 @@ public final class R {
      */
     public static final int Theme_listPreferredItemHeight=51;
     /**
-     * <p>
-     * @attr description
-     * A larger, more robust list item height.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#listPreferredItemHeightLarge}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9646,9 +9139,8 @@ public final class R {
      */
     public static final int Theme_listPreferredItemHeightLarge=52;
     /**
-     * <p>
-     * @attr description
-     * A smaller, sleeker list item height.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#listPreferredItemHeightSmall}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9660,9 +9152,8 @@ public final class R {
      */
     public static final int Theme_listPreferredItemHeightSmall=53;
     /**
-     * <p>
-     * @attr description
-     * The preferred padding along the left edge of list items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#listPreferredItemPaddingLeft}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9674,9 +9165,8 @@ public final class R {
      */
     public static final int Theme_listPreferredItemPaddingLeft=54;
     /**
-     * <p>
-     * @attr description
-     * The preferred padding along the right edge of list items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#listPreferredItemPaddingRight}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9688,9 +9178,8 @@ public final class R {
      */
     public static final int Theme_listPreferredItemPaddingRight=55;
     /**
-     * <p>
-     * @attr description
-     * The background of a panel when it is inset from the left and right edges of the screen.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#panelBackground}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9701,9 +9190,8 @@ public final class R {
      */
     public static final int Theme_panelBackground=56;
     /**
-     * <p>
-     * @attr description
-     * Default Panel Menu style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#panelMenuListTheme}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9714,9 +9202,8 @@ public final class R {
      */
     public static final int Theme_panelMenuListTheme=57;
     /**
-     * <p>
-     * @attr description
-     * Default Panel Menu width.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#panelMenuListWidth}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -9728,9 +9215,8 @@ public final class R {
      */
     public static final int Theme_panelMenuListWidth=58;
     /**
-     * <p>
-     * @attr description
-     * Default PopupMenu style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#popupMenuStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9741,9 +9227,8 @@ public final class R {
      */
     public static final int Theme_popupMenuStyle=59;
     /**
-     * <p>
-     * @attr description
-     * Default PopupWindow style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#popupWindowStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9754,9 +9239,8 @@ public final class R {
      */
     public static final int Theme_popupWindowStyle=60;
     /**
-     * <p>
-     * @attr description
-     * Style for the search query widget.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#searchViewStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9767,11 +9251,8 @@ public final class R {
      */
     public static final int Theme_searchViewStyle=61;
     /**
-     * <p>
-     * @attr description
-     * A style that may be applied to buttons or other selectable items
-     * that should react to pressed and focus states, but that do not
-     * have a clear visual border along the edges.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#selectableItemBackground}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9782,9 +9263,8 @@ public final class R {
      */
     public static final int Theme_selectableItemBackground=62;
     /**
-     * <p>
-     * @attr description
-     * Background drawable for borderless standalone items that need focus/pressed states.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#selectableItemBackgroundBorderless}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9795,9 +9275,8 @@ public final class R {
      */
     public static final int Theme_selectableItemBackgroundBorderless=63;
     /**
-     * <p>
-     * @attr description
-     * Default Spinner style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#spinnerDropDownItemStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9808,9 +9287,8 @@ public final class R {
      */
     public static final int Theme_spinnerDropDownItemStyle=64;
     /**
-     * <p>
-     * @attr description
-     * Default Spinner style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#spinnerStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9821,9 +9299,8 @@ public final class R {
      */
     public static final int Theme_spinnerStyle=65;
     /**
-     * <p>
-     * @attr description
-     * Default style for the Switch widget.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#switchStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9834,9 +9311,8 @@ public final class R {
      */
     public static final int Theme_switchStyle=66;
     /**
-     * <p>
-     * @attr description
-     * Text color, typeface, size, and style for the text inside of a popup menu.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textAppearanceLargePopupMenu}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9847,9 +9323,8 @@ public final class R {
      */
     public static final int Theme_textAppearanceLargePopupMenu=67;
     /**
-     * <p>
-     * @attr description
-     * The preferred TextAppearance for the primary text of list items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textAppearanceListItem}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9860,9 +9335,8 @@ public final class R {
      */
     public static final int Theme_textAppearanceListItem=68;
     /**
-     * <p>
-     * @attr description
-     * The preferred TextAppearance for the primary text of small list items.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textAppearanceListItemSmall}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9873,9 +9347,8 @@ public final class R {
      */
     public static final int Theme_textAppearanceListItemSmall=69;
     /**
-     * <p>
-     * @attr description
-     * Text color, typeface, size, and style for system search result subtitle. Defaults to primary inverse text color.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textAppearanceSearchResultSubtitle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9886,9 +9359,8 @@ public final class R {
      */
     public static final int Theme_textAppearanceSearchResultSubtitle=70;
     /**
-     * <p>
-     * @attr description
-     * Text color, typeface, size, and style for system search result title. Defaults to primary inverse text color.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textAppearanceSearchResultTitle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9899,9 +9371,8 @@ public final class R {
      */
     public static final int Theme_textAppearanceSearchResultTitle=71;
     /**
-     * <p>
-     * @attr description
-     * Text color, typeface, size, and style for small text inside of a popup menu.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textAppearanceSmallPopupMenu}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9912,9 +9383,8 @@ public final class R {
      */
     public static final int Theme_textAppearanceSmallPopupMenu=72;
     /**
-     * <p>
-     * @attr description
-     * Text color for urls in search suggestions, used by things like global search
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#textColorSearchUrl}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9928,9 +9398,8 @@ public final class R {
      */
     public static final int Theme_textColorSearchUrl=73;
     /**
-     * <p>
-     * @attr description
-     * Default Toolar NavigationButtonStyle
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#toolbarNavigationButtonStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9941,9 +9410,8 @@ public final class R {
      */
     public static final int Theme_toolbarNavigationButtonStyle=74;
     /**
-     * <p>
-     * @attr description
-     * Default Toolbar style.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#toolbarStyle}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -9954,10 +9422,8 @@ public final class R {
      */
     public static final int Theme_toolbarStyle=75;
     /**
-     * <p>
-     * @attr description
-     * Flag indicating whether this window should have an Action Bar
-     * in place of the usual title bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#windowActionBar}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -9966,11 +9432,8 @@ public final class R {
      */
     public static final int Theme_windowActionBar=76;
     /**
-     * <p>
-     * @attr description
-     * Flag indicating whether this window's Action Bar should overlay
-     * application content. Does nothing if the window would not
-     * have an Action Bar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#windowActionBarOverlay}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -9979,10 +9442,8 @@ public final class R {
      */
     public static final int Theme_windowActionBarOverlay=77;
     /**
-     * <p>
-     * @attr description
-     * Flag indicating whether action modes should overlay window content
-     * when there is not reserved space for their UI (such as an Action Bar).
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#windowActionModeOverlay}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -9991,11 +9452,8 @@ public final class R {
      */
     public static final int Theme_windowActionModeOverlay=78;
     /**
-     * <p>
-     * @attr description
-     * A fixed height for the window along the major axis of the screen,
-     * that is, when in portrait. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#windowFixedHeightMajor}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10011,11 +9469,8 @@ public final class R {
      */
     public static final int Theme_windowFixedHeightMajor=79;
     /**
-     * <p>
-     * @attr description
-     * A fixed height for the window along the minor axis of the screen,
-     * that is, when in landscape. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#windowFixedHeightMinor}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10031,11 +9486,8 @@ public final class R {
      */
     public static final int Theme_windowFixedHeightMinor=80;
     /**
-     * <p>
-     * @attr description
-     * A fixed width for the window along the major axis of the screen,
-     * that is, when in landscape. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#windowFixedWidthMajor}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10051,11 +9503,8 @@ public final class R {
      */
     public static final int Theme_windowFixedWidthMajor=81;
     /**
-     * <p>
-     * @attr description
-     * A fixed width for the window along the minor axis of the screen,
-     * that is, when in portrait. Can be either an absolute dimension
-     * or a fraction of the screen size in that dimension.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#windowFixedWidthMinor}
+     * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10079,22 +9528,19 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription msm.aie.veribox:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon msm.aie.veribox:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd msm.aie.veribox:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft msm.aie.veribox:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight msm.aie.veribox:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart msm.aie.veribox:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription msm.aie.veribox:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon msm.aie.veribox:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd msm.aie.veribox:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft msm.aie.veribox:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight msm.aie.veribox:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart msm.aie.veribox:contentInsetStart}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_maxButtonHeight msm.aie.veribox:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription msm.aie.veribox:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
-     * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon msm.aie.veribox:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
-     * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme msm.aie.veribox:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
-     * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle msm.aie.veribox:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription msm.aie.veribox:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon msm.aie.veribox:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme msm.aie.veribox:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle msm.aie.veribox:subtitle}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_subtitleTextAppearance msm.aie.veribox:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_theme msm.aie.veribox:theme}</code></td><td>Specifies a theme override for a view.</td></tr>
+     * <tr><td><code>{@link #Toolbar_theme msm.aie.veribox:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_title msm.aie.veribox:title}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_titleMarginBottom msm.aie.veribox:titleMarginBottom}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_titleMarginEnd msm.aie.veribox:titleMarginEnd}</code></td><td></td></tr>
@@ -10164,9 +9610,8 @@ public final class R {
      */
     public static final int Toolbar_android_gravity=0;
     /**
-     * <p>
-     * @attr description
-     * Allows us to read in the minHeight attr pre-v16
+     * <p>This symbol is the offset where the {@link android.R.attr#minHeight}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10178,9 +9623,8 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>
-     * @attr description
-     * Text to set as the content description for the collapse button.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#collapseContentDescription}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -10189,9 +9633,8 @@ public final class R {
      */
     public static final int Toolbar_collapseContentDescription=2;
     /**
-     * <p>
-     * @attr description
-     * Icon drawable to use for the collapse button.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#collapseIcon}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -10202,10 +9645,8 @@ public final class R {
      */
     public static final int Toolbar_collapseIcon=3;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetEnd}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10217,10 +9658,8 @@ public final class R {
      */
     public static final int Toolbar_contentInsetEnd=4;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetLeft}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10232,10 +9671,8 @@ public final class R {
      */
     public static final int Toolbar_contentInsetLeft=5;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetRight}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10247,10 +9684,8 @@ public final class R {
      */
     public static final int Toolbar_contentInsetRight=6;
     /**
-     * <p>
-     * @attr description
-     * Minimum inset for content views within a bar. Navigation buttons and
-     * menu views are excepted. Only valid for some themes and configurations.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#contentInsetStart}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10275,10 +9710,8 @@ public final class R {
      */
     public static final int Toolbar_maxButtonHeight=8;
     /**
-     * <p>
-     * @attr description
-     * Text to set as the content description for the navigation button
-     * located at the start of the toolbar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#navigationContentDescription}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -10287,10 +9720,8 @@ public final class R {
      */
     public static final int Toolbar_navigationContentDescription=9;
     /**
-     * <p>
-     * @attr description
-     * Icon drawable to use for the navigation button located at
-     * the start of the toolbar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#navigationIcon}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -10301,10 +9732,8 @@ public final class R {
      */
     public static final int Toolbar_navigationIcon=10;
     /**
-     * <p>
-     * @attr description
-     * Reference to a theme that should be used to inflate popups
-     * shown by widgets in the toolbar.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#popupTheme}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -10315,9 +9744,8 @@ public final class R {
      */
     public static final int Toolbar_popupTheme=11;
     /**
-     * <p>
-     * @attr description
-     * Specifies subtitle text used for navigationMode="normal"
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#subtitle}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -10338,12 +9766,8 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextAppearance=13;
     /**
-     * <p>
-     * @attr description
-     * Specifies a theme override for a view. When a theme override is set, the
-     * view will be inflated using a {@link android.content.Context} themed with
-     * the specified resource. During XML inflation, any child views under the
-     * view with a theme override will inherit the themed context.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#theme}
+     * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -10448,8 +9872,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd msm.aie.veribox:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart msm.aie.veribox:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd msm.aie.veribox:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart msm.aie.veribox:paddingStart}</code></td><td></td></tr>
      * </table>
      * @see #View_android_focusable
      * @see #View_paddingEnd
@@ -10459,14 +9883,8 @@ public final class R {
       0x010100da, 0x7f0300ac, 0x7f0300ad
     };
     /**
-     * <p>
-     * @attr description
-     * Boolean that controls whether a view can take focus.  By default the user can not
-     * move focus to a view; by setting this attribute to true the view is
-     * allowed to take focus.  This value does not impact the behavior of
-     * directly calling {@link android.view.View#requestFocus}, which will
-     * always request focus regardless of this view.  It only impacts where
-     * focus navigation will try to move focus.
+     * <p>This symbol is the offset where the {@link android.R.attr#focusable}
+     * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -10475,9 +9893,8 @@ public final class R {
      */
     public static final int View_android_focusable=0;
     /**
-     * <p>
-     * @attr description
-     * Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#paddingEnd}
+     * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10489,9 +9906,8 @@ public final class R {
      */
     public static final int View_paddingEnd=1;
     /**
-     * <p>
-     * @attr description
-     * Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.
+     * <p>This symbol is the offset where the {@link msm.aie.veribox.R.attr#paddingStart}
+     * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -10533,11 +9949,8 @@ public final class R {
      */
     public static final int ViewStubCompat_android_id=0;
     /**
-     * <p>
-     * @attr description
-     * Supply an identifier for the layout resource to inflate when the ViewStub
-     * becomes visible or when forced to do so. The layout resource must be a
-     * valid reference to a layout.
+     * <p>This symbol is the offset where the {@link android.R.attr#layout}
+     * attribute's value can be found in the {@link #ViewStubCompat} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -10548,9 +9961,8 @@ public final class R {
      */
     public static final int ViewStubCompat_android_layout=1;
     /**
-     * <p>
-     * @attr description
-     * Overrides the id of the inflated View with this value.
+     * <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
+     * attribute's value can be found in the {@link #ViewStubCompat} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
