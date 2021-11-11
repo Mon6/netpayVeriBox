@@ -416,10 +416,13 @@ dimen layout_430
 dimen layout_45
 dimen layout_50
 dimen layout_60
+dimen layout_600
+dimen layout_650
 dimen layout_70
 dimen layout_75
 dimen layout_80
 dimen layout_85
+dimen layout_90
 dimen letra_config1
 dimen letra_config2
 dimen letra_user1
@@ -437,6 +440,7 @@ dimen margin_45
 dimen margin_5
 dimen margin_50
 dimen margin_65
+dimen margin_80
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -477,6 +481,8 @@ dimen textSize_35
 dimen textSize_40
 dimen textSize_45
 dimen textSize_50
+dimen textSize_60
+dimen textSize_70
 drawable abc_ab_share_pack_holo_dark
 drawable abc_ab_share_pack_holo_light
 drawable abc_btn_check_material

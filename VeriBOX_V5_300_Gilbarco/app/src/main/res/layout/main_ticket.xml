@@ -25,13 +25,13 @@
 
                     <Button
                         android:id="@+id/button14"
-                        android:layout_width="@dimen/imagen_gnr"
-                        android:layout_height="@dimen/imagen_gnr"
+                        android:layout_width="@dimen/layout_45"
+                        android:layout_height="@dimen/layout_45"
                         android:layout_marginLeft="10dp"
                         android:layout_marginTop="10dp"
                         android:background="@drawable/home"
                         android:onClick="fin"
-                        android:textSize="30dp" />
+                        android:textSize="@dimen/textSize_25" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -40,13 +40,13 @@
 
                         <Button
                             android:id="@+id/button15"
-                            android:layout_width="@dimen/boton_opc"
+                            android:layout_width="@dimen/layout_300"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:layout_marginTop="30dp"
+                            android:layout_marginTop="@dimen/margin_15"
                             android:onClick="fin"
                             android:text="FACTURA"
-                            android:textSize="@dimen/boton_opc_letra" />
+                            android:textSize="@dimen/textSize_30" />
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
@@ -59,20 +59,20 @@
                     android:id="@+id/textView40"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="80dp"
+                    android:layout_marginLeft="@dimen/margin_40"
                     android:text="TOTAL:"
                     android:textColor="@android:color/black"
-                    android:textSize="@dimen/tamano_40" />
+                    android:textSize="@dimen/textSize_20" />
 
                 <TextView
                     android:id="@+id/strXYmsj"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="20dp"
+                    android:layout_marginTop="@dimen/margin_10"
                     android:text="Capturar Referencia:"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textSize="@dimen/tamano_40" />
+                    android:textSize="@dimen/textSize_20" />
             </FrameLayout>
 
             <FrameLayout
@@ -87,10 +87,10 @@
 
                     <Button
                         android:id="@+id/teclado2"
-                        android:layout_width="100dp"
-                        android:layout_height="80dp"
-                        android:layout_marginRight="@dimen/tamano_60"
-                        android:layout_marginTop="30dp"
+                        android:layout_width="@dimen/layout_100"
+                        android:layout_height="@dimen/layout_75"
+                        android:layout_marginRight="30dp"
+                        android:layout_marginTop="80dp"
                         android:background="@drawable/teclado"
                         android:gravity="right"
                         android:onClick="teclado" />
@@ -103,17 +103,17 @@
                     android:layout_marginLeft="70dp"
                     android:text="$0.00"
                     android:textColor="@android:color/black"
-                    android:textSize="@dimen/tamano_70" />
+                    android:textSize="@dimen/textSize_35" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="20dp">
+                    android:layout_marginTop="@dimen/margin_10">
 
                     <EditText
                         android:id="@+id/editText1"
-                        android:layout_width="337dp"
+                        android:layout_width="@dimen/layout_325"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:ems="10"
@@ -125,16 +125,16 @@
                         android:nextFocusUp="@id/editText1"
                         android:nextFocusDown="@id/editText1"
                         android:nextFocusForward="@id/editText1"
-                        android:textSize="50dp"></EditText>
+                        android:textSize="@dimen/textSize_50"></EditText>
 
                     <Button
                         android:id="@+id/button1"
-                        android:layout_width="@dimen/imagen_gnr"
-                        android:layout_height="@dimen/imagen_gnr"
-                        android:layout_marginLeft="50dp"
+                        android:layout_width="@dimen/layout_45"
+                        android:layout_height="@dimen/layout_45"
+                        android:layout_marginLeft="10dp"
                         android:background="@drawable/mas"
                         android:onClick="mas"
-                        android:textSize="50dp" />
+                        android:textSize="@dimen/textSize_50" />
 
                 </LinearLayout>
             </FrameLayout>
@@ -147,7 +147,7 @@
                 android:layout_weight="0.00"
                 android:text="Referencias"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:textSize="@dimen/tamano_30" />
+                android:textSize="@dimen/textSize_15" />
 
 
 
@@ -164,11 +164,11 @@
 
                     <SurfaceView
                         android:id="@+id/camera_view"
-                        android:layout_width="@dimen/imagen_gnr_t"
-                        android:layout_height="@dimen/imagen_gnr_t"
+                        android:layout_width="@dimen/layout_50"
+                        android:layout_height="@dimen/layout_50"
                         android:layout_alignParentLeft="true"
                         android:layout_centerVertical="true"
-                        android:layout_marginLeft="@dimen/tamano_50" />
+                        android:layout_marginLeft="@dimen/margin_25" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -194,19 +194,19 @@
                                 android:layout_height="wrap_content"
                                 android:text="Respuesta"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/tamano_30" />
+                                android:textSize="@dimen/textSize_15" />
                         </LinearLayout>
                     </ScrollView>
 
                     <Button
                         android:id="@+id/button2"
-                        android:layout_width="@dimen/imagen_gnr"
-                        android:layout_height="@dimen/imagen_gnr"
+                        android:layout_width="@dimen/layout_45"
+                        android:layout_height="@dimen/layout_45"
                         android:layout_marginLeft="30dp"
                         android:layout_marginTop="30dp"
                         android:background="@drawable/check"
                         android:onClick="ok"
-                        android:textSize="50dp" />
+                        android:textSize="@dimen/textSize_50" />
 
                 </LinearLayout>
 
