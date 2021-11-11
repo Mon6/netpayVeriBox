@@ -442,6 +442,7 @@ dimen margin_45
 dimen margin_5
 dimen margin_50
 dimen margin_65
+dimen margin_75
 dimen margin_80
 dimen notification_action_icon_size
 dimen notification_action_text_size
