@@ -30,6 +30,7 @@
     <dimen name="layout_250">250dp</dimen>
     <dimen name="layout_300">300dp</dimen>
     <dimen name="layout_325">325dp</dimen>
+    <dimen name="layout_350">350dp</dimen>
     <dimen name="layout_400">400dp</dimen>
     <dimen name="layout_430">430dp</dimen>
 

@@ -21,8 +21,8 @@
 
                 <RelativeLayout
                     android:id="@+id/relativeLayout1"
-                    android:layout_width="700dp"
-                    android:layout_height="400dp"
+                    android:layout_width="@dimen/layout_350"
+                    android:layout_height="@dimen/layout_200"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
                     android:background="?android:attr/colorEdgeEffect"
@@ -41,34 +41,34 @@
                             android:gravity="center"
                             android:text="CENTRADOS"
                             android:textColor="#000000"
-                            android:textSize="60dp" />
+                            android:textSize="@dimen/layout_30" />
 
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:layout_marginTop="30sp"
+                            android:layout_marginTop="@dimen/margin_15"
                             android:orientation="horizontal">
 
                             <Button
                                 android:id="@+id/button20"
-                                android:layout_width="300dp"
+                                android:layout_width="@dimen/layout_150"
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:background="@android:color/darker_gray"
                                 android:onClick="ops1"
                                 android:text="ops1"
-                                android:textSize="40dp" />
+                                android:textSize="@dimen/textSize_20" />
 
                             <Button
                                 android:id="@+id/button21"
-                                android:layout_width="300dp"
+                                android:layout_width="@dimen/layout_150"
                                 android:layout_height="wrap_content"
-                                android:layout_marginLeft="50dp"
+                                android:layout_marginLeft="@dimen/margin_25"
                                 android:layout_weight="1"
                                 android:background="@android:color/darker_gray"
                                 android:onClick="ops2"
                                 android:text="ops2"
-                                android:textSize="40dp" />
+                                android:textSize="@dimen/textSize_20" />
                         </LinearLayout>
 
                     </LinearLayout>
