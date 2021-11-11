@@ -75,7 +75,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="@dimen/tamano_10"
+                    android:layout_marginTop="@dimen/margin_5"
                     android:orientation="horizontal">
 
                     <TextView
@@ -120,7 +120,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="@dimen/tamano_20"
+                    android:layout_marginTop="@dimen/margin_10"
                     android:visibility="visible">
 
                     <LinearLayout
@@ -159,7 +159,7 @@
                         android:layout_width="@dimen/layout_30"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
-                        android:layout_marginLeft="@dimen/tamano_20"
+                        android:layout_marginLeft="@dimen/margin_10"
                         android:text="$ "
                         android:textAppearance="?android:attr/textAppearanceLarge"
                         android:textSize="@dimen/textSize_25" />
@@ -195,7 +195,7 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="@dimen/tamano_20"
+                        android:layout_marginLeft="@dimen/margin_10"
                         android:orientation="vertical">
 
                         <Button
@@ -210,7 +210,7 @@
                             android:layout_width="@dimen/layout_25"
                             android:layout_height="@dimen/layout_25"
                             android:layout_gravity="center_vertical"
-                            android:layout_marginTop="@dimen/tamano_20"
+                            android:layout_marginTop="@dimen/margin_10"
                             android:background="@drawable/check"
                             android:onClick="flotilla4"
                             android:textSize="@dimen/textSize_25" />
@@ -222,7 +222,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="@dimen/tamano_20"
+                    android:layout_marginTop="@dimen/margin_10"
                     android:orientation="vertical"
                     android:visibility="visible">
 
@@ -282,7 +282,7 @@
                                 android:id="@+id/button"
                                 android:layout_width="@dimen/layout_50"
                                 android:layout_height="@dimen/layout_50"
-                                android:layout_marginTop="@dimen/tamano_20"
+                                android:layout_marginTop="@dimen/margin_10"
                                 android:layout_weight="1"
                                 android:background="@drawable/check"
                                 android:onClick="sig_pag" />
@@ -296,7 +296,7 @@
             <FrameLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="@dimen/tamano_20">
+                android:layout_marginTop="@dimen/margin_10">
 
                 <Button
                     android:id="@+id/button22"
