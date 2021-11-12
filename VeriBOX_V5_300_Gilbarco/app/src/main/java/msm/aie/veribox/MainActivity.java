@@ -70,9 +70,12 @@ import android.view.WindowManager;
 import android.view.View.OnTouchListener;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -181,6 +184,8 @@ public class MainActivity extends Activity implements OnKeyListener{
 	int visOperador, visTienda, visTickets, visMepagoT, visOrdenTP, visTckCobro, visAcumula;
 	boolean inicia0, busca_imp, revMsjEpos, revComm, msImpNoRs;
 	int treloj;
+
+	private Spinner sp_pruebas;
 
 	Timer timer = new Timer();	//Tiempo de Mensajes de Impresora INICIAL Conectada o NO.
 	Timer timer2 = new Timer();	//Tiempo del Reloj
@@ -353,7 +358,97 @@ textView36= (TextView)findViewById(R.id.textView36);
 textView36.setVisibility(View.INVISIBLE);
  //textView30 = (TextView)findViewById(R.id.textView30);
  //textView2.setVisibility(View.VISIBLE);
+// TODO ->PRUEBAS -----------------------------------------------------------------------
+	sp_pruebas = (Spinner) findViewById(R.id.sp_pueba);
 
+	ArrayAdapter adapter1 = ArrayAdapter.createFromResource(
+			this, R.array.prueba, android.R.layout.simple_spinner_item);
+	adapter1.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+	sp_pruebas.setAdapter(adapter1);
+	sp_pruebas.setSelection(0);
+
+	sp_pruebas.setOnItemSelectedListener(
+			new AdapterView.OnItemSelectedListener() {
+				public void onItemSelected(AdapterView<?> spn, android.view.View v, int posicion, long id) {
+					//Toast.makeText(spn.getContext(), "Has seleccionado " + spn.getItemAtPosition(posicion).toString(), Toast.LENGTH_LONG).show();
+
+					if (posicion == 1 ){
+						setContentView(R.layout.configura);
+					}
+					if (posicion == 2 ){
+						setContentView(R.layout.configura_clv);
+					}
+					if (posicion == 4 ){
+						setContentView(R.layout.configura_pos_lector);
+					}
+					if (posicion == 5 ){
+						setContentView(R.layout.fac_rapida);
+					}
+					if (posicion == 6 ){
+						setContentView(R.layout.fac_rapida1);
+					}
+					if (posicion == 7 ){
+						setContentView(R.layout.fac_rapida1_msj);
+					}
+					if (posicion == 8 ){
+						setContentView(R.layout.flotilla1);
+					}
+					if (posicion == 9 ){
+						setContentView(R.layout.flotilla2);
+					}
+					if (posicion == 10 ){
+						setContentView(R.layout.flotilla2_cn);
+					}
+					if (posicion == 11 ){
+						setContentView(R.layout.flotilla4);
+					}
+					if (posicion == 12 ){
+						setContentView(R.layout.flotilla_rein);
+					}
+					if (posicion == 13 ){
+						setContentView(R.layout.gerente);
+					}
+					if (posicion == 14 ){
+						setContentView(R.layout.gerente_clv);
+					}
+					if (posicion == 15 ){
+						setContentView(R.layout.lectores);
+					}
+					if (posicion == 16 ){
+						setContentView(R.layout.leeqr);
+					}
+					if (posicion == 17 ){
+						setContentView(R.layout.main_gilbarco);
+					}
+					if (posicion == 18 ){
+						setContentView(R.layout.main_ticket);
+					}
+					if (posicion == 19 ){
+						setContentView(R.layout.metodo_pago);
+					}
+					if (posicion == 20 ){
+						setContentView(R.layout.msj);
+					}
+					if (posicion == 21 ){
+						setContentView(R.layout.msj_geren);
+					}
+					if (posicion == 22 ){
+						setContentView(R.layout.preset);
+					}
+					if (posicion == 23 ){
+						setContentView(R.layout.tienda);
+					}
+					if (posicion == 24 ){
+						setContentView(R.layout.user_edit);
+					}
+					if (posicion == 25 ){
+						setContentView(R.layout.user_pass);
+					}
+				}
+				public void onNothingSelected(AdapterView<?> spn) {
+				}
+			});
+// TODO -> -------------------------------------------------------------------------------
 
  servidor_ok = false;
  AdminSQLiteOpenHelper admin = new AdminSQLiteOpenHelper(this,"tablet", null, 1);
@@ -3691,10 +3786,6 @@ public void kiosco(View view) {
 	startActivity(i);
 	//finish();
 	}
-
-    public void prueba(View view) {
-		setContentView(R.layout.user_pass);
-    }
 
 //FUNCIONES DE BLUETOOTH
 /** Thread used to connect to a specified Bluetooth Device */

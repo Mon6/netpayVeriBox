@@ -121,5 +121,34 @@
 		<item>31</item>
 		<item>32</item>
 	</string-array>
+
+	<string-array name="prueba" translatable="false">
+		<item>activity_main</item>
+		<item>configura</item>
+		<item>configura_cvl</item>
+		<item>configura_pos_lector</item>
+		<item>fac_rapida</item>
+		<item>fac_rapida1</item>
+		<item>fac_rapida1_msj</item>
+		<item>flotilla1</item>
+		<item>flotilla2</item>
+		<item>flotilla2_cn</item>
+		<item>flotilla4</item>
+		<item>flotilla_rein</item>
+		<item>gerente</item>
+		<item>gerente_clv</item>
+		<item>lectores</item>
+		<item>leeqr</item>
+		<item>main_gilbarco</item>
+		<item>main_ticket</item>
+		<item>metodo_pago</item>
+		<item>msj</item>
+		<item>msj_geren</item>
+		<item>preset</item>
+		<item>tienda</item>
+		<item>user_edit</item>
+		<item>user_pass</item>
+
+	</string-array>
 	
 </resources>
