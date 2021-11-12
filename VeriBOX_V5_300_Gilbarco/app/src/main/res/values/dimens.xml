@@ -5,7 +5,7 @@
     <!--    TODO -> DIMENCIONES MOVIL-->
     <!--    TODO -> LAYOUT YA MODIFICADOS    activity_main - configura - configura_cvl - gerente - gerente_cvl - configura_pos_lector - fac_rapida-->
 
-    <dimen name="layout_10">10dp</dimen>
+<!--    <dimen name="layout_10">10dp</dimen>
     <dimen name="layout_12">12dp</dimen>
     <dimen name="layout_15">15dp</dimen>
     <dimen name="layout_20">20dp</dimen>
@@ -70,11 +70,11 @@
     <dimen name="textSize_60">60dp</dimen>
     <dimen name="textSize_70">70dp</dimen>
     <dimen name="textSize_100">100dp</dimen>
-    <dimen name="textSize_135">135dp</dimen>
+    <dimen name="textSize_135">135dp</dimen>-->
 
     <!--    TODO -> DIMENCIONES TABLET-->
 
-<!--    <dimen name="layout_10">20dp</dimen>
+    <dimen name="layout_10">20dp</dimen>
     <dimen name="layout_12">24dp</dimen>
     <dimen name="layout_15">30dp</dimen>
     <dimen name="layout_20">40dp</dimen>
@@ -139,6 +139,6 @@
     <dimen name="textSize_60">120dp</dimen>
     <dimen name="textSize_70">140dp</dimen>
     <dimen name="textSize_100">200dp</dimen>
-    <dimen name="textSize_135">270dp</dimen>-->
+    <dimen name="textSize_135">270dp</dimen>
 
 </resources>
