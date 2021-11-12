@@ -111,7 +111,7 @@
         <TextView
             android:id="@+id/strXY"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_paregit statnt" />
         -->
 
     </FrameLayout>
