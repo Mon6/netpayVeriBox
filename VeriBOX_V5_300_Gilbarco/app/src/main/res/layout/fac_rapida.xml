@@ -20,9 +20,9 @@
 
                 <Button
                     android:id="@+id/button3"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
-                    android:layout_marginLeft="@dimen/margin_10"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
+                    android:layout_marginLeft="@dimen/margin_5"
                     android:background="@drawable/home"
                     android:onClick="home"
                     android:textSize="@dimen/textSize_20" />
@@ -35,20 +35,20 @@
 
                     <Button
                         android:id="@+id/button4"
-                        android:layout_width="@dimen/layout_150"
+                        android:layout_width="@dimen/layout_310"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="@dimen/margin_15"
                         android:onClick="home"
                         android:text="FACTURA"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_30" />
                 </LinearLayout>
 
                 <ImageView
                     android:id="@+id/imageView1"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="25dp"
-                    android:layout_marginTop="@dimen/margin_10"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
+                    android:layout_marginTop="@dimen/margin_5"
                     android:src="@drawable/pos" />
 
                 <TextView
@@ -56,7 +56,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="@dimen/margin_10"
+                    android:layout_marginRight="@dimen/margin_5"
                     android:layout_marginTop="@dimen/margin_5"
                     android:gravity="center"
                     android:text="32"
@@ -88,9 +88,9 @@
 
                             <Button
                                 android:id="@+id/teclado4"
-                                android:layout_width="@dimen/layout_25"
-                                android:layout_height="@dimen/layout_20"
-                                android:layout_marginLeft="@dimen/margin_30"
+                                android:layout_width="@dimen/layout_50"
+                                android:layout_height="@dimen/layout_40"
+                                android:layout_marginLeft="@dimen/margin_25"
                                 android:background="@drawable/teclado"
                                 android:onClick="teclado" />
                         </LinearLayout>
@@ -106,7 +106,7 @@
                                 android:layout_width="@dimen/layout_150"
                                 android:layout_height="wrap_content"
                                 android:textColor="@android:color/black"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_20" />
 
                         </LinearLayout>
 
@@ -151,18 +151,18 @@
 
                                 <SurfaceView
                                     android:id="@+id/camera_view"
-                                    android:layout_width="@dimen/layout_25"
-                                    android:layout_height="@dimen/layout_25"
+                                    android:layout_width="@dimen/layout_50"
+                                    android:layout_height="@dimen/layout_50"
                                     android:layout_alignParentLeft="true"
                                     android:layout_centerVertical="true"
-                                    android:layout_marginLeft="@dimen/margin_15"
-                                    android:layout_marginTop="@dimen/margin_5" />
+                                    android:layout_marginLeft="@dimen/margin_25"
+                                    android:layout_marginTop="@dimen/margin_15" />
                             </LinearLayout>
 
                             <LinearLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:layout_marginTop="@dimen/margin_10"
+                                android:layout_marginTop="@dimen/margin_20"
                                 android:gravity="center">
 
                                 <FrameLayout
@@ -206,8 +206,8 @@
 
                                 <Button
                                     android:id="@+id/button2"
-                                    android:layout_width="@dimen/layout_25"
-                                    android:layout_height="@dimen/layout_25"
+                                    android:layout_width="@dimen/layout_50"
+                                    android:layout_height="@dimen/layout_50"
                                     android:layout_marginLeft="@dimen/margin_20"
                                     android:background="@drawable/check"
                                     android:gravity="center_vertical|center_horizontal|center"
@@ -252,10 +252,10 @@
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentRight="true"
                                 android:layout_marginLeft="@dimen/margin_25"
-                                android:layout_marginTop="@dimen/margin_15"
+                                android:layout_marginTop="@dimen/margin_25"
                                 android:onClick="ticketDirecto"
                                 android:text="TICKET"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_30" />
 
 
                         </LinearLayout>
@@ -270,9 +270,9 @@
                                 android:id="@+id/textView42"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:layout_marginLeft="@dimen/margin_10"
+                                android:layout_marginLeft="@dimen/margin_5"
                                 android:text="Conectando. . ."
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_20" />
 
                             <TextView
                                 android:id="@+id/textView43"
@@ -280,7 +280,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="@dimen/margin_5"
                                 android:text="..."
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_15" />
                         </LinearLayout>
 
 

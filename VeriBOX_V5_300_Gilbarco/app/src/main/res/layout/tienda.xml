@@ -22,8 +22,8 @@
 
                 <Button
                     android:id="@+id/button4"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:background="@drawable/home"
@@ -38,13 +38,13 @@
 
                     <Button
                         android:id="@+id/button5"
-                        android:layout_width="@dimen/layout_150"
+                        android:layout_width="@dimen/layout_310"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="@dimen/margin_15"
                         android:onClick="fin"
                         android:text="TIENDA"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_30" />
                 </LinearLayout>
 
                 <TextView
@@ -98,7 +98,7 @@
                         android:gravity="center"
                         android:text="TOTAL: $ 0.00"
                         android:textColor="@android:color/black"
-                        android:textSize="@dimen/textSize_25" />
+                        android:textSize="@dimen/textSize_45" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -171,8 +171,8 @@
 
                         <Button
                             android:id="@+id/button1"
-                            android:layout_width="@dimen/layout_25"
-                            android:layout_height="@dimen/layout_25"
+                            android:layout_width="@dimen/layout_45"
+                            android:layout_height="@dimen/layout_45"
                             android:layout_marginLeft="@dimen/margin_15"
                             android:onClick="mas"
                             android:textSize="@dimen/textSize_15"
@@ -240,8 +240,8 @@
 
                     <Button
                         android:id="@+id/button2"
-                        android:layout_width="@dimen/layout_25"
-                        android:layout_height="@dimen/layout_25"
+                        android:layout_width="@dimen/layout_45"
+                        android:layout_height="@dimen/layout_45"
                         android:layout_marginLeft="@dimen/margin_15"
                         android:background="@drawable/check"
                         android:onClick="ok" />
@@ -268,7 +268,7 @@
                         android:layout_weight="1"
                         android:onClick="tck"
                         android:text="TICKET"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_25" />
 
                     <Button
                         android:id="@+id/Button02"
@@ -278,7 +278,7 @@
                         android:layout_weight="1"
                         android:onClick="factura"
                         android:text="FACTURA"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_25" />
                 </LinearLayout>
 
             </LinearLayout>

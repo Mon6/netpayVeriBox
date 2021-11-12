@@ -22,8 +22,8 @@
 
                 <ImageView
                     android:id="@+id/imageView"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginTop="10dp"
                     android:layout_weight=".5"
                     android:src="@drawable/pos" />
@@ -153,8 +153,8 @@
 
                 <Button
                     android:id="@+id/button32"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:background="@drawable/gerente"
                     android:onClick="conf" />
             </LinearLayout>

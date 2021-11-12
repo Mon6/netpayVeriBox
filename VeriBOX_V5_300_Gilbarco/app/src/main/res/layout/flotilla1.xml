@@ -19,8 +19,8 @@
 
                 <Button
                     android:id="@+id/button4"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginLeft="10dp"
                     android:background="@drawable/home"
                     android:onClick="fin"
@@ -34,19 +34,19 @@
 
                     <Button
                         android:id="@+id/button5"
-                        android:layout_width="@dimen/layout_150"
+                        android:layout_width="@dimen/layout_310"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="30dp"
                         android:onClick="fin"
                         android:text="VENTA FLOTILLA"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_30" />
                 </LinearLayout>
 
                 <ImageView
                     android:id="@+id/imageView3"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginTop="10dp"
                     android:src="@drawable/pos" />
 
@@ -89,8 +89,8 @@
 
                         <Button
                             android:id="@+id/teclado3"
-                            android:layout_width="@dimen/layout_25"
-                            android:layout_height="@dimen/layout_20"
+                            android:layout_width="@dimen/layout_50"
+                            android:layout_height="@dimen/layout_40"
                             android:layout_marginLeft="@dimen/margin_20"
                             android:background="@drawable/teclado"
                             android:onClick="teclado" />
@@ -180,8 +180,8 @@
 
                         <Button
                             android:id="@+id/button6"
-                            android:layout_width="@dimen/layout_25"
-                            android:layout_height="@dimen/layout_25"
+                            android:layout_width="@dimen/layout_45"
+                            android:layout_height="@dimen/layout_45"
                             android:layout_marginLeft="@dimen/margin_25"
                             android:background="@drawable/check"
                             android:onClick="ok"
@@ -202,7 +202,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:text="Conectando. . ."
-                        android:textSize="@dimen/textSize_10" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <TextView
                         android:id="@+id/textView43"
@@ -210,7 +210,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:text="..."
-                        android:textSize="@dimen/textSize_10" />
+                        android:textSize="@dimen/textSize_15" />
                 </LinearLayout>
 
             </LinearLayout>

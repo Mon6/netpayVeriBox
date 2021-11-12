@@ -26,12 +26,12 @@
 
                 <Button
                     android:id="@+id/button1"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginLeft="@dimen/margin_15"
                     android:background="@drawable/back"
                     android:onClick="fin"
-                    android:textSize="@dimen/textSize_15" />
+                    android:textSize="@dimen/textSize_20" />
 
                 <TextView
                     android:id="@+id/textView1"
@@ -41,7 +41,7 @@
                     android:gravity="center_vertical|center_horizontal"
                     android:text="OPERADORES"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="@dimen/textSize_15" />
+                    android:textSize="@dimen/textSize_20" />
 
                 <Button
                     android:id="@+id/button100"
@@ -51,7 +51,7 @@
                     android:layout_marginRight="@dimen/margin_15"
                     android:background="@drawable/guardar"
                     android:onClick="guardar"
-                    android:textSize="@dimen/textSize_15"
+                    android:textSize="@dimen/textSize_20"
                     android:visibility="invisible" />
 
             </LinearLayout>
@@ -98,7 +98,7 @@
                         <LinearLayout
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="@dimen/margin_10"
+                            android:layout_marginLeft="@dimen/margin_5"
                             android:orientation="vertical">
 
                             <RadioButton
@@ -110,54 +110,54 @@
                                 android:maxLength="25"
                                 android:onClick="met1"
                                 android:text="User1"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_20" />
 
                             <RadioButton
                                 android:id="@+id/user_vis2"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:layout_marginTop="@dimen/margin_5"
+                                android:layout_marginTop="@dimen/margin_10"
                                 android:layout_weight="1"
                                 android:lines="1"
                                 android:maxLength="25"
                                 android:onClick="met2"
                                 android:text="User2"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_20" />
 
                             <RadioButton
                                 android:id="@+id/user_vis3"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:layout_marginTop="@dimen/margin_5"
+                                android:layout_marginTop="@dimen/margin_10"
                                 android:layout_weight="1"
                                 android:lines="1"
                                 android:maxLength="25"
                                 android:onClick="met3"
                                 android:text="User3"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_20" />
 
                             <RadioButton
                                 android:id="@+id/user_vis4"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:layout_marginTop="@dimen/margin_5"
+                                android:layout_marginTop="@dimen/margin_10"
                                 android:layout_weight="1"
                                 android:lines="1"
                                 android:maxLength="25"
                                 android:onClick="met4"
                                 android:text="User4"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_20" />
 
                             <RadioButton
                                 android:id="@+id/user_vis5"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:layout_marginTop="@dimen/margin_5"
+                                android:layout_marginTop="@dimen/margin_10"
                                 android:lines="1"
                                 android:maxLength="25"
                                 android:onClick="met5"
                                 android:text="User5"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_20" />
 
                         </LinearLayout>
 
@@ -182,59 +182,59 @@
                         android:maxLength="25"
                         android:text="888"
                         android:textColor="@android:color/black"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <TextView
                         android:id="@+id/textView002"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/margin_5"
+                        android:layout_marginTop="@dimen/margin_10"
                         android:ems="10"
                         android:inputType="number"
                         android:lines="1"
                         android:maxLength="25"
                         android:text="888"
                         android:textColor="@android:color/black"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <TextView
                         android:id="@+id/textView003"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/margin_5"
+                        android:layout_marginTop="@dimen/margin_10"
                         android:ems="10"
                         android:inputType="number"
                         android:lines="1"
                         android:maxLength="25"
                         android:text="888"
                         android:textColor="@android:color/black"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <TextView
                         android:id="@+id/textView004"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/margin_5"
+                        android:layout_marginTop="@dimen/margin_10"
                         android:ems="10"
                         android:inputType="number"
                         android:lines="1"
                         android:maxLength="25"
                         android:text="888"
                         android:textColor="@android:color/black"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <TextView
                         android:id="@+id/textView005"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/margin_5"
+                        android:layout_marginTop="@dimen/margin_10"
                         android:ems="10"
                         android:inputType="number"
                         android:lines="1"
                         android:maxLength="25"
                         android:text="888"
                         android:textColor="@android:color/black"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                 </LinearLayout>
 
@@ -251,7 +251,7 @@
                         android:background="@drawable/mas"
                         android:focusable="true"
                         android:onClick="mas"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <Button
                         android:id="@+id/button6"
@@ -260,7 +260,7 @@
                         android:layout_marginTop="@dimen/margin_35"
                         android:background="@drawable/eliminar"
                         android:onClick="elimina"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <Button
                         android:id="@+id/button25"
@@ -294,7 +294,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="ALTA DE OPERADOR"
-                    android:textSize="@dimen/textSize_15" />
+                    android:textSize="@dimen/textSize_20" />
 
             </LinearLayout>
 
@@ -310,7 +310,7 @@
                     android:layout_height="wrap_content"
                     android:text="CLAVE OPERADOR:"
                     android:textColor="@android:color/black"
-                    android:textSize="@dimen/textSize_15" />
+                    android:textSize="@dimen/textSize_25" />
 
                 <EditText
                     android:id="@+id/editText1"
@@ -340,15 +340,15 @@
 
                 <Button
                     android:id="@+id/button7"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:background="@drawable/back"
                     android:onClick="atras2" />
 
                 <Button
                     android:id="@+id/button8"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginLeft="@dimen/margin_100"
                     android:background="@drawable/check"
                     android:onClick="guarda" />
