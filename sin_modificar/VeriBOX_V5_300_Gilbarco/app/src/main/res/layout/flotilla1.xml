@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp" >
+
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="@dimen/imagen_gnr"
+                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/home"
+                    android:onClick="fin"
+                    android:textSize="40dp" />
+
+                <LinearLayout
+                    android:layout_width="790dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.02"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/button5"
+                        android:layout_width="@dimen/boton_opc"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="30dp"
+                        android:onClick="fin"
+                        android:text="VENTA FLOTILLA"
+                        android:textSize="@dimen/boton_opc_letra" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="@dimen/imagen_gnr"
+                    android:layout_height="@dimen/imagen_gnr"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/pos" />
+
+                <TextView
+                    android:id="@+id/strXYmsj"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:text="32"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="@dimen/num_pos" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="50dp"
+                    android:text="   DESLICE TARJETA O\nIDENTIFIQUE VEHÍCULO"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="30dp" />
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <Button
+                            android:id="@+id/teclado3"
+                            android:layout_width="@dimen/imagen_gnr_t"
+                            android:layout_height="@dimen/tamano_80"
+                            android:layout_marginLeft="40dp"
+                            android:background="@drawable/teclado"
+                            android:onClick="teclado" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="50dp"
+                        android:orientation="horizontal">
+
+                        <FrameLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical">
+
+                                <EditText
+                                    android:id="@+id/editText1"
+                                    android:layout_width="500dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_horizontal"
+                                    android:ems="10"
+                                    android:gravity="center"
+                                    android:inputType="number"
+                                    android:maxLength="17"
+                                    android:nextFocusDown="@id/editText1"
+                                    android:nextFocusForward="@id/editText1"
+                                    android:nextFocusLeft="@id/editText1"
+                                    android:nextFocusRight="@id/editText1"
+                                    android:nextFocusUp="@id/editText1"
+                                    android:textSize="50dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical">
+
+                                <EditText
+                                    android:id="@+id/editText2"
+                                    android:layout_width="150dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="270dp"
+                                    android:ems="10"
+                                    android:gravity="center"
+                                    android:inputType="numberPassword"
+                                    android:maxLength="4"
+                                    android:nextFocusDown="@id/editText2"
+                                    android:nextFocusForward="@id/editText2"
+                                    android:nextFocusLeft="@id/editText2"
+                                    android:nextFocusRight="@id/editText2"
+                                    android:nextFocusUp="@id/editText2"
+                                    android:textSize="50dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical">
+
+                                <EditText
+                                    android:id="@+id/editText3"
+                                    android:layout_width="300dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="right"
+                                    android:ems="10"
+                                    android:gravity="center"
+                                    android:inputType="number"
+                                    android:maxLength="10"
+                                    android:nextFocusDown="@id/editText3"
+                                    android:nextFocusForward="@id/editText3"
+                                    android:nextFocusLeft="@id/editText3"
+                                    android:nextFocusRight="@id/editText3"
+                                    android:nextFocusUp="@id/editText3"
+                                    android:textSize="50dp" />
+
+                            </LinearLayout>
+
+                        </FrameLayout>
+
+                        <Button
+                            android:id="@+id/button6"
+                            android:layout_width="@dimen/imagen_gnr"
+                            android:layout_height="@dimen/imagen_gnr"
+                            android:layout_marginLeft="50dp"
+                            android:background="@drawable/check"
+                            android:onClick="ok"
+                            android:textSize="50dp" />
+
+                    </LinearLayout>
+                </FrameLayout>
+
+                <LinearLayout
+                    android:id="@+id/vis_conec"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView42"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Conectando. . ."
+                        android:textSize="@dimen/tamano_40" />
+
+                    <TextView
+                        android:id="@+id/textView43"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="..."
+                        android:textSize="@dimen/tamano_30" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!--
+        <TextView
+            android:id="@+id/strXY"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30sp" />
+        -->
+
+    </FrameLayout>
+
+</LinearLayout>

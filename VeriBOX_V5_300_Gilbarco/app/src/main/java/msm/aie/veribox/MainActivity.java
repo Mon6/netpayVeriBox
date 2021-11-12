@@ -378,70 +378,70 @@ textView36.setVisibility(View.INVISIBLE);
 					if (posicion == 2 ){
 						setContentView(R.layout.configura_clv);
 					}
-					if (posicion == 4 ){
+					if (posicion == 3 ){
 						setContentView(R.layout.configura_pos_lector);
 					}
-					if (posicion == 5 ){
+					if (posicion == 4 ){
 						setContentView(R.layout.fac_rapida);
 					}
-					if (posicion == 6 ){
+					if (posicion == 5 ){
 						setContentView(R.layout.fac_rapida1);
 					}
-					if (posicion == 7 ){
+					if (posicion == 6 ){
 						setContentView(R.layout.fac_rapida1_msj);
 					}
-					if (posicion == 8 ){
+					if (posicion == 7 ){
 						setContentView(R.layout.flotilla1);
 					}
-					if (posicion == 9 ){
+					if (posicion == 8 ){
 						setContentView(R.layout.flotilla2);
 					}
-					if (posicion == 10 ){
+					if (posicion == 9 ){
 						setContentView(R.layout.flotilla2_cn);
 					}
-					if (posicion == 11 ){
+					if (posicion == 10 ){
 						setContentView(R.layout.flotilla4);
 					}
-					if (posicion == 12 ){
+					if (posicion == 11 ){
 						setContentView(R.layout.flotilla_rein);
 					}
-					if (posicion == 13 ){
+					if (posicion == 12 ){
 						setContentView(R.layout.gerente);
 					}
-					if (posicion == 14 ){
+					if (posicion == 13 ){
 						setContentView(R.layout.gerente_clv);
 					}
-					if (posicion == 15 ){
+					if (posicion == 14 ){
 						setContentView(R.layout.lectores);
 					}
-					if (posicion == 16 ){
+					if (posicion == 15 ){
 						setContentView(R.layout.leeqr);
 					}
-					if (posicion == 17 ){
+					if (posicion == 16 ){
 						setContentView(R.layout.main_gilbarco);
 					}
-					if (posicion == 18 ){
+					if (posicion == 17 ){
 						setContentView(R.layout.main_ticket);
 					}
-					if (posicion == 19 ){
+					if (posicion == 18 ){
 						setContentView(R.layout.metodo_pago);
 					}
-					if (posicion == 20 ){
+					if (posicion == 19 ){
 						setContentView(R.layout.msj);
 					}
-					if (posicion == 21 ){
+					if (posicion == 20 ){
 						setContentView(R.layout.msj_geren);
 					}
-					if (posicion == 22 ){
+					if (posicion == 21 ){
 						setContentView(R.layout.preset);
 					}
-					if (posicion == 23 ){
+					if (posicion == 22 ){
 						setContentView(R.layout.tienda);
 					}
-					if (posicion == 24 ){
+					if (posicion == 23 ){
 						setContentView(R.layout.user_edit);
 					}
-					if (posicion == 25 ){
+					if (posicion == 24 ){
 						setContentView(R.layout.user_pass);
 					}
 				}
