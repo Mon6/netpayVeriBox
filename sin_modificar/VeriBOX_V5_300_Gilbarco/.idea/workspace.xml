@@ -34,13 +34,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf599fbf-5e29-4ed6-ab2a-d31a03e671f0" name="Default" comment="" />
+    <list default="true" id="bf599fbf-5e29-4ed6-ab2a-d31a03e671f0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/4.8.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/4.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/4.8.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/4.8.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/4.8.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/4.8.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../VeriBOX_V5_300_Gilbarco/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/home/diid4/.android/avd/VeriBOX_-_TABLET.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/home/diid4/.android/avd/PAYMENT_API_23.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -59,40 +65,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>textView41</find>
-      <find>mas</find>
-      <find>qr_alm</find>
-      <find>mas(</find>
-      <find>revisar =</find>
-      <find>initQR</find>
-      <find>cameraSource</find>
-      <find>camera_view</find>
-      <find>cameraView</find>
-      <find>String compara</find>
-      <find>revisar</find>
-      <find>if (compara.equals(revisar</find>
-      <find>String compara =</find>
-      <find>tck_rp</find>
-      <find>r (int i = 0; i &lt; 5; i++)</find>
-      <find>tickets_alm</find>
-      <find>rev_string</find>
-      <find>getId</find>
-      <find>onKey</find>
-      <find>OnKeyListener</find>
-      <find>editText1</find>
-      <find>UUID</find>
-      <find>CLIENT_CHARACTERISTIC_CONFIG_UUID</find>
-      <find>Log.e(TAG</find>
-      <find>BluetoothGattService</find>
-      <find>bluetooth</find>
-      <find>gattCharacteristic</find>
-      <find>displayGattServices</find>
-      <find>initQR()</find>
-      <find>onBackPressed</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
