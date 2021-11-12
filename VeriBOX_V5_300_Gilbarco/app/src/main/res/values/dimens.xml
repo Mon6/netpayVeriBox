@@ -27,11 +27,13 @@
     <dimen name="layout_135">135dp</dimen>
     <dimen name="layout_150">150dp</dimen>
     <dimen name="layout_170">170dp</dimen>
+    <dimen name="layout_175">175dp</dimen>
     <dimen name="layout_200">200dp</dimen>
     <dimen name="layout_210">210dp</dimen>
     <dimen name="layout_225">225dp</dimen>
     <dimen name="layout_250">250dp</dimen>
     <dimen name="layout_300">300dp</dimen>
+    <dimen name="layout_310">310dp</dimen>
     <dimen name="layout_325">325dp</dimen>
     <dimen name="layout_350">350dp</dimen>
     <dimen name="layout_400">400dp</dimen>
@@ -96,14 +98,16 @@
     <dimen name="layout_135">270dp</dimen>
     <dimen name="layout_150">300dp</dimen>
     <dimen name="layout_170">340dp</dimen>
+    <dimen name="layout_175">350dp</dimen>
     <dimen name="layout_200">400dp</dimen>
-    <dimen name="layout_210">410dp</dimen>
+    <dimen name="layout_210">420dp</dimen>
     <dimen name="layout_225">450dp</dimen>
     <dimen name="layout_250">500dp</dimen>
     <dimen name="layout_300">600dp</dimen>
+    <dimen name="layout_310">620dp</dimen>
     <dimen name="layout_325">650dp</dimen>
     <dimen name="layout_350">700dp</dimen>
-    <dimen name="layout_400">400dp</dimen>
+    <dimen name="layout_400">800dp</dimen>
     <dimen name="layout_430">860dp</dimen>
 
     <dimen name="layout_600">1200dp</dimen>

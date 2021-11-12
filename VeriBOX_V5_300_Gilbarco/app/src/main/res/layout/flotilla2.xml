@@ -21,8 +21,8 @@
 
                 <Button
                     android:id="@+id/button4"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginLeft="10dp"
                     android:background="@drawable/home"
                     android:onClick="fin"
@@ -36,20 +36,20 @@
 
                     <Button
                         android:id="@+id/button5"
-                        android:layout_width="@dimen/layout_150"
+                        android:layout_width="@dimen/layout_310"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginTop="@dimen/margin_15"
                         android:layout_weight="1"
                         android:onClick="fin"
                         android:text="VENTA FLOTILLA"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_30" />
                 </LinearLayout>
 
                 <ImageView
                     android:id="@+id/imageView3"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginTop="10dp"
                     android:src="@drawable/pos" />
 
@@ -86,7 +86,7 @@
                         android:background="#d8cfcf"
                         android:text="FLOTILLA: 000000"
                         android:textAppearance="?android:attr/textAppearanceLarge"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <TextView
                         android:id="@+id/textView6"
@@ -96,7 +96,7 @@
                         android:background="#d8cfcf"
                         android:text="USUARIO: ******"
                         android:textAppearance="?android:attr/textAppearanceLarge"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                     <TextView
                         android:id="@+id/textView7"
@@ -106,7 +106,7 @@
                         android:background="#d8cfcf"
                         android:text="DISP.: $-----.--"
                         android:textAppearance="?android:attr/textAppearanceLarge"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_20" />
 
                 </LinearLayout>
             </LinearLayout>
@@ -140,16 +140,16 @@
                                 android:layout_height="@dimen/layout_25"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="LITROS"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_20" />
 
                             <RadioButton
                                 android:id="@+id/radio2"
                                 android:layout_width="match_parent"
                                 android:layout_height="@dimen/layout_25"
-                                android:layout_marginTop="@dimen/margin_5"
+                                android:layout_marginTop="@dimen/margin_15"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="DINERO"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_20" />
 
                         </RadioGroup>
                     </LinearLayout>
@@ -162,7 +162,7 @@
                         android:layout_marginLeft="@dimen/margin_10"
                         android:text="$ "
                         android:textAppearance="?android:attr/textAppearanceLarge"
-                        android:textSize="@dimen/textSize_25" />
+                        android:textSize="@dimen/textSize_40" />
 
                     <EditText
                         android:id="@+id/editText1"
@@ -178,19 +178,19 @@
                         android:nextFocusLeft="@id/editText1"
                         android:nextFocusRight="@id/editText1"
                         android:nextFocusUp="@id/editText1"
-                        android:textSize="@dimen/textSize_20">
+                        android:textSize="@dimen/textSize_40">
 
                         <requestFocus />
                     </EditText>
 
                     <TextView
                         android:id="@+id/textView3"
-                        android:layout_width="@dimen/layout_50"
+                        android:layout_width="@dimen/layout_90"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
                         android:layout_marginLeft="10dp"
                         android:text="LITROS"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_25" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -200,15 +200,15 @@
 
                         <Button
                             android:id="@+id/teclado5"
-                            android:layout_width="@dimen/layout_25"
-                            android:layout_height="@dimen/layout_20"
+                            android:layout_width="@dimen/layout_50"
+                            android:layout_height="@dimen/layout_40"
                             android:background="@drawable/teclado"
                             android:onClick="teclado" />
 
                         <Button
                             android:id="@+id/button1"
-                            android:layout_width="@dimen/layout_25"
-                            android:layout_height="@dimen/layout_25"
+                            android:layout_width="@dimen/layout_50"
+                            android:layout_height="@dimen/layout_50"
                             android:layout_gravity="center_vertical"
                             android:layout_marginTop="@dimen/margin_10"
                             android:background="@drawable/check"
@@ -236,16 +236,16 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center_horizontal"
-                            android:layout_marginLeft="@dimen/margin_100"
+                            android:layout_marginLeft="@dimen/margin_50"
                             android:layout_weight="1"
                             android:text="ODOMETRO"
-                            android:textSize="@dimen/textSize_15" />
+                            android:textSize="@dimen/textSize_30" />
 
                         <Button
                             android:id="@+id/teclado6"
-                            android:layout_width="@dimen/layout_25"
-                            android:layout_height="@dimen/layout_20"
-                            android:layout_marginLeft="@dimen/margin_25"
+                            android:layout_width="@dimen/layout_50"
+                            android:layout_height="@dimen/layout_40"
+                            android:layout_marginLeft="@dimen/margin_45"
                             android:layout_weight="1"
                             android:background="@drawable/teclado"
                             android:onClick="teclado" />
@@ -269,7 +269,7 @@
                             android:nextFocusLeft="@id/editTextOD"
                             android:nextFocusRight="@id/editTextOD"
                             android:nextFocusUp="@id/editTextOD"
-                            android:textSize="@dimen/textSize_20" />
+                            android:textSize="@dimen/textSize_35" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -315,7 +315,7 @@
                     android:layout_gravity="center"
                     android:onClick="almacen"
                     android:text="VENTA TIENDA"
-                    android:textSize="@dimen/textSize_15" />
+                    android:textSize="@dimen/textSize_20" />
 
             </FrameLayout>
 

@@ -52,7 +52,7 @@
                         android:layout_weight="1"
                         android:onClick="cancelado"
                         android:text="OPCION: X"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_30" />
 
                     <Button
                         android:id="@+id/button2"
@@ -63,7 +63,7 @@
                         android:layout_weight="1"
                         android:onClick="continua"
                         android:text="OPCION: >"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="@dimen/textSize_30" />
 
                 </LinearLayout>
 

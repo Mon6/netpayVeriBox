@@ -85,7 +85,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="@string/app_ver"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_10" />
                         </LinearLayout>
 
                         <LinearLayout
@@ -106,7 +106,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="-"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/textSize_10" />
 
                         </LinearLayout>
 
@@ -132,7 +132,7 @@
                                 android:inputType="number"
                                 android:maxLength="15"
                                 android:text="-"
-                                android:textSize="@dimen/textSize_15"></EditText>
+                                android:textSize="@dimen/textSize_10"></EditText>
 
                         </LinearLayout>
 

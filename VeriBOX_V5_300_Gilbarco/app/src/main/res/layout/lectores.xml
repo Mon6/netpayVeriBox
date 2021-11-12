@@ -58,7 +58,7 @@
                                 android:layout_weight="1"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="Lector01"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_15" />
 
                             <RadioButton
                                 android:id="@+id/metodo2"
@@ -68,7 +68,7 @@
                                 android:layout_weight="1"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="Lector02"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_15" />
 
                             <RadioButton
                                 android:id="@+id/metodo3"
@@ -78,7 +78,7 @@
                                 android:layout_weight="1"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="Lector03"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_15" />
 
                             <RadioButton
                                 android:id="@+id/metodo4"
@@ -88,7 +88,7 @@
                                 android:layout_weight="1"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="Lector04"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_15" />
 
                             <RadioButton
                                 android:id="@+id/metodo5"
@@ -97,7 +97,7 @@
                                 android:layout_marginTop="@dimen/margin_5"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="Lector05"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/textSize_15" />
 
 
                         </LinearLayout>
@@ -117,16 +117,16 @@
 
                 <Button
                     android:id="@+id/button2"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:background="@drawable/back"
                     android:onClick="atras"
                     android:textSize="@dimen/textSize_25" />
 
                 <Button
                     android:id="@+id/button1"
-                    android:layout_width="@dimen/layout_25"
-                    android:layout_height="@dimen/layout_25"
+                    android:layout_width="@dimen/layout_45"
+                    android:layout_height="@dimen/layout_45"
                     android:layout_marginLeft="@dimen/margin_150"
                     android:background="@drawable/check"
                     android:onClick="envialec"
