@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/home/diid4/Documentos/04 - REPOSITORIOS/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
-                {
-                    "source": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/values-v11/styles.xml",
-                    "from": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "182",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "316"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "187"
-                    }
-                },
                 {
                     "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/e2b819fb95715a88fc362c5dfde27796/res/values-v11/values.xml",
                     "from": {
@@ -39,6 +20,25 @@
                         "endLines": "10,16,22,28,34,40,46,52,58,64,65,66,67,163,164,165,170,216,262,309,356",
                         "endColumns": "12,12,12,12,12,12,12,12,12,12,77,91,89,12,94,116,12,12,12,12,12",
                         "endOffsets": "606,1031,1459,1885,2314,2739,3160,3595,4028,4475,4553,4645,4735,11464,11559,11676,12040,15677,19328,23104,26894"
+                    }
+                },
+                {
+                    "source": "/home/diid4/Documentos/04 - REPOSITORIOS/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
                     }
                 }
             ]

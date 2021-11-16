@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/diid4/Documentos/04 - REPOSITORIOS/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/692f4f97c39f9fb15192e153e4ff8d6a/res/values-v21/values-v21.xml",
