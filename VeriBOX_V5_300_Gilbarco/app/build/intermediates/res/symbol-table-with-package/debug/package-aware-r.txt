@@ -12,7 +12,6 @@ array impre
 array ops_sn
 array orden_prin
 array pagoestado
-array prueba
 array servi_turno
 array terminal
 array tipo_imp
@@ -770,7 +769,6 @@ id showCustom
 id showHome
 id showTitle
 id solo_rfc
-id sp_pueba
 id spinner1
 id spinner10
 id spinner11

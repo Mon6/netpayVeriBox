@@ -424,14 +424,14 @@ public final class R {
         public static final int showCustom = 0x7f0800d2;
         public static final int showHome = 0x7f0800d3;
         public static final int showTitle = 0x7f0800d4;
-        public static final int split_action_bar = 0x7f0800ed;
-        public static final int submit_area = 0x7f0800f4;
-        public static final int tabMode = 0x7f0800f5;
-        public static final int title = 0x7f08014f;
-        public static final int up = 0x7f080151;
-        public static final int useLogo = 0x7f080152;
-        public static final int withText = 0x7f080181;
-        public static final int wrap_content = 0x7f080183;
+        public static final int split_action_bar = 0x7f0800ec;
+        public static final int submit_area = 0x7f0800f3;
+        public static final int tabMode = 0x7f0800f4;
+        public static final int title = 0x7f08014e;
+        public static final int up = 0x7f080150;
+        public static final int useLogo = 0x7f080151;
+        public static final int withText = 0x7f080180;
+        public static final int wrap_content = 0x7f080182;
     }
     public static final class integer {
         private integer() {}

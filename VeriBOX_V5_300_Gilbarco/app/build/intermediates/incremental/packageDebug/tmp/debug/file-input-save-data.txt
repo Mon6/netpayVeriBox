@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Nov 16 11:38:24 CST 2021
+#Tue Nov 16 11:53:07 CST 2021
 8.base=/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/transforms/mergeJniLibs/debug/0
 2.base=/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 0.path=lib/arm64-v8a/libserial_port.so

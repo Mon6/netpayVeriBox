@@ -257,15 +257,6 @@
             android:textColor="#D50000"
             android:textSize="150dp" />
 
-        <Spinner
-            android:id="@+id/sp_pueba"
-            android:layout_width="180dp"
-            android:layout_height="30dp"
-            android:layout_gravity="right|bottom"
-            android:layout_marginBottom="30dp"
-            android:layout_marginRight="130dp"
-            android:background="#FF6D00"
-            />
         <!---
         <TextView
             android:id="@+id/strXY"
