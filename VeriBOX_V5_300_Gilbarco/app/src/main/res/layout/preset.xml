@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="TextView"
-        android:textSize="@dimen/textSize_25" />
+        android:textSize="50sp" />
 
     <EditText
         android:id="@+id/editText1"
@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="numberPassword"
-        android:textSize="@dimen/textSize_25" >
+        android:textSize="50sp" >
 
         <requestFocus />
     </EditText>

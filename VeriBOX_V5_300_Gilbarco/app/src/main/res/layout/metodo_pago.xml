@@ -17,39 +17,39 @@
                 android:id="@+id/textView34"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="@dimen/margin_50"
+                android:layout_marginTop="100dp"
                 android:gravity="top|center_horizontal"
                 android:text="IMPRIMIR FACTURA"
                 android:textColor="@android:color/black"
-                android:textSize="@dimen/textSize_40" />
+                android:textSize="80dp" />
 
             <LinearLayout
-                android:layout_width="@dimen/layout_600"
+                android:layout_width="1100dp"
                 android:layout_height="match_parent"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="@dimen/margin_50"
+                android:layout_marginTop="100dp"
                 android:orientation="horizontal">
 
                 <Button
                     android:id="@+id/button24"
-                    android:layout_width="@dimen/layout_10"
+                    android:layout_width="20dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="completa"
                     android:text="COMPLETA"
                     android:textColor="@android:color/black"
-                    android:textSize="@dimen/textSize_25" />
+                    android:textSize="50sp" />
 
                 <Button
                     android:id="@+id/button23"
-                    android:layout_width="@dimen/layout_15"
+                    android:layout_width="30dp"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="@dimen/margin_50"
+                    android:layout_marginLeft="100dp"
                     android:layout_weight="1"
                     android:onClick="simpli"
                     android:text="COMPACTA"
                     android:textColor="@android:color/black"
-                    android:textSize="@dimen/layout_25" />
+                    android:textSize="50sp" />
 
             </LinearLayout>
         </LinearLayout>
@@ -73,14 +73,14 @@
                     android:gravity="top|center_horizontal"
                     android:text="FORMA PAGO"
                     android:textColor="@android:color/black"
-                    android:textSize="@dimen/textSize_25" />
+                    android:textSize="50sp" />
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="@dimen/margin_30"
+                android:layout_marginTop="60sp"
                 android:orientation="horizontal">
 
                 <RadioGroup
@@ -97,19 +97,19 @@
                         <LinearLayout
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginRight="@dimen/margin_10"
+                            android:layout_marginRight="15dp"
                             android:layout_weight="0.41"
                             android:orientation="vertical">
 
                             <RadioButton
                                 android:id="@+id/metodo1"
-                                android:layout_width="@dimen/layout_250"
-                                android:layout_height="@dimen/layout_30"
+                                android:layout_width="500dp"
+                                android:layout_height="60dp"
                                 android:layout_marginTop="10sp"
                                 android:layout_weight="1"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="@string/metodo1"
-                                android:textSize="@dimen/textSize_25" />
+                                android:textSize="@dimen/tamano_50" />
 
                             <RadioButton
                                 android:id="@+id/metodo4"
@@ -119,16 +119,16 @@
                                 android:layout_weight="1"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="@string/metodo4"
-                                android:textSize="@dimen/textSize_25" />
+                                android:textSize="@dimen/tamano_50" />
 
                             <RadioButton
                                 android:id="@+id/metodo5"
                                 android:layout_width="wrap_content"
-                                android:layout_height="@dimen/layout_30"
+                                android:layout_height="60dp"
                                 android:layout_marginTop="10sp"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="@string/metodo5"
-                                android:textSize="@dimen/textSize_25" />
+                                android:textSize="@dimen/tamano_50" />
 
 
                         </LinearLayout>
@@ -136,19 +136,19 @@
                         <LinearLayout
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="@dimen/margin_10"
+                            android:layout_marginLeft="15dp"
                             android:layout_weight="1"
                             android:orientation="vertical">
 
                             <RadioButton
                                 android:id="@+id/metodo2"
-                                android:layout_width="@dimen/layout_250"
-                                android:layout_height="@dimen/layout_30"
+                                android:layout_width="500dp"
+                                android:layout_height="60dp"
                                 android:layout_marginTop="10sp"
                                 android:layout_weight="1"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="@string/metodo2"
-                                android:textSize="@dimen/textSize_25" />
+                                android:textSize="@dimen/tamano_50" />
 
 
                             <RadioButton
@@ -158,16 +158,16 @@
                                 android:layout_marginTop="10sp"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="@string/metodo3"
-                                android:textSize="@dimen/textSize_25" />
+                                android:textSize="@dimen/tamano_50" />
 
                             <RadioButton
                                 android:id="@+id/metodo6"
                                 android:layout_width="wrap_content"
-                                android:layout_height="@dimen/layout_30"
+                                android:layout_height="60dp"
                                 android:layout_marginTop="10sp"
                                 android:onClick="onRadioButtonClicked"
                                 android:text="@string/metodo6"
-                                android:textSize="@dimen/textSize_25" />
+                                android:textSize="@dimen/tamano_50" />
 
                         </LinearLayout>
 
@@ -182,22 +182,22 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="@dimen/textSize_15">
+                android:layout_marginTop="@dimen/tamano_30">
 
                 <Button
                     android:id="@+id/button2"
-                    android:layout_width="@dimen/layout_45"
-                    android:layout_height="@dimen/layout_45"
+                    android:layout_width="@dimen/imagen_gnr"
+                    android:layout_height="@dimen/imagen_gnr"
                     android:background="@drawable/back"
                     android:onClick="atras"
-                    android:textSize="@dimen/textSize_25" />
+                    android:textSize="50dp" />
 
                 <EditText
                     android:id="@+id/editText01"
-                    android:layout_width="@dimen/layout_110"
+                    android:layout_width="220dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="50dp"
+                    android:layout_marginLeft="50sp"
                     android:layout_weight="1"
                     android:ems="10"
                     android:inputType="number"
@@ -208,18 +208,18 @@
                     android:nextFocusRight="@id/editText01"
                     android:nextFocusUp="@id/editText01"
                     android:onClick="ok"
-                    android:textSize="@dimen/textSize_25"
+                    android:textSize="50sp"
                     android:visibility="invisible" />
 
                 <Button
                     android:id="@+id/button1"
-                    android:layout_width="@dimen/layout_45"
-                    android:layout_height="@dimen/layout_45"
+                    android:layout_width="@dimen/imagen_gnr"
+                    android:layout_height="@dimen/imagen_gnr"
                     android:layout_marginLeft="50sp"
                     android:background="@drawable/check"
                     android:focusable="true"
                     android:onClick="ok"
-                    android:textSize="@dimen/textSize_25" />
+                    android:textSize="50dp" />
 
             </LinearLayout>
 

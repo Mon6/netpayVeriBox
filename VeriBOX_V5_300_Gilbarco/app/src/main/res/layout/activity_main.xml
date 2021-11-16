@@ -20,19 +20,18 @@
                 android:orientation="vertical" >
 
                 <LinearLayout
-                    android:id="@+id/ln_cabecera"
                     android:layout_width="match_parent"
-                    android:layout_height="@dimen/layout_60">
+                    android:layout_height="120dp">
 
                     <Button
                         android:id="@+id/button4"
-                        android:layout_width="@dimen/layout_45"
-                        android:layout_height="@dimen/layout_45"
-                        android:layout_marginLeft="@dimen/margin_5"
-                        android:layout_marginTop="@dimen/margin_5"
+                        android:layout_width="@dimen/imagen_gnr"
+                        android:layout_height="@dimen/imagen_gnr"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
                         android:background="@drawable/home"
                         android:onClick="home"
-                        android:textSize="@dimen/textSize_15" />
+                        android:textSize="30dp" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -42,25 +41,25 @@
 
                         <Button
                             android:id="@+id/button5"
-                            android:layout_width="@dimen/layout_310"
+                            android:layout_width="@dimen/boton_opc"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:layout_marginTop="@dimen/margin_15"
+                            android:layout_marginTop="30dp"
                             android:onClick="cambiatf"
                             android:text="TICKET"
-                            android:textSize="@dimen/textSize_30" />
+                            android:textSize="@dimen/boton_opc_letra" />
                     </LinearLayout>
 
                     <Button
                         android:id="@+id/button3"
-                        android:layout_width="@dimen/layout_70"
+                        android:layout_width="135dp"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
-                        android:layout_marginRight="@dimen/margin_10"
-                        android:layout_marginTop="@dimen/margin_10"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginTop="10dp"
                         android:onClick="tcks_acl"
                         android:text="Acumular\nTickets"
-                        android:textSize="@dimen/textSize_10" />
+                        android:textSize="25dp" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -70,71 +69,68 @@
                 android:layout_gravity="center_horizontal" >
 
                 <LinearLayout
-                    android:id="@+id/ln_cuerpo"
-                    android:layout_width="@dimen/layout_430"
+                    android:layout_width="870dp"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="@dimen/margin_5"
+                    android:layout_marginTop="10dp"
                     android:orientation="vertical"
                     android:visibility="invisible">
 
                     <Button
                         android:id="@+id/Button1"
-                        android:layout_width="@dimen/layout_150"
-                        android:layout_height="@dimen/layout_150"
+                        android:layout_width="300dp"
+                        android:layout_height="300dp"
                         android:layout_gravity="center_horizontal"
                         android:background="@drawable/cir1"
                         android:onClick="t1"
                         android:text="1"
-                        android:textSize="@dimen/textSize_100" />
+                        android:textSize="200dp" />
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/ln_sig_ant"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="@dimen/margin_15" >
+                    android:layout_marginTop="30dp" >
 
                     <Button
                         android:id="@+id/button_bk"
-                        android:layout_width="@dimen/layout_35"
-                        android:layout_height="@dimen/layout_85"
+                        android:layout_width="70dp"
+                        android:layout_height="170dp"
                         android:layout_gravity="center_vertical"
                         android:background="@drawable/cambia_d"
                         android:onClick="menos" />
 
                     <Button
                         android:id="@+id/Button2"
-                        android:layout_width="@dimen/layout_200"
-                        android:layout_height="@dimen/layout_200"
-                        android:layout_marginLeft="@dimen/margin_15"
+                        android:layout_width="@dimen/boton_principal"
+                        android:layout_height="@dimen/boton_principal"
+                        android:layout_marginLeft="25dp"
                         android:background="@drawable/cir1"
                         android:onClick="t1"
                         android:text="1"
-                        android:textSize="@dimen/textSize_135" />
+                        android:textSize="270dp" />
 
                     <Button
                         android:id="@+id/Button3"
-                        android:layout_width="@dimen/layout_200"
-                        android:layout_height="@dimen/layout_200"
-                        android:layout_marginLeft="@dimen/margin_25"
+                        android:layout_width="@dimen/boton_principal"
+                        android:layout_height="@dimen/boton_principal"
+                        android:layout_marginLeft="50dp"
                         android:background="@drawable/cir1"
                         android:onClick="t2"
                         android:text="2"
-                        android:textSize="@dimen/textSize_135" />
+                        android:textSize="270dp" />
 
                     <Button
                         android:id="@+id/button_fr"
-                        android:layout_width="@dimen/layout_35"
-                        android:layout_height="@dimen/layout_85"
+                        android:layout_width="70dp"
+                        android:layout_height="170dp"
                         android:layout_gravity="center_vertical"
-                        android:layout_marginLeft="@dimen/margin_15"
+                        android:layout_marginLeft="25dp"
                         android:background="@drawable/cambia"
                         android:onClick="mas" />
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/ln_cuerpo_2"
-                    android:layout_width="@dimen/layout_430"
+                    android:layout_width="870dp"
                     android:layout_height="match_parent"
                     android:orientation="vertical"
                     android:visibility="invisible">
@@ -145,49 +141,49 @@
 
                         <Button
                             android:id="@+id/Button4"
-                            android:layout_width="@dimen/layout_75"
-                            android:layout_height="@dimen/layout_75"
-                            android:layout_marginLeft="@dimen/margin_125"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="250dp"
                             android:background="@drawable/cir1"
                             android:onClick="t1"
                             android:text="1"
-                            android:textSize="@dimen/textSize_50" />
+                            android:textSize="100dp" />
 
                         <Button
                             android:id="@+id/Button5"
-                            android:layout_width="@dimen/layout_75"
-                            android:layout_height="@dimen/layout_75"
-                            android:layout_marginLeft="@dimen/margin_45"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="90dp"
                             android:background="@drawable/cir1"
                             android:onClick="t2"
                             android:text="2"
-                            android:textSize="@dimen/textSize_50" />
+                            android:textSize="100dp" />
                     </LinearLayout>
 
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/margin_10">
+                        android:layout_marginTop="20dp">
 
                         <Button
                             android:id="@+id/Button6"
-                            android:layout_width="@dimen/layout_75"
-                            android:layout_height="@dimen/layout_75"
-                            android:layout_marginLeft="@dimen/margin_125"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="250dp"
                             android:background="@drawable/cir1"
                             android:onClick="t3"
                             android:text="3"
-                            android:textSize="@dimen/textSize_50" />
+                            android:textSize="100dp" />
 
                         <Button
                             android:id="@+id/Button7"
-                            android:layout_width="@dimen/layout_75"
-                            android:layout_height="@dimen/layout_75"
-                            android:layout_marginLeft="@dimen/margin_45"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="90dp"
                             android:background="@drawable/cir1"
                             android:onClick="t4"
                             android:text="4"
-                            android:textSize="@dimen/textSize_50" />
+                            android:textSize="100dp" />
                     </LinearLayout>
                 </LinearLayout>
             </FrameLayout>
@@ -200,36 +196,36 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="@dimen/margin_10"
+                    android:layout_marginTop="@dimen/tamano_20"
                     android:orientation="horizontal">
 
                     <TextView
                         android:id="@+id/textView30"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="@dimen/margin_5"
-                        android:layout_marginTop="@dimen/margin_15"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="30dp"
                         android:layout_weight="16.69"
                         android:text="@string/app_ver"
-                        android:textSize="@dimen/textSize_13" />
+                        android:textSize="24sp" />
 
                     <TextView
                         android:id="@+id/textView1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="8.35"
+                        android:layout_weight="16.69"
                         android:gravity="end"
                         android:textAppearance="?android:attr/textAppearanceLarge"
-                        android:textSize="@dimen/textSize_25"
+                        android:textSize="50dp"
                         android:visibility="invisible" />
 
                     <EditText
                         android:id="@+id/editText1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/margin_10"
+                        android:layout_marginTop="20sp"
                         android:cursorVisible="false"
-                        android:ems="5"
+                        android:ems="10"
                         android:focusableInTouchMode="true"
                         android:inputType="numberPassword"
                         android:nextFocusLeft="@id/editText1"
@@ -237,13 +233,13 @@
                         android:nextFocusUp="@id/editText1"
                         android:nextFocusDown="@id/editText1"
                         android:nextFocusForward="@id/editText1"
-                        android:textSize="@dimen/textSize_15"
+                        android:textSize="30dp"
                         android:visibility="visible" />
 
                     <Button
                         android:id="@+id/button6"
-                        android:layout_width="@dimen/layout_45"
-                        android:layout_height="@dimen/layout_45"
+                        android:layout_width="90dp"
+                        android:layout_height="90dp"
 
                         android:background="@drawable/gerente"
                         android:onClick="conf" />
@@ -255,11 +251,11 @@
             android:id="@+id/textView36"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/margin_10"
-            android:layout_marginTop="@dimen/margin_65"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="130dp"
             android:text="30"
             android:textColor="#D50000"
-            android:textSize="@dimen/margin_75" />
+            android:textSize="150dp" />
 
         <Spinner
             android:id="@+id/sp_pueba"
@@ -270,7 +266,6 @@
             android:layout_marginRight="130dp"
             android:background="#FF6D00"
             />
-
         <!---
         <TextView
             android:id="@+id/strXY"
@@ -278,6 +273,7 @@
             android:layout_height="match_parent"
             android:textSize="30sp" />
            -->
+
 
     </FrameLayout>
 

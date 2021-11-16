@@ -37,7 +37,7 @@
 
                 android:shadowColor="@android:color/darker_gray"
                 android:textColor="#303F9F"
-                android:textSize="@dimen/textSize_20" />
+                android:textSize="35sp" />
 
         </LinearLayout>
 
@@ -51,7 +51,7 @@
                 android:id="@+id/imageView1"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_margin="@dimen/margin_15"
+                android:layout_margin="@dimen/tamano_30"
                 android:layout_weight="1"
                 android:src="@drawable/scanp1" />
 
@@ -59,7 +59,7 @@
                 android:id="@+id/imageView2"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_margin="@dimen/margin_15"
+                android:layout_margin="@dimen/tamano_30"
                 android:layout_weight="1"
                 android:src="@drawable/scanp2" />
 
@@ -68,13 +68,13 @@
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/margin_10"
+            android:layout_margin="15dp"
             android:orientation="vertical">
 
             <Button
                 android:id="@+id/button8"
-                android:layout_width="@dimen/layout_50"
-                android:layout_height="@dimen/layout_50"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
                 android:background="@drawable/back"
                 android:onClick="atras" />
         </LinearLayout>

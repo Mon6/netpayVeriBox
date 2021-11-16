@@ -20,12 +20,12 @@
 
                 <Button
                     android:id="@+id/button2"
-                    android:layout_width="@dimen/layout_50"
-                    android:layout_height="@dimen/layout_50"
-                    android:layout_marginLeft="@dimen/margin_10"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="25dp"
                     android:background="@drawable/back"
                     android:onClick="fin"
-                    android:textSize="@dimen/textSize_25" />
+                    android:textSize="50dp" />
 
                 <TextView
                     android:id="@+id/textView1"
@@ -35,18 +35,18 @@
                     android:gravity="center_vertical|center_horizontal"
                     android:text="CONFIGURACION"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="@dimen/textSize_25" />
+                    android:textSize="50dp" />
 
                 <Button
                     android:id="@+id/button1"
-                    android:layout_width="@dimen/layout_40"
-                    android:layout_height="@dimen/layout_40"
-                    android:layout_marginTop="@dimen/margin_5"
-                    android:layout_marginLeft="@dimen/margin_10"
-                    android:layout_marginRight="@dimen/margin_10"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
                     android:background="@drawable/guardar"
                     android:onClick="guardar"
-                    android:textSize="@dimen/textSize_25" />
+                    android:textSize="50dp" />
 
             </LinearLayout>
 
@@ -62,7 +62,7 @@
                     android:layout_height="match_parent" >
 
                     <LinearLayout
-                        android:layout_width="@dimen/layout_400"
+                        android:layout_width="780dp"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:orientation="vertical">
@@ -77,7 +77,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Version : "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <TextView
                                 android:id="@+id/textView7"
@@ -85,7 +85,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="@string/app_ver"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/letra_config2" />
                         </LinearLayout>
 
                         <LinearLayout
@@ -98,7 +98,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="MAC VeriBOX: "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <TextView
                                 android:id="@+id/textView3"
@@ -106,7 +106,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="-"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/letra_config2" />
 
                         </LinearLayout>
 
@@ -120,7 +120,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="IP servidor: "
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <EditText
                                 android:id="@+id/editText1"
@@ -132,7 +132,7 @@
                                 android:inputType="number"
                                 android:maxLength="15"
                                 android:text="-"
-                                android:textSize="@dimen/textSize_10"></EditText>
+                                android:textSize="@dimen/letra_config2"></EditText>
 
                         </LinearLayout>
 
@@ -146,7 +146,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="ID VeriBOX:"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner1"
@@ -166,7 +166,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Imprimir a VeriBOX:"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner6"
@@ -186,7 +186,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Contraseña GERENTE:"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <EditText
                                 android:id="@+id/editText3"
@@ -197,7 +197,7 @@
                                 android:inputType="numberPassword"
                                 android:maxLength="6"
                                 android:text="-"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/letra_config2" />
 
                         </LinearLayout>
 
@@ -211,7 +211,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Contraseña SERVICIO:"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <EditText
                                 android:id="@+id/editText4"
@@ -222,7 +222,7 @@
                                 android:inputType="numberPassword"
                                 android:maxLength="6"
                                 android:text="-"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/letra_config2" />
                         </LinearLayout>
 
                         <LinearLayout
@@ -236,7 +236,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="MAC Puerto Serial"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <EditText
                                 android:id="@+id/editText5"
@@ -247,7 +247,7 @@
                                 android:maxLength="17"
                                 android:singleLine="true"
                                 android:text="-"
-                                android:textSize="@dimen/textSize_10"/>
+                                android:textSize="@dimen/letra_config2" />
 
                         </LinearLayout>
 
@@ -262,7 +262,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="MAC NOMAD 2.0"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <EditText
                                 android:id="@+id/editText6"
@@ -272,7 +272,7 @@
                                 android:ems="10"
                                 android:inputType="number"
                                 android:text="-"
-                                android:textSize="@dimen/textSize_10" />
+                                android:textSize="@dimen/letra_config2" />
 
                         </LinearLayout>
 
@@ -286,7 +286,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Salida Impresora: "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner2"
@@ -308,7 +308,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Asociar Lector:  "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner3"
@@ -328,7 +328,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Posición Inicial: "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner4"
@@ -348,7 +348,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Posición Final: "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner5"
@@ -368,7 +368,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilitar TIENDA: "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner7"
@@ -388,7 +388,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilitar ACUMULADO DE VENTA: "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner16"
@@ -408,7 +408,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilita INGRESAR TICKETS (FACTURA): "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner8"
@@ -428,7 +428,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilita INGRESAR TICKETS (COBRO): "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner15"
@@ -448,7 +448,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilitar INGRESO OPERADORES: "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner9"
@@ -468,7 +468,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Solicitar 'FORMA PAGO' en TICKET  "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner10"
@@ -488,7 +488,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Solicitar 'FORMA PAGO' en FACTURA  "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner11"
@@ -508,7 +508,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Solicitar USO DE CFDI  "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner14"
@@ -528,7 +528,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="PAGO BANCARIO  "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner13"
@@ -548,7 +548,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Pantalla Principal  "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner12"
@@ -568,7 +568,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilita Gerente - FUERA/EN DE SERVICIO "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner17"
@@ -589,7 +589,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilita Gerente - CAMBIO DE TURNO "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner18"
@@ -609,7 +609,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilita Gerente - INVENTARIO DE TANQUES "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner19"
@@ -629,7 +629,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Habilita Gerente - COLECTA PARCIAL "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner20"
@@ -649,7 +649,7 @@
                             android:layout_height="wrap_content"
                             android:text="Imprime - LETRA GRANDE "
                             android:textAppearance="?android:attr/textAppearanceMedium"
-                            android:textSize="@dimen/textSize_15" />
+                            android:textSize="@dimen/letra_config1" />
 
                         <Spinner
                             android:id="@+id/spinner21"
@@ -669,7 +669,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Unica Posicion "
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:textSize="@dimen/textSize_15" />
+                                android:textSize="@dimen/letra_config1" />
 
                             <Spinner
                                 android:id="@+id/spinner22"
@@ -710,20 +710,20 @@
 
                     <Button
                         android:id="@+id/button26"
-                        android:layout_width="@dimen/layout_50"
-                        android:layout_height="@dimen/layout_50"
-                        android:layout_marginLeft="@dimen/margin_15"
-                        android:layout_marginTop="@dimen/margin_50"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="100dp"
                         android:layout_weight="1"
                         android:background="@drawable/user"
                         android:onClick="user" />
 
                     <Button
                         android:id="@+id/button27"
-                        android:layout_width="@dimen/layout_50"
-                        android:layout_height="@dimen/layout_50"
-                        android:layout_marginLeft="@dimen/margin_15"
-                        android:layout_marginTop="@dimen/margin_50"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="100dp"
                         android:layout_weight="1"
                         android:background="@drawable/lector"
                         android:onClick="pos_lec" />

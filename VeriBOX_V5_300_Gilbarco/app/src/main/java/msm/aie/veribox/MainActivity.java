@@ -358,6 +358,7 @@ textView36= (TextView)findViewById(R.id.textView36);
 textView36.setVisibility(View.INVISIBLE);
  //textView30 = (TextView)findViewById(R.id.textView30);
  //textView2.setVisibility(View.VISIBLE);
+
 // TODO ->PRUEBAS -----------------------------------------------------------------------
 	sp_pruebas = (Spinner) findViewById(R.id.sp_pueba);
 
@@ -568,14 +569,12 @@ myTextBox.setInputType(InputType.TYPE_NULL);
  revComm = true;
  msImpNoRs = false;
  lee_user();
-
-// if (!servidor_ok){
-//	 obtiene_mac();
-//	 msj(">La terminal VeriBOX no esta\nconfigurada, consulte a su\nCentro de Servicio.\nMAC: "+address+">0>3>4>5>6>7>");
-// }else{
-//	 msj(">Arrancando VeriBOX...>2>3>4>5>6>7>");
-// }
-	obtiene_mac();
+ if (!servidor_ok){
+	 obtiene_mac();
+	 msj(">La terminal VeriBOX no esta\nconfigurada, consulte a su\nCentro de Servicio.\nMAC: "+address+">0>3>4>5>6>7>");
+ }else{
+	 msj(">Arrancando VeriBOX...>2>3>4>5>6>7>");
+ }
  
  inicia0 = false;
  try
@@ -919,10 +918,7 @@ public void revisar (String rev_coor) throws IOException{
 	//Ejecuta Boton1
 	if (rev_coor.equals("F2") || rev_coor.equals("F3") || rev_coor.equals("F4") || rev_coor.equals("E2") || rev_coor.equals("E3") || rev_coor.equals("E4") || rev_coor.equals("D2") || rev_coor.equals("D3") || rev_coor.equals("D4") || rev_coor.equals("C2") || rev_coor.equals("C3") || rev_coor.equals("C4") || rev_coor.equals("B2") || rev_coor.equals("B3") || rev_coor.equals("B4")){
 		if (servidor_ok){
-			try{
-				bitacora.guarda_b("Boton 1");
-			}catch (Exception e){e.getStackTrace();}
-
+			bitacora.guarda_b("Boton 1");
 			t1(null);
 		}
     }
@@ -2588,16 +2584,10 @@ public void tck(String cad_tck) throws IOException{
 }
 	public void rev_metT(){
 		if (visMepagoT==1){
-			try{
-				bitacora.guarda_b("Sin metodo de Pago");
-			}catch (Exception e){e.getStackTrace();}
-
+			bitacora.guarda_b("Sin metodo de Pago");
 			gen_xml();
 		}else{
-			try{
-				bitacora.guarda_b("Con metodo de pago");
-			}catch (Exception e){e.getStackTrace();}
-
+			bitacora.guarda_b("Con metodo de pago");
 			String xml_pago1 = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n"+
 		            "<peticion>\n"+
 		            "   <mensaje-tipo tipo=\""+d3+"\"></mensaje-tipo>\n"+
@@ -2644,10 +2634,8 @@ public void tck(String cad_tck) throws IOException{
 	
 	public void pro_botones(){
 		if(tyf==1){
-			try{
-				bitacora.guarda_b("Solicita Ticket");
-			}catch (Exception e){e.getStackTrace();}
 
+			bitacora.guarda_b("Solicita Ticket");
 			//SOLICITA TICKET
 			
 			//Detiene tiempo de inactividad y pide usuario
@@ -2666,17 +2654,11 @@ public void tck(String cad_tck) throws IOException{
 			if (activaAcumulado){
 				//Version 2.0-0 MSM 13/Mar/2018
 				//Cambio para opcion de Acumulado de Venta
-				try{
-					bitacora.guarda_b("gen_xml AC");
-				}catch (Exception e){e.getStackTrace();}
-
+				bitacora.guarda_b("gen_xml AC");
 				gen_xml_st("AC");
 
 			}else{
-				try{
-					bitacora.guarda_b("rev_merT");
-				}catch (Exception e){e.getStackTrace();}
-
+				bitacora.guarda_b("rev_merT");
 				rev_metT();
 			}
 		}
@@ -3006,10 +2988,7 @@ public void t1(View view) throws IOException {
 	pide_tck = val_boton1;//"1";
 	textView1.setText("Enviando solicitud...");
 	//IGUAL A TODOS LOS bOTONES
-	try{
-		bitacora.guarda_b("Antes de pro_botones");
-	}catch (Exception e){e.getStackTrace();}
-
+	bitacora.guarda_b("Antes de pro_botones");
 	pro_botones();
 }
 
