@@ -1,0 +1,7 @@
+#Tue Nov 16 12:02:11 CST 2021
+base.1=/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/build/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
+base.0=/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/build/intermediates/transforms/dexMerger/debug/0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

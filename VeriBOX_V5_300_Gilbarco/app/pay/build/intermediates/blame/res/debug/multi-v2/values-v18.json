@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/52243e7e0cafc49c4e2c2e42b55743cc/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/diid4/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/0c107e3d1542f580e9d038e79738ef7a/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0.aar/dbbf109acef7745f6321b8339f554f49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2d4fd823c1243efaa6b0ae14ea03069b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/52243e7e0cafc49c4e2c2e42b55743cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0.aar/e0e2296060a63e21e8efb901ef816ab7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/343a2826def376f0f18879ec26f9ad13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23539c74734090e9127c2f346d6913ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0fd29630f8f9f0091742bd549de8834c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a9f2683089c4ac0234465f1758c07fd2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0.aar/30085d83d71d51c41bf00b3c91c0e8ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c279d5a4f96ed159106f394fca1f78dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/103a717ad1c1bc7f298576d4ae15d9bc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d53e12634afaff3f5ee55ba4e57fe28a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9da78a94ed22fdfac5e49255ec735009/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f7541e67205ca05d421dd6f81283d7ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1bd8f702f4aa516a9c62733e6483f0c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c822897ae5e1fb43693739ea87a9a763/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3e6123e98cf8d59c2e9750c127bddbc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e20c3e236a094fecf03fa36cc8775cf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a69369261718905bd4c5b9d4760736ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7091d864cc5bd3e05780d3a8b8372ee0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9d752c868de83ed67d8bbbcd201e4d22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0.aar/a904a1837758f6bdf9101c1591fba69d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dc6f9d6fbe44e1a5ce2d0bd79869e9a3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21f9af64ca03077f0a3fe150c3691557/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/da07b0ccbdbc6d37753186f0c22de06c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b7c7f6e3d7360fab2abd02c218b700e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a2ac667beba2c2e13f872187a9c13990/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2af28f1b3f72a82ed5e1582339d5e46a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4dc32cb5b3a41b98765e26799a724e72/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/91917b9a4af078f67cf0e0c0a970c752/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1f9f458a59a8e294642927667e32dc68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/658376e1a049d151d271c0772f8fbc9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1b733dd3a5743c0d93c39973d03f60b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f8dc5e78c925739e63607765a4318071/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/diid4/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/0c107e3d1542f580e9d038e79738ef7a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/diid4/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/0c107e3d1542f580e9d038e79738ef7a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2d4fd823c1243efaa6b0ae14ea03069b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2d4fd823c1243efaa6b0ae14ea03069b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dc6f9d6fbe44e1a5ce2d0bd79869e9a3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dc6f9d6fbe44e1a5ce2d0bd79869e9a3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21f9af64ca03077f0a3fe150c3691557/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21f9af64ca03077f0a3fe150c3691557/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dc6f9d6fbe44e1a5ce2d0bd79869e9a3/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:11:9-61
+activity#com.example.pay.MainActivity2
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:12:9-15:89
+	android:label
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:14:13-57
+	android:theme
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:15:13-77
+	android:name
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:13:13-42
+activity#com.example.pay.pantalla
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:16:9-20:20
+	android:name
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:16:19-43
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:17:13-19:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.pay.MainActivity
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml:23:25-66
+uses-sdk
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/diid4/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/0c107e3d1542f580e9d038e79738ef7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/diid4/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/0c107e3d1542f580e9d038e79738ef7a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0.aar/dbbf109acef7745f6321b8339f554f49/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0.aar/dbbf109acef7745f6321b8339f554f49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2d4fd823c1243efaa6b0ae14ea03069b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2d4fd823c1243efaa6b0ae14ea03069b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/52243e7e0cafc49c4e2c2e42b55743cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/52243e7e0cafc49c4e2c2e42b55743cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0.aar/e0e2296060a63e21e8efb901ef816ab7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0.aar/e0e2296060a63e21e8efb901ef816ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/343a2826def376f0f18879ec26f9ad13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/343a2826def376f0f18879ec26f9ad13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23539c74734090e9127c2f346d6913ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23539c74734090e9127c2f346d6913ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0fd29630f8f9f0091742bd549de8834c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0fd29630f8f9f0091742bd549de8834c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a9f2683089c4ac0234465f1758c07fd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a9f2683089c4ac0234465f1758c07fd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0.aar/30085d83d71d51c41bf00b3c91c0e8ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0.aar/30085d83d71d51c41bf00b3c91c0e8ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c279d5a4f96ed159106f394fca1f78dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c279d5a4f96ed159106f394fca1f78dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/103a717ad1c1bc7f298576d4ae15d9bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/103a717ad1c1bc7f298576d4ae15d9bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d53e12634afaff3f5ee55ba4e57fe28a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d53e12634afaff3f5ee55ba4e57fe28a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9da78a94ed22fdfac5e49255ec735009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9da78a94ed22fdfac5e49255ec735009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f7541e67205ca05d421dd6f81283d7ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f7541e67205ca05d421dd6f81283d7ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1bd8f702f4aa516a9c62733e6483f0c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1bd8f702f4aa516a9c62733e6483f0c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c822897ae5e1fb43693739ea87a9a763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c822897ae5e1fb43693739ea87a9a763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3e6123e98cf8d59c2e9750c127bddbc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3e6123e98cf8d59c2e9750c127bddbc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e20c3e236a094fecf03fa36cc8775cf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e20c3e236a094fecf03fa36cc8775cf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a69369261718905bd4c5b9d4760736ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a69369261718905bd4c5b9d4760736ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7091d864cc5bd3e05780d3a8b8372ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7091d864cc5bd3e05780d3a8b8372ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9d752c868de83ed67d8bbbcd201e4d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9d752c868de83ed67d8bbbcd201e4d22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0.aar/a904a1837758f6bdf9101c1591fba69d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0.aar/a904a1837758f6bdf9101c1591fba69d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dc6f9d6fbe44e1a5ce2d0bd79869e9a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dc6f9d6fbe44e1a5ce2d0bd79869e9a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21f9af64ca03077f0a3fe150c3691557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21f9af64ca03077f0a3fe150c3691557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/da07b0ccbdbc6d37753186f0c22de06c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/da07b0ccbdbc6d37753186f0c22de06c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b7c7f6e3d7360fab2abd02c218b700e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b7c7f6e3d7360fab2abd02c218b700e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a2ac667beba2c2e13f872187a9c13990/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a2ac667beba2c2e13f872187a9c13990/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2af28f1b3f72a82ed5e1582339d5e46a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2af28f1b3f72a82ed5e1582339d5e46a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4dc32cb5b3a41b98765e26799a724e72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4dc32cb5b3a41b98765e26799a724e72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/91917b9a4af078f67cf0e0c0a970c752/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diid4/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/91917b9a4af078f67cf0e0c0a970c752/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1f9f458a59a8e294642927667e32dc68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1f9f458a59a8e294642927667e32dc68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/658376e1a049d151d271c0772f8fbc9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/658376e1a049d151d271c0772f8fbc9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1b733dd3a5743c0d93c39973d03f60b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1b733dd3a5743c0d93c39973d03f60b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f8dc5e78c925739e63607765a4318071/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diid4/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f8dc5e78c925739e63607765a4318071/AndroidManifest.xml:20:5-44
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+		ADDED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
+		INJECTED from /home/diid4/Documentos/netpayVeriBox/VeriBOX_V5_300_Gilbarco/app/pay/src/main/AndroidManifest.xml
